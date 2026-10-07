@@ -1,0 +1,3 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900039082	2019	1	18	97701	3	1	1	route 211, lieu-dit Toiny	17.90001	-62.79846	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+202100029524	2021	6	13	97701	1	2	1	rt211, grand fond	17.89375	-62.80397	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé

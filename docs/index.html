@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bilan des mobilités douces communal</title>
+<meta name="description" content="Tapez le nom d'une commune : carte, bilan chiffré et actions priorisées sur le réseau cyclable, le stationnement vélo, les accidents de piétons et de cyclistes, la desserte des écoles et des gares.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2314213d'/%3E%3Ccircle cx='10' cy='20' r='5' fill='none' stroke='%236da7ec' stroke-width='2.5'/%3E%3Ccircle cx='22' cy='20' r='5' fill='none' stroke='%236da7ec' stroke-width='2.5'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="bandeau">
+  <div class="bandeau-titre">
+    <h1>Bilan des mobilités douces communal</h1>
+    <p>Réseau cyclable et ses coupures, stationnement vélo, accidents de piétons et de cyclistes, abords des écoles et des gares, modes de déplacement : un bilan chiffré et des actions priorisées, pour n'importe quelle commune.</p>
+  </div>
+  <form class="recherche" id="recherche" autocomplete="off" role="search">
+    <label for="champ">Commune</label>
+    <div class="recherche-champ">
+      <input id="champ" type="search" placeholder="Nom ou code postal, par exemple Montreuil" aria-controls="propositions" aria-autocomplete="list">
+      <ul id="propositions" class="propositions" role="listbox" hidden></ul>
+    </div>
+  </form>
+</header>
+
+<main>
+  <section class="accueil" id="accueil">
+    <h2>Choisissez une commune</h2>
+    <p>L'outil interroge OpenStreetMap au moment de la demande et le croise avec les accidents recensés par les forces de l'ordre (2019-2024), les établissements scolaires, le recensement et les carreaux de population de l'INSEE. Comptez dix à quarante secondes ; la comparaison avec le réseau de 2020 arrive ensuite.</p>
+    <p class="exemples">Exemples :
+      <a href="#92024">Clichy</a>
+      <a href="#93048">Montreuil</a>
+      <a href="#94080">Vincennes</a>
+      <a href="#92040">Issy-les-Moulineaux</a>
+      <a href="#93066">Saint-Denis</a>
+      <a href="#78190">Croissy-sur-Seine</a>
+      <a href="#35238">Rennes</a>
+    </p>
+  </section>
+
+  <section class="resultat" id="resultat" hidden>
+    <div class="colonne-carte">
+      <div class="carte-outils" id="carte-outils">
+        <fieldset>
+          <legend>Réseau</legend>
+          <label><input type="checkbox" id="voir-reseau" checked> Aménagements cyclables</label>
+          <label><input type="checkbox" id="voir-apaise"> Rues apaisées</label>
+          <label><input type="checkbox" id="voir-coupures" checked> Coupures</label>
+        </fieldset>
+        <fieldset>
+          <legend>Accidents</legend>
+          <label><input type="checkbox" id="voir-pieton"> Piétons</label>
+          <label><input type="checkbox" id="voir-velo"> Vélos</label>
+          <label><input type="checkbox" id="voir-edp"> Trottinettes</label>
+          <label><input type="checkbox" id="voir-concentrations" checked> Points de concentration</label>
+        </fieldset>
+        <fieldset>
+          <legend>Lieux</legend>
+          <label><input type="checkbox" id="voir-ecoles" checked> Écoles</label>
+          <label><input type="checkbox" id="voir-gares" checked> Gares et stations</label>
+          <label><input type="checkbox" id="voir-arceaux"> Stationnement vélo</label>
+        </fieldset>
+      </div>
+      <div id="carte" class="carte"></div>
+      <div class="legende" id="legende"></div>
+    </div>
+
+    <article class="fiche" id="fiche">
+      <div class="etat" id="etat" aria-live="polite"></div>
+      <div id="fiche-contenu"></div>
+    </article>
+  </section>
+</main>
+
+<footer class="pied">
+  <p>Sources : contributeurs OpenStreetMap (réseau, stationnement, arrêts ; licence ODbL) ; ONISR, bases annuelles des accidents corporels de la circulation 2019-2024 ; INSEE, recensement 2022 et 2016, Base permanente des équipements 2025, Filosofi 2019 au carreau de 200 m ; contours et recherche : API Découpage administratif ; fond de carte : IGN.</p>
+</footer>
+
+<script src="vendor/leaflet.js"></script>
+<script src="vendor/proj4.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

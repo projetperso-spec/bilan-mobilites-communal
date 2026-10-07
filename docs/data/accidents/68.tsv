@@ -1,0 +1,675 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900000188	2019	2	15	68375	1	1	1	RD2 intersection rue d'ensisheim	47.81646	7.2676	0	1	0	1	0	0	blessé léger	voiture
+201900000615	2019	11	13	68374	1	2	1	1 Rue du Logelbach	48.07367	7.29099	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900001667	2019	6	23	68156	3	1	1	D3B3	47.91025	7.25762	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900001669	2019	6	13	68112	1	2	1	Rue de l'Église	47.91064	7.21062	1	0	0	1	0	0	blessé léger	voiture
+201900001740	2019	8	15	68162	1	1	1	RD 1 Bis - Sigolsheim	48.13736	7.32272	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900001974	2019	11	10	68297	1	2	1	BALE ( AVE DE)FRONTIERE	47.57798	7.57115	1	0	0	1	0	0	blessé léger	voiture
+201900002071	2019	11	12	68075	1	1	1	Rue des Coteaux	47.53242	7.33324	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900002312	2019	9	15	68066	1	2	1	9 rue de zurich	48.07308	7.33193	1	0	0	1	0	0	blessé léger	voiture
+201900002992	2019	6	13	68019	1	1	3	CD 468	48.09598	7.53349	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+201900003077	2019	6	07	68300	1	2	6	Rue de la Fabrique	47.77966	7.36508	0	0	1	1	0	0	blessé léger	voiture
+201900003371	2019	8	16	68193	1	1	1	route du petit ballon	47.99246	7.13031	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900003619	2019	11	13	68224	1	2	1	KOECHLIN (RUE)	47.75437	7.33347	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900003781	2019	9	13	68224	1	2	1	KINGERSHEIM (RUE DE)	47.77683	7.32873	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900003857	2019	10	00	68256	3	1	1	N/A	47.7555	7.29796	1	0	0	1	1	0	tué	autre
+201900004033	2019	9	16	68289	1	2	1	Rue de la Chapelle	47.82611	7.35046	1	0	0	1	0	0	blessé léger	voiture
+201900004707	2019	3	16	68066	1	2	9	152EME REGIMENT D'INFANTERIE(RUE DU)	48.09356	7.35854	1	0	0	0	0	0	indemne	deux-roues motorisé
+201900004893	2019	10	16	68253	1	1	1	Chemin agricole	47.77721	7.50557	0	1	0	1	1	0	tué	aucun autre véhicule
+201900005025	2019	6	07	68290	1	1	1	Route départementale 18 Bis	47.94306	7.44672	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900005026	2019	6	18	68140	1	2	1	RD 2 - rue de Rustenhart	47.91474	7.44538	0	1	0	1	0	0	blessé léger	voiture
+201900005030	2019	6	18	68191	1	2	2	14 Rue de l'École	47.65443	7.28754	0	0	1	1	0	0	blessé léger	voiture
+201900005033	2019	6	10	68338	1	1	1	Route des 3 Épis	48.09061	7.23752	0	1	0	1	0	0	blessé léger	voiture
+201900005034	2019	6	10	68374	1	1	3	Saint-Gilles	48.0739	7.26087	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+201900005035	2019	5	14	68374	1	2	1	24 Route de Colmar	48.06831	7.30599	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900005335	2019	11	17	68195	5	2	3	1 Rue Chateaubriand	47.75847	7.28643	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900005790	2019	7	15	68094	1	2	4	Rue de hesingue	47.55187	7.44915	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+201900007188	2019	10	11	68066	1	2	2	FRIBOURG (AVENUE DE)	48.0695	7.36046	1	0	0	2	0	1	blessé hospitalisé	voiture
+201900007606	2019	12	17	68224	2	2	2	ORAN (QUAI D')	47.7385	7.3347	1	0	0	1	0	0	blessé léger	voiture
+201900007932	2019	2	16	68068	1	2	1	rue de belfort 23	47.6311	7.11327	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900008591	2019	6	21	68375	2	2	1	2 Allée de la doller	47.81364	7.2396	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900008679	2019	6	15	68118	1	2	1	Avenue du Général de Gaulle	47.72923	7.41796	1	0	0	1	0	0	blessé léger	voiture
+201900009150	2019	7	12	68066	1	2	9	REY (AVENUE JOSEPH)	48.09573	7.37776	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900011244	2019	12	17	68066	5	2	3	SCHWENDI (RUE)	48.07529	7.36312	1	0	0	2	0	1	blessé hospitalisé	voiture
+201900011720	2019	3	10	68224	1	2	1	FRANKLIN (RUE)	47.76066	7.33261	1	0	0	1	0	0	blessé léger	voiture
+201900012381	2019	8	19	68351	2	1	6	Rond point D415 - D52	48.01695	7.57185	0	1	0	1	1	0	tué	aucun autre véhicule
+201900012690	2019	7	18	68082	1	2	4	16 Rue du 6 Fevrier	47.87143	7.35183	0	1	0	1	0	0	blessé léger	voiture
+201900012691	2019	7	08	68258	1	2	1	Rue d'Ensisheim	47.83668	7.30611	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900013040	2019	12	07	68068	2	2	1	13 rue de CERNAY	47.63164	7.12067	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900014134	2019	8	18	68066	1	2	2	POINCARE (AVENUE RAYMOND)	48.07135	7.34976	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900015291	2019	9	09	68149	1	2	1	ABATTOIR ( RUE DE )	47.59219	7.58616	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900016067	2019	8	12	68278	1	2	1	87 Rue Wilson	47.75141	7.39026	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900016133	2019	7	10	68150	1	1	1	Route des Cinq Châteaux	48.04047	7.26904	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900017162	2019	9	17	68384	1	2	2	1 Rue de Flaxlanden	47.69816	7.30548	0	1	0	1	0	0	blessé léger	voiture
+201900017673	2019	8	10	68063	1	1	1	voie verte	47.80653	7.20036	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900017674	2019	8	10	68296	1	1	1	d48.1	48.25909	7.3004	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900017934	2019	7	10	68046	1	1	1	rd 14 b4	47.80167	7.03731	0	1	0	1	1	0	tué	aucun autre véhicule
+201900019011	2019	9	16	68315	1	2	1	Rue du Vieil Armand	47.8817	7.22912	1	0	0	1	0	0	blessé léger	voiture
+201900019222	2019	10	15	68005	1	1	1	Ammerschwihr	48.1154	7.23799	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900019604	2019	6	09	68178	1	1	1	RD 430	47.94008	7.14849	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900019619	2019	6	09	68384	1	2	1	Chm de Galgen	47.67054	7.31815	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900020238	2019	2	06	68253	5	1	3	route départementale 52	47.78958	7.52203	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+201900020492	2019	12	14	68320	1	2	2	Rue de Thann (Spechbach-le-Bas)	47.68003	7.21745	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+201900021211	2019	4	19	68066	2	2	1	LADHOF (RUE DU)	48.08223	7.36489	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900021945	2019	3	16	68118	1	2	1	97 rue du général de Gaulle	47.72902	7.4166	1	0	0	1	0	0	blessé léger	voiture
+201900022270	2019	12	09	68224	1	2	1	COLMAR (AVENUE DE)	47.75076	7.33849	1	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900022990	2019	4	13	68066	1	2	1	NORD (RUE DU)	48.08107	7.35891	1	0	0	3	0	0	blessé léger	voiture
+201900023220	2019	6	23	68066	5	2	9	CAVALERIE (RUE DE LA)	48.08201	7.36055	1	0	0	1	0	0	blessé léger	voiture
+201900023223	2019	6	15	68066	1	2	2	INGERSHEIM (ROUTE D')	48.08457	7.34231	0	1	0	1	1	0	tué	poids lourd
+201900023224	2019	6	07	68066	1	2	6	CURIE (RUE)	48.10728	7.37611	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900023772	2019	11	11	68355	1	2	1	14 Rue du Maréchal Joffre	47.55057	7.31797	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900023951	2019	1	15	68154	1	2	6	Rue du repos	47.76378	7.34758	0	1	0	1	0	0	blessé léger	voiture
+201900024140	2019	10	16	68068	1	2	1	rue de cernay	47.63132	7.12021	1	0	0	1	0	0	blessé léger	voiture
+201900024463	2019	12	11	68201	1	2	1	4 Rue du Général de Gaulle	47.77269	7.0017	1	0	0	1	1	0	tué	utilitaire
+201900025353	2019	3	16	68195	1	1	1	A36 PK 00+000	47.74732	7.27622	1	0	0	1	1	0	tué	voiture
+201900025385	2019	3	17	68271	2	2	1	MULHOUSE (RUE DE)	47.7461	7.35872	1	0	0	1	0	0	blessé léger	voiture
+201900025397	2019	5	09	68297	1	2	3	TEMPLE ( RUE DU )	47.58748	7.56303	1	0	0	1	0	0	blessé léger	voiture
+201900025398	2019	5	09	68224	1	2	2	ALLIES (BOULEVARD DES)	47.75651	7.34401	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900025399	2019	4	19	68066	1	2	1	SCHUMANN (RUE)	48.08134	7.33176	0	1	0	1	0	0	blessé léger	voiture
+201900025400	2019	4	19	68066	1	2	6	JOFFRE (AVENUE)	48.07213	7.35345	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900025766	2019	12	16	68297	5	2	1	STRASBOURG ( RUE DE )	47.61894	7.53174	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900025982	2019	10	08	68154	1	2	1	77 Rue des Vosges	47.77866	7.35012	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900027143	2019	3	09	68066	1	2	1	LADHOF (RUE DU)	48.10686	7.3792	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+201900027369	2019	10	15	68155	1	2	1	6 Route d'Eguisheim	48.09255	7.30692	0	0	1	1	0	0	blessé léger	utilitaire
+201900027456	2019	11	20	68066	3	1	1	CD4	48.10822	7.39478	0	1	0	1	0	0	blessé léger	voiture
+201900027906	2019	1	21	68066	5	2	2	INGERSHEIM (ROUTE D')	48.08655	7.33142	0	1	0	1	1	0	tué	voiture
+201900027907	2019	1	07	68066	5	2	9	LANDWASSER (RUE DU)	48.07215	7.36693	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900031155	2019	11	17	68162	2	1	2	CD1bis/CD11I/CD28	48.13474	7.29038	0	1	0	1	0	0	blessé léger	voiture
+201900031165	2019	11	14	68088	1	1	6	route départementale D429	47.84806	7.27889	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900032540	2019	7	19	68372	1	2	1	R de la Grande Armée	47.84356	7.07066	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900033590	2019	1	21	68149	5	2	3	ABBATUCCI ( RUE ET PLACE )	47.59368	7.58111	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900034190	2019	4	17	68066	1	2	9	ROUFFACH (ROUTE DE)	48.0657	7.342	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+201900034319	2019	7	17	68267	1	1	4	Rue d'Oelenberg	47.74734	7.21318	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900034679	2019	12	10	68249	1	2	4	8 Rue du Busset	48.12619	7.16489	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900034680	2019	12	10	68277	1	2	2	Chemin des Vignes	48.16576	7.29447	1	0	0	1	0	0	blessé léger	voiture
+201900034692	2019	12	17	68068	5	2	1	13 Rue de Bâle	47.62973	7.11977	1	0	0	1	0	0	blessé léger	voiture
+201900035630	2019	5	17	68066	1	2	1	ROME (AVENUE DE)	48.07447	7.33382	0	1	0	1	0	0	blessé léger	voiture
+201900035784	2019	2	15	68066	1	2	1	UNTERLINDEN (RUE D')	48.08057	7.35427	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900035916	2019	4	11	68112	1	2	9	Rue de la Lauch	47.90305	7.23042	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900036148	2019	7	13	68066	1	2	1	BRASSERIES (RUE DES)	48.08299	7.36084	1	0	0	1	1	0	tué	poids lourd
+201900036950	2019	10	20	68082	3	1	1	route départementale 20	47.84246	7.34429	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900037067	2019	10	12	68224	1	2	2	ROOSEVELT (BOULEVARD DU PRESIDENT)	47.75247	7.32863	0	1	0	1	0	0	blessé léger	voiture
+201900037861	2019	7	11	68142	1	1	1	D5 B1	48.07457	7.13511	0	1	0	0	0	0	indemne	deux-roues motorisé
+201900037956	2019	7	23	68365	5	2	1	Route d'Eguisheim	48.05934	7.30617	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900038949	2019	1	07	68175	2	2	1	3 Rue de l'Europe	48.14665	7.18744	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900039912	2019	12	11	68066	1	2	2	RAPP (RUE)	48.08173	7.36043	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900040843	2019	10	20	68036	3	1	1	RD52	48.05059	7.5561	0	1	0	1	0	0	blessé léger	voiture
+201900041294	2019	8	19	68295	2	1	1	Route de Herrlisheim	48.0157	7.35351	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900042413	2019	3	12	68222	1	1	1	Départementale 473	47.5279	7.41358	0	1	0	2	0	1	blessé hospitalisé	aucun autre véhicule
+201900042728	2019	1	19	68066	5	2	7	LATTRE DE TASSIGNY (PLACE JEAN DE)	48.07858	7.35187	0	1	0	1	0	0	blessé léger	voiture
+201900043038	2019	8	09	68068	1	2	6	Rue de Belfort	47.63113	7.11525	0	1	0	1	0	0	blessé léger	voiture
+201900043596	2019	12	17	68226	5	2	1	9 Rue du 9e Zouaves	48.04206	7.13104	1	0	0	1	0	0	blessé léger	voiture
+201900044232	2019	11	05	68348	5	2	2	42 Route de Mulhouse	47.80468	7.11948	1	0	0	1	0	0	blessé léger	voiture
+201900044865	2019	8	10	68344	1	1	1	route nationale 66	47.88198	6.92167	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+201900044866	2019	8	17	68063	1	2	1	41 A Avenue Charles de Gaulle	47.80058	7.18236	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900045286	2019	7	09	68030	1	1	9	CHEMIN VITICOLE	47.92746	7.23265	0	1	0	1	1	0	tué	voiture
+201900046000	2019	2	10	68297	1	2	1	MULHOUSE ( RUE)CITE BOURGLIBRE JUSQUE RU	47.59701	7.55278	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900046254	2019	1	07	68224	3	2	1	JUIN (AVENUE ALPHONSE)	47.75538	7.3511	1	0	0	1	0	1	blessé hospitalisé	autre
+201900046669	2019	8	18	68050	1	2	1	chemin du ehekammen wald	47.66773	7.0678	1	0	0	1	1	0	tué	poids lourd
+201900046867	2019	4	13	68056	1	2	1	ASHE (rue Arthur)	47.72958	7.32106	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900047359	2019	5	10	68249	1	2	1	48 rue Général de Gaulle	48.12631	7.15993	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+201900047524	2019	6	15	68297	1	2	9	MULHOUSE ( RUE)CITE BOURGLIBRE JUSQUE RU	47.59546	7.55403	0	1	0	1	0	0	blessé léger	voiture
+201900047525	2019	6	17	68297	1	2	3	BALLON ( RUE DU )	47.58465	7.56106	0	0	1	2	0	0	blessé léger	voiture
+201900047526	2019	6	07	68297	1	2	1	BACHMANN ( RUE THEO )	47.58596	7.56143	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+201900047527	2019	5	15	68149	1	2	1	HUNINGUE ( RUE DE )	47.58885	7.57116	0	1	0	1	0	0	blessé léger	voiture
+201900047528	2019	6	12	68224	1	2	3	SOULTZ (RUE DE)	47.76962	7.32107	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900047530	2019	5	19	68224	1	2	1	KATZ (ALLEE NATHAN)	47.75789	7.35229	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+201900047531	2019	6	20	68066	1	2	1	ROUFFACH (ROUTE DE)	48.06204	7.33844	0	1	0	1	0	0	blessé léger	voiture
+201900047864	2019	11	16	68042	2	2	3	Rue du Rhin	47.6027	7.50187	0	0	1	2	0	0	blessé léger	aucun autre véhicule
+201900047888	2019	11	08	68296	1	1	2	D1b1	48.22589	7.38699	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900048383	2019	9	14	68026	1	2	1	RD4 - Bennwhr Gare	48.13099	7.3564	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900049199	2019	12	08	68224	1	2	1	SCHWARTZ (RUE HENRI)	47.73805	7.29528	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900049830	2019	10	19	68155	5	2	9	Route de Turckheim	48.09239	7.30095	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900050330	2019	8	11	68126	1	1	3	Rue de Bourgfelden	47.56565	7.53423	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900050398	2019	8	18	68118	1	2	1	76 Rue du Général de Gaulle	47.73004	7.41651	0	1	0	1	0	0	blessé léger	utilitaire
+201900050663	2019	7	15	68082	1	2	3	RD 2	47.86503	7.34532	0	1	0	1	0	0	blessé léger	voiture
+201900050686	2019	3	18	68224	1	2	1	FRANKLIN (RUE)	47.75097	7.33167	1	0	0	1	0	0	blessé léger	voiture
+201900050860	2019	4	15	68374	1	2	3	Rue Acker	48.08822	7.31619	0	1	0	1	0	0	blessé léger	voiture
+201900052679	2019	12	19	68224	5	2	1	PFASTATT (RUE DE)	47.75299	7.31556	1	0	0	2	0	1	blessé hospitalisé	utilitaire
+201900052723	2019	12	17	68224	5	2	1	KATZ (ALLEE NATHAN)	47.7536	7.34829	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900053189	2019	2	18	68163	3	2	1	4 rue de Habsheim	47.69084	7.50263	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900054124	2019	7	10	68300	1	2	1	25 Roue Départemetale 201	47.7879	7.38813	1	0	0	3	0	0	blessé léger	voiture
+201900055670	2019	9	14	68315	1	2	1	35 rue du fossé	47.88542	7.22755	0	1	0	1	0	0	blessé léger	voiture
+201900055686	2019	7	17	68115	1	2	3	rue de soppe	47.7491	7.09254	0	1	0	1	0	0	blessé léger	voiture
+201900055801	2019	7	19	68223	1	2	3	Rue Gaessle	48.02673	7.08676	0	1	0	1	0	0	blessé léger	voiture
+201900055802	2019	7	11	68226	1	2	1	Grand rue	48.0412	7.13621	1	0	0	3	0	1	blessé hospitalisé	utilitaire
+201900056055	2019	8	10	68066	1	2	1	ST PIERRE (BOULEVARD)	48.07267	7.35627	1	0	0	2	0	0	blessé léger	voiture
+201900056512	2019	12	07	68004	1	2	6	Rue des Alliés	47.62573	7.24016	1	0	0	1	0	0	blessé léger	voiture
+201900057510	2019	10	10	68090	1	2	1	18 Rue de la 1ère Armée	47.49888	7.30839	1	0	0	1	0	0	blessé léger	utilitaire
+201900057843	2019	5	15	68051	1	2	1	1 Rue de Muhlbach	48.02399	7.09988	0	1	0	1	0	0	blessé léger	voiture
+201900058686	2019	12	07	68231	5	2	7	Place d'Armes Général de Gaulle	48.0174	7.52873	1	0	0	1	0	0	blessé léger	voiture
+202000000055	2020	3	14	68042	1	2	6	Rue du 19 Novembre	47.60772	7.50316	1	0	0	2	0	1	blessé hospitalisé	voiture
+202000000274	2020	9	19	68278	1	2	1	17 Rue du Docteur Albert Schweitzer	47.75359	7.38306	1	0	0	1	0	0	blessé léger	voiture
+202000000431	2020	6	18	68224	1	2	3	HOFER (RUE JOSUE)	47.76156	7.32528	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000000432	2020	6	12	68066	1	2	1	Rue de la 1ère Armée Française	48.08697	7.35857	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000000553	2020	10	15	68300	1	2	6	D422	47.78498	7.36774	0	1	0	1	0	0	blessé léger	voiture
+202000000618	2020	8	13	68154	1	2	9	70 Rue de Mulhouse	47.77007	7.34715	0	0	1	1	0	0	blessé léger	voiture
+202000001768	2020	6	15	68066	1	2	9	Rue de la Semm	48.06912	7.37025	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000002135	2020	8	15	68315	1	1	1	D431	47.89146	7.11279	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202000002615	2020	12	17	68224	5	2	3	Rue des Vallons	47.73002	7.32911	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202000003264	2020	9	17	68297	1	2	1	Rue de Huningue	47.58	7.56	1	0	0	1	0	0	blessé léger	voiture
+202000003701	2020	2	10	68063	1	2	2	6 Rue Georges Risler	47.80905	7.17238	0	1	0	1	0	0	blessé léger	voiture
+202000004564	2020	8	10	68224	1	2	2	ROMAINS (RUE DES)	47.7734	7.3212	1	0	0	1	0	0	blessé léger	voiture
+202000005144	2020	1	12	68376	1	2	1	REPUBLIQUE (ESPACE DE LA )	47.80553	7.3359	0	1	0	1	0	0	blessé léger	voiture
+202000005539	2020	1	10	68066	1	2	9	BALE ( ROUTE DE)	48.07032	7.36058	1	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000006110	2020	10	07	68055	4	2	2	85 Rue Principale	47.69368	7.36134	1	0	0	1	0	0	blessé léger	utilitaire
+202000006309	2020	8	16	68297	5	2	2	HESINGUE ( RUE )	47.60902	7.5334	0	0	1	1	0	1	blessé hospitalisé	voiture
+202000006363	2020	12	13	68066	1	2	1	POINCARE (AVENUE RAYMOND)	48.07132	7.34976	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000006824	2020	5	10	68252	1	1	3	Route de Ribeauvillé	48.16422	7.36669	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000007513	2020	6	18	68066	1	2	9	CLEFS (RUE DES)	48.07885	7.359	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000007798	2020	7	15	68297	1	2	6	GARE ( RUE DE LA )	47.59124	7.55733	1	0	0	2	0	0	blessé léger	voiture
+202000009776	2020	6	09	68224	1	2	1	NEPPERT (RUE)	47.7545	7.33836	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000010080	2020	8	18	68297	1	2	1	HUNINGUE ( RUE DE )	47.58756	7.56739	0	1	0	1	0	0	blessé léger	voiture
+202000010576	2020	11	16	68349	1	2	1	20 rue des Alliés	47.60952	7.56328	0	0	1	1	0	0	blessé léger	voiture
+202000011018	2020	1	07	68145	5	2	4	5 Grand'Rue	48.08118	7.3882	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000011236	2020	9	17	68066	1	2	9	HENNER (RUE)	48.06797	7.34833	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000012152	2020	12	18	68173	3	2	1	376 B La Place	48.10567	7.19235	1	0	0	1	0	0	blessé léger	voiture
+202000012515	2020	11	12	68066	1	2	1	REY (AVENUE JOSEPH)	48.09457	7.36423	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000013526	2020	6	18	68224	1	2	1	Rue de Thann	47.74956	7.3065	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000013527	2020	6	17	68224	1	2	3	KINGERSHEIM (RUE DE)	47.76533	7.32515	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202000014050	2020	10	16	68375	1	2	1	19 Rue de Reiningue	47.80474	7.2376	0	1	0	1	0	0	blessé léger	voiture
+202000014377	2020	11	06	68297	5	2	1	HUNINGUE ( RUE DE )	47.58602	7.56105	0	1	0	1	0	0	blessé léger	voiture
+202000014490	2020	5	15	68208	1	2	1	15 Rue de la Liberté	47.56476	7.44111	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000015353	2020	9	09	68135	1	1	6	D105	47.57278	7.50059	0	1	0	0	0	0	indemne	deux-roues motorisé
+202000016212	2020	11	21	68149	5	2	4	Rue des Vosges	47.59196	7.58272	0	0	1	1	0	0	blessé léger	voiture
+202000017483	2020	6	19	68040	1	1	1	Rue Joffre	47.82128	7.0749	0	1	0	1	1	0	tué	aucun autre véhicule
+202000017610	2020	8	18	68012	1	1	1	Rte	47.78688	7.13122	0	1	0	1	0	0	blessé léger	voiture
+202000017675	2020	8	17	68376	1	2	1	Rue de l’Ill	47.8022	7.3403	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000017829	2020	10	16	68259	1	1	3	Route de Kiffis	47.46724	7.34737	0	1	0	1	0	0	blessé léger	voiture
+202000018193	2020	11	14	68370	1	1	1	rue rhin et danube	47.98227	6.95792	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000018399	2020	4	16	68201	1	2	3	10 Rue du Général de Gaulle	47.77363	7.0002	1	0	0	1	0	0	blessé léger	voiture
+202000019165	2020	9	16	68162	1	1	3	chemin communal du fechtweg	48.12901	7.31427	0	1	0	1	0	0	blessé léger	poids lourd
+202000019449	2020	8	15	68307	1	1	1	D466	47.81605	6.86595	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+202000019487	2020	10	17	68149	1	2	1	CONCORDE ( RUE DE LA )	47.59361	7.57537	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000019720	2020	10	11	68278	1	2	1	38 rue albert schweitzer	47.75481	7.38425	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000019865	2020	12	15	68063	1	2	1	14 Faubourg de Belfort	47.79637	7.17256	1	0	0	1	0	0	blessé léger	voiture
+202000019998	2020	12	17	68374	5	2	1	22 Rue Herzog	48.08535	7.31133	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000020655	2020	7	11	68300	1	1	1	Rue de la Digue	47.79696	7.3627	0	1	0	1	1	0	tué	voiture
+202000020737	2020	7	10	68224	1	2	1	BOUCHERS (RUE DES)	47.74715	7.33743	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202000021024	2020	9	20	68297	2	2	2	Rue de la Paix	47.58391	7.57103	0	1	0	1	0	0	blessé léger	voiture
+202000021501	2020	8	11	68001	1	1	2	Rue de l'Oberhardt	48.00272	7.55128	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000022192	2020	4	19	68278	1	2	1	22 Rue de Belgique	47.74691	7.41339	0	0	1	1	0	1	blessé hospitalisé	voiture
+202000022493	2020	1	17	68249	3	2	4	12 Rue du Faude	48.1276	7.16329	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000022972	2020	9	19	68056	1	2	3	Rue de la Libération	47.71884	7.30998	0	1	0	1	1	0	tué	voiture
+202000022973	2020	9	08	68066	1	2	9	WIMPFELING (RUE)	48.06863	7.3345	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000023067	2020	9	17	68058	1	1	9	D430	47.92366	7.19727	0	1	0	1	0	0	blessé léger	voiture
+202000024519	2020	7	08	68286	1	2	1	3 Rue du Moulin	47.63954	7.53463	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000024828	2020	9	17	68118	1	2	3	2 Rue du Vorbourg	47.73156	7.41683	0	1	0	1	0	0	blessé léger	voiture
+202000024838	2020	9	11	68117	1	2	1	9 Rue du Docteur Albert Schweitzer	48.04726	7.17679	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000025711	2020	10	17	68043	1	2	1	17 Rue des Rossignols	47.85004	7.26277	1	0	0	2	0	2	blessé hospitalisé	voiture
+202000026437	2020	7	17	68258	1	2	1	1 Impasse des Trois Roses	47.83932	7.31115	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000026777	2020	9	07	68269	1	2	1	6 Rue Pierre de Coubertin	48.19322	7.33267	1	0	0	1	0	0	blessé léger	voiture
+202000028370	2020	7	09	68374	1	2	1	12 Rue Herzog	48.08643	7.31481	1	0	0	1	0	0	blessé léger	voiture
+202000028557	2020	2	19	68066	5	2	1	RUE DIENER ( MARCO)	48.0824	7.33111	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000029354	2020	10	18	68066	2	2	2	Route d’Ingersheim	48.08268	7.35179	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000029494	2020	5	08	68059	1	2	1	18 Rue de Cernay	47.72304	7.1547	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000029647	2020	6	08	68066	1	2	9	NEUF BRISACH (ROUTE DE)	48.08006	7.36864	1	0	0	1	0	0	blessé léger	voiture
+202000029760	2020	10	20	68185	5	2	2	17 Rue Clémenceau	48.27086	7.28121	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000030288	2020	7	18	68278	1	2	1	29D rue de mulhouse	47.74777	7.39912	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000030792	2020	9	07	68066	1	2	1	LASCH (RUE GEORGES)	48.07376	7.34852	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000030928	2020	9	09	68201	1	1	3	D110	47.74988	7.00101	0	1	0	1	0	0	blessé léger	voiture
+202000031027	2020	11	16	68163	1	2	1	Rue de l''Europe	47.67283	7.49845	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202000031244	2020	5	18	68065	1	1	1	D32	47.63727	7.02456	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000031297	2020	8	15	68247	1	2	1	51 Grand'Rue	47.90949	6.9755	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000031524	2020	6	20	68253	2	1	1	D52	47.77486	7.51703	0	1	0	1	0	0	blessé léger	voiture
+202000031835	2020	12	07	68297	2	2	1	HURST ( RUE )	47.58602	7.56105	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000031878	2020	12	12	68253	1	1	1	D52	47.80402	7.53286	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000032287	2020	7	12	68343	1	1	1	Chemin Rural	47.86975	7.30231	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000032382	2020	3	09	68023	1	1	3	D3	48.16111	7.34115	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000033072	2020	8	13	68224	1	2	1	ORPHELINS (RUE DES)	47.74994	7.33692	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202000033337	2020	8	04	68300	3	1	1	D201	47.77597	7.38922	1	0	0	0	0	0	indemne	poids lourd
+202000033483	2020	7	11	68066	1	2	1	FECHT (RUE DE LA)	48.08377	7.34735	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202000033515	2020	5	20	68368	1	2	1	16 Rue des Jardins	48.04891	7.20206	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000033806	2020	12	13	68063	1	2	1	Faubourg de Colmar	47.81194	7.18895	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000035112	2020	9	13	68300	1	2	3	2 Rue de l'Aquitaine	47.77687	7.39004	0	1	0	1	0	0	blessé léger	voiture
+202000035190	2020	5	22	68374	3	2	1	10 Rue des Prés	48.07447	7.28697	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000035202	2020	9	16	68154	1	2	4	44 Rue de Riedisheim	47.76151	7.36414	1	0	0	1	0	0	blessé léger	utilitaire
+202000036724	2020	2	10	68066	1	2	1	LOGELBACH ( RUE DU)	48.082	7.34786	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000037216	2020	7	18	68112	1	2	1	Route d'Issenheim	47.90197	7.23231	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202000037450	2020	12	20	68224	5	2	3	BAN (RUE DU)	47.77684	7.31942	0	1	0	1	0	0	blessé léger	voiture
+202000037459	2020	12	14	68224	1	2	1	ILLBERG (RUE DE L')	47.7403	7.32041	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+202000037971	2020	7	18	68207	1	2	1	4 Rue de Lubbon	47.59281	7.46524	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000038069	2020	6	06	68278	2	2	1	N/A	47.75091	7.38415	0	0	1	1	1	0	tué	aucun autre véhicule
+202000038662	2020	1	10	68166	1	2	6	RICHWILLER (RUE DE)	47.7892	7.31517	0	1	0	1	0	0	blessé léger	voiture
+202000040202	2020	3	14	68012	1	2	1	34 Grand Rue	47.77457	7.1293	0	0	1	1	0	1	blessé hospitalisé	voiture
+202000040328	2020	8	09	68277	1	2	1	5 Route de Colmar	48.16423	7.3058	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000040567	2020	12	15	68349	1	2	1	Boulevard d'Alsace	47.61176	7.57475	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202000040976	2020	9	10	68256	1	2	1	RICHWILLER (RUE DE)	47.77451	7.29464	1	0	0	1	1	0	tué	voiture
+202000042773	2020	9	18	68082	2	2	9	Rue de Pulversheim	47.85917	7.34104	0	1	0	1	0	0	blessé léger	voiture
+202000043226	2020	6	17	68112	1	2	1	6 Rue Joseph Schmitt	47.9093	7.2123	1	0	0	1	0	0	blessé léger	voiture
+202000043314	2020	5	08	68020	1	2	6	Rue de Mulhouse	47.81385	7.50594	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000043917	2020	9	10	68224	1	2	1	GALFINGUE (RUE DE)	47.74442	7.32561	1	0	0	1	1	0	tué	poids lourd
+202000044063	2020	9	14	68106	1	1	1	D431	47.88998	7.11339	0	1	0	1	1	0	tué	aucun autre véhicule
+202000044556	2020	2	07	68226	2	2	1	5 Rue Sébastopol	48.03997	7.13508	1	0	0	1	0	0	blessé léger	voiture
+202000045418	2020	5	12	68298	1	2	3	Rue de Lattre de Tassigny	48.24685	7.18508	1	0	0	1	0	0	blessé léger	voiture
+202000046053	2020	3	11	68104	1	1	1	RD 52	47.99276	7.60532	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000046637	2020	8	02	68154	5	2	1	5 Rue de Mulhouse	47.77968	7.34757	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100000006	2021	11	11	68004	1	2	3	Rue Charles Edouard Amiot	47.61424	7.23434	0	1	0	1	0	0	blessé léger	voiture
+202100000427	2021	11	11	68066	1	2	1	BERNE (RUE DE)	48.0713	7.32956	1	0	0	1	0	0	blessé léger	voiture
+202100000669	2021	12	11	68007	1	1	1	Rd 415	48.05899	7.42903	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100000821	2021	12	18	68224	5	2	1	STOESSEL (BOULEVARD CHARLES)	47.74319	7.32499	1	0	0	2	0	1	blessé hospitalisé	voiture
+202100000992	2021	12	12	68374	1	2	1	STANISLAS (RUE)	48.07923	7.32056	1	0	0	1	1	0	tué	voiture
+202100001173	2021	12	20	68066	5	2	1	POUDRIERE (RUE DE LA)	48.08544	7.33087	1	0	0	1	1	0	tué	voiture
+202100001307	2021	12	11	68269	1	2	1	18 grand'rue	48.19374	7.32276	1	0	0	1	0	0	blessé léger	utilitaire
+202100001546	2021	12	10	68278	1	2	3	2 Rue Zuber	47.74509	7.39942	1	0	0	1	0	0	blessé léger	voiture
+202100002185	2021	12	17	68068	5	2	1	10 Rue de Bâle	47.62988	7.12006	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100002861	2021	12	16	68278	2	2	3	Avenue du Général de Gaulle	47.74838	7.40462	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100003020	2021	12	21	68154	4	2	9	Rue de Berne	47.77077	7.38677	1	0	0	1	0	0	blessé léger	voiture
+202100003183	2021	12	18	68315	5	2	2	Rue des Archers	47.88884	7.22719	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100003775	2021	12	17	68374	3	1	1	Rue du Logelbach	48.07396	7.29235	1	0	0	1	0	0	blessé léger	voiture
+202100004008	2021	12	06	68166	5	2	6	BEARN (RUE DU)	47.79124	7.32181	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202100004352	2021	12	09	68338	1	2	3	Route des Trois Epis	48.08581	7.27038	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100004886	2021	12	19	68334	5	2	1	Bd Auguste Scheurer Kestner	47.81245	7.09592	1	0	0	1	0	0	blessé léger	voiture
+202100004887	2021	12	17	68269	5	2	1	13 Rue du 3 Décembre	48.19193	7.32221	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100005149	2021	12	11	68155	1	1	1	RD415	48.10512	7.30114	1	0	0	1	1	0	tué	voiture
+202100006143	2021	11	19	68258	5	2	1	34 Rue d Ensisheim	47.83735	7.3071	1	0	0	1	0	0	blessé léger	voiture
+202100006619	2021	10	19	68066	2	2	1	TURENNE (RUE DE)	48.07394	7.35732	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100007381	2021	11	11	68315	1	2	1	Rue de la Marne	47.88831	7.23095	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100007784	2021	11	17	68066	5	2	9	LIBERTE (AVENUE DE LA)	48.07497	7.34451	0	0	1	1	0	0	blessé léger	voiture
+202100007885	2021	10	17	68269	1	2	1	Route de Guémar	48.19185	7.33634	0	1	0	1	0	0	blessé léger	voiture
+202100007899	2021	11	16	68304	1	2	2	1 grande rue	47.75585	7.05673	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100008238	2021	10	18	68224	5	2	1	BRIAND (AVENUE ARISTIDE)	47.74853	7.32425	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100008457	2021	11	14	68224	1	2	3	STOESSEL (BOULEVARD CHARLES)	47.74391	7.32613	0	0	1	1	0	1	blessé hospitalisé	voiture
+202100009368	2021	11	07	68287	2	2	3	4 Rue du Nord	47.96037	7.30576	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100011153	2021	10	17	68192	2	2	3	Rue de Romagny	47.63131	7.05932	0	1	0	1	0	0	blessé léger	voiture
+202100011276	2021	10	09	68195	1	2	7	Rue Théodore Boch	47.76047	7.27767	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100011557	2021	10	17	68066	1	2	2	WILHELM (RUE HENRY)	48.08324	7.35567	1	0	0	1	0	0	blessé léger	voiture
+202100011791	2021	10	16	68224	1	2	1	SINNE (RUE DE LA)	47.744	7.335	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100012119	2021	10	17	68292	1	2	1	12 Rue Rene Biery	47.87091	7.0368	1	0	0	1	0	0	blessé léger	utilitaire
+202100012415	2021	10	17	68066	2	2	1	HASLINGER (PLACE)	48.08206	7.35853	1	0	0	1	0	0	blessé léger	voiture
+202100012572	2021	10	07	68111	2	2	3	7 Rue de Rouffach	48.00291	7.28229	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100012699	2021	10	10	68173	1	2	4	Les Cottis	48.10212	7.19363	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100012827	2021	10	12	68376	1	2	6	SCHWEITZER (RUE DU DR ALBERT)	47.81649	7.32674	0	0	1	1	0	1	blessé hospitalisé	poids lourd
+202100015007	2021	10	07	68066	2	2	6	CARLOVINGIENS (RUE DES)	48.09292	7.35603	1	0	0	1	0	0	blessé léger	voiture
+202100015154	2021	9	08	68300	2	2	6	56 Rue de Mulhouse	47.77955	7.36471	0	0	1	1	0	0	blessé léger	voiture
+202100015414	2021	9	19	68118	1	2	6	D56.2	47.7284	7.42081	0	0	1	1	0	0	blessé léger	voiture
+202100015424	2021	10	21	68334	5	2	1	47 rue curiale	47.81184	7.099	1	0	0	1	0	0	blessé léger	voiture
+202100015892	2021	9	15	68066	1	2	1	FECHT (CHEMIN DE LA)	48.10616	7.34134	1	0	0	1	0	0	blessé léger	poids lourd
+202100016465	2021	9	13	68224	1	2	2	COLMAR (AVENUE DE)	47.75496	7.33644	1	0	0	2	0	2	blessé hospitalisé	voiture
+202100016524	2021	9	10	68066	1	2	2	FRIBOURG (AVENUE DE)	48.06947	7.36058	1	0	0	2	0	0	blessé léger	voiture
+202100016864	2021	9	18	68066	1	2	3	ROUFFACH (ROUTE DE)	48.06697	7.34311	0	1	0	1	0	0	blessé léger	voiture
+202100016865	2021	9	14	68066	1	2	9	PREISS (RUE JACQUES)	48.07666	7.34954	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100017219	2021	9	13	68090	1	2	1	18a Rue de la 1ère Armée	47.49893	7.30822	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100017436	2021	9	13	68066	1	2	6	ALSACE (RUE D')	48.06245	7.36269	0	1	0	1	0	0	blessé léger	voiture
+202100018448	2021	9	22	68300	5	2	1	Rue de Mulhouse	47.78007	7.36508	0	0	1	1	0	0	blessé léger	aucun autre véhicule
+202100018462	2021	9	09	68349	1	2	6	D105	47.59961	7.57699	0	1	0	1	0	0	blessé léger	voiture
+202100018476	2021	9	18	68375	1	2	1	75 Rue de Reiningue	47.79733	7.23161	0	0	1	1	0	1	blessé hospitalisé	voiture
+202100018494	2021	9	14	68334	1	2	1	Rue du Kattenbachy	47.81578	7.10618	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100018678	2021	9	11	68298	1	2	1	56 Rue Saint Louis	48.24474	7.18298	1	0	0	1	0	0	blessé léger	voiture
+202100018844	2021	9	18	68290	1	2	1	Rue des Primevères	47.9441	7.4561	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202100018927	2021	9	18	68066	1	2	2	BRUAT (RUE)	48.07494	7.35084	0	1	0	1	0	0	blessé léger	voiture
+202100020473	2021	5	17	68271	1	2	1	STADE (RUE DU)	47.74721	7.3581	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100020795	2021	9	20	68283	3	1	1	Rue de Pierreusegoutte	48.29047	7.25734	0	1	0	2	0	0	blessé léger	aucun autre véhicule
+202100023333	2021	8	21	68300	5	2	1	Route Départementale 201	47.77471	7.39042	0	0	1	1	0	0	blessé léger	voiture
+202100024436	2021	8	11	68278	1	2	3	11 Avenue du Général de Gaulle	47.74628	7.39945	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100024454	2021	8	15	68106	1	1	1	D431 PK 8.300	47.89149	7.10764	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100024455	2021	8	10	68145	1	2	2	43 grand rue	48.08097	7.39412	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100026193	2021	8	13	68201	1	2	1	17 Route Joffre	47.77622	7.00003	0	1	0	1	1	0	tué	aucun autre véhicule
+202100028377	2021	7	07	68004	2	2	4	1 Rue Charles de Gaulle	47.62227	7.23551	1	0	0	1	0	0	blessé léger	voiture
+202100029024	2021	7	21	68082	5	2	1	26 Faubourg de Belfort	47.8603	7.34377	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202100029487	2021	7	18	68152	1	2	1	Chemin des Vignerons	47.67081	7.27247	0	0	1	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100029646	2021	7	11	68178	1	1	1	D430	47.93754	7.09814	0	1	0	2	0	0	blessé léger	deux-roues motorisé
+202100030166	2021	7	12	68224	1	2	2	GERARDMER (RUE DE)	47.77451	7.31743	0	0	1	1	0	1	blessé hospitalisé	voiture
+202100030480	2021	7	16	68375	1	2	3	75 Rue de Reiningue	47.79747	7.23182	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100031490	2021	6	12	68375	1	2	6	4 rue de Mulhouse	47.80938	7.24008	1	0	0	1	1	0	tué	utilitaire
+202100032364	2021	6	20	68252	1	2	1	1 Rue de la Gare	48.15988	7.36916	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100032844	2021	6	17	68066	1	2	3	ST PIERRE (BOULEVARD)	48.07265	7.35718	0	1	0	1	0	0	blessé léger	voiture
+202100032845	2021	6	10	68066	1	2	1	4IEME BATAILLON DU CHASSEURS A PIED	48.08195	7.35506	0	1	0	1	0	0	blessé léger	voiture
+202100033186	2021	6	19	68376	1	2	1	JONQUILLE (RUE DE LA)	47.79917	7.31115	0	0	1	1	0	0	blessé léger	voiture
+202100034520	2021	6	13	68359	1	1	1	RD 5.3	47.84018	7.16631	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100034521	2021	6	11	68287	1	2	4	Rue de Pfaffenheim	47.96396	7.29355	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100034890	2021	6	16	68171	1	1	1	D27	47.94239	6.97094	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202100034966	2021	6	19	68224	1	2	3	SALENGRO (AVENUE ROGER)	47.75197	7.34893	0	0	1	1	0	1	blessé hospitalisé	voiture
+202100036177	2021	6	21	68342	2	2	9	Rue du Bourg	47.81948	7.17724	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100036978	2021	5	17	68297	1	2	1	FONTAINE ( RUE DE LA )	47.58068	7.55802	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100037373	2021	5	14	68178	1	1	1	D431	47.9057	7.08962	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100037701	2021	5	15	68171	1	1	1	D27	47.94346	6.98009	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100038166	2021	4	09	68297	1	2	3	HUNINGUE ( RUE DE )	47.58657	7.56533	0	0	1	1	0	1	blessé hospitalisé	voiture
+202100038586	2021	5	11	68348	1	2	9	Rue du Poitou	47.80103	7.12473	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100038869	2021	5	15	68066	1	2	9	INGERSHEIM (ROUTE D')	48.08516	7.34414	1	0	0	3	0	0	blessé léger	voiture
+202100038903	2021	5	08	68066	1	2	6	LIBERTE (AVENUE DE LA)	48.07474	7.3443	1	0	0	1	0	0	blessé léger	voiture
+202100039546	2021	5	00	68224	4	2	1	ALLIES (BOULEVARD DES)	47.75465	7.34481	1	0	0	1	0	1	blessé hospitalisé	autre
+202100039547	2021	5	13	68224	1	2	9	BELFORT (RUE DE)	47.7364	7.2916	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100039757	2021	5	10	68375	1	2	3	rue de Mulhouse	47.80846	7.23974	0	1	0	1	0	0	blessé léger	voiture
+202100039813	2021	5	11	68224	1	2	2	BELFORT (RUE DE)	47.73	7.29	0	0	1	1	0	0	blessé léger	voiture
+202100040244	2021	5	18	68300	1	2	7	9 Allée des Alouettes	47.79247	7.38009	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100040324	2021	5	17	68066	1	2	3	TURENNE (RUE DE)	48.07324	7.35957	0	0	1	1	0	1	blessé hospitalisé	utilitaire
+202100040695	2021	5	09	68223	1	2	3	route du Gascnhey	48.02735	7.07933	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100041082	2021	5	13	68149	1	2	2	ST-LOUIS ( RUE DE )	47.59284	7.57752	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100041758	2021	4	16	68056	1	2	1	CAMUS (RUE ALBERT)	47.72849	7.29818	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100042531	2021	4	17	68349	1	2	2	100 Rue du Général de Gaulle	47.6056	7.57118	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100042838	2021	4	10	68297	1	2	2	CHAMPS ( RUE DES )	47.5712	7.5562	0	1	0	1	0	0	blessé léger	voiture
+202100042839	2021	4	16	68066	1	2	1	MULHOUSE (RUE DE)	48.07232	7.34251	1	0	0	1	0	0	blessé léger	voiture
+202100042840	2021	4	14	68066	1	2	1	CHAMP DE MARS (BLD DU)	48.0761	7.35488	1	0	0	2	0	1	blessé hospitalisé	deux-roues motorisé
+202100042943	2021	4	18	68038	1	2	1	grand rue	48.0963	7.43687	0	1	0	1	0	0	blessé léger	voiture
+202100042982	2021	4	17	68334	1	2	2	Bd Auguste Scheurer Kestner	47.8097	7.10213	1	0	0	1	0	0	blessé léger	voiture
+202100043013	2021	3	12	68066	1	2	9	VAL SAINT GREGOIRE (RUE DU)	48.08186	7.34453	1	0	0	1	0	0	blessé léger	voiture
+202100043315	2021	4	18	68224	1	2	9	GAY-LUSSAC (RUE)	47.74377	7.32933	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100043755	2021	1	08	68224	1	2	9	BALE (RUE DE)	47.74854	7.35047	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100043950	2021	4	05	68161	3	1	1	D 415	48.11137	7.2938	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100043977	2021	4	15	68278	1	2	1	25 Rue des Perdrix	47.75123	7.41961	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100044072	2021	4	14	68005	1	2	3	1 Rue des Camélias	48.12887	7.29809	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202100045693	2021	4	15	68118	1	2	3	1 Rue des Noyers	47.73927	7.41653	0	1	0	1	0	0	blessé léger	voiture
+202100045742	2021	3	18	68066	1	2	9	SPECK (CHEMIN DE LA)	48.0645	7.35771	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100046309	2021	3	17	68211	1	2	1	33 Rue Principale	47.87196	7.00643	0	1	0	1	0	0	blessé léger	voiture
+202100046672	2021	3	17	68250	1	2	2	D505	47.93765	7.2324	0	0	1	1	0	0	blessé léger	voiture
+202100048524	2021	3	14	68166	1	2	1	MULHOUSE (FAUBOURG DE)	47.78044	7.3293	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100048602	2021	3	18	68300	2	2	6	Rue de la Fabrique	47.7795	7.365	0	0	1	1	0	0	blessé léger	voiture
+202100048828	2021	3	13	68154	1	2	2	68 Rue de Mulhouse	47.77082	7.34696	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100049194	2021	3	09	68298	1	2	1	79 Rue Wilson	48.24771	7.18696	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100049485	2021	3	14	68224	1	2	3	LOTI (RUE PIERRE)	47.73366	7.30169	0	1	0	1	0	0	blessé léger	utilitaire
+202100049803	2021	2	15	68374	1	1	1	Departemental 417 lieu dit La Forge	48.0611	7.2349	0	1	0	1	0	0	blessé léger	utilitaire
+202100050005	2021	2	14	68066	1	2	6	ALSACE (RUE D')	48.06521	7.36432	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100050513	2021	2	13	68073	1	2	3	11 Rue des Prés (Pont)	47.80541	6.93598	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100051481	2021	2	07	68118	2	2	1	177 Rue du Général de Gaulle	47.71711	7.41948	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100052158	2021	2	17	68112	1	2	1	2 Rue du 4e Rgt Spahis Marocain	47.90532	7.21636	0	0	1	1	0	0	blessé léger	voiture
+202100053788	2021	1	20	68139	3	1	1	D25	47.59832	7.22788	1	0	0	1	0	0	blessé léger	voiture
+202100054291	2021	1	09	68334	1	2	1	14 Rue Saint Thiebaut	47.81178	7.10167	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100054292	2021	1	06	68298	5	2	1	1 Rue de la Resistance 1940 1945	48.24335	7.17797	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100054878	2021	1	13	68066	1	2	2	Rue Billing	48.08342	7.36598	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100055469	2021	1	09	68066	1	2	3	Avenue de la République	48.07628	7.35209	0	0	1	1	0	1	blessé hospitalisé	utilitaire
+202100055639	2021	1	07	68348	2	2	6	Rue Pienoz Kachler	47.80156	7.11732	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200000267	2022	8	21	68224	5	2	3	SCHUMAN (AVENUE ROBERT)	47.75309	7.34398	1	0	0	1	0	0	blessé léger	voiture
+202200001683	2022	5	08	68180	1	2	6	Rue Principale	47.79282	7.10441	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202200002924	2022	8	18	68028	1	1	1	d42	48.21324	7.33838	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202200003331	2022	3	17	68154	1	2	3	Avenue de Belgique	47.76673	7.36477	0	0	1	1	0	0	blessé léger	voiture
+202200003692	2022	12	14	68374	1	2	1	18 Rue des Prés	48.0852	7.30852	0	0	1	1	0	0	blessé léger	utilitaire
+202200003950	2022	3	22	68042	3	1	1	D201	47.59207	7.50475	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200004235	2022	10	04	68224	5	2	1	PFASTATT (RUE DE)	47.74956	7.32096	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200004456	2022	7	09	68374	1	2	1	Rue Herzog	48.08474	7.31324	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200004568	2022	7	10	68173	1	1	4	Labaroche	48.09544	7.20401	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202200004625	2022	7	17	68154	1	2	1	Avenue des Rives de l Ill	47.77686	7.35422	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202200005901	2022	12	16	68155	1	2	1	Allée J.B. Thomann	48.10052	7.31514	1	0	0	2	0	1	blessé hospitalisé	voiture
+202200007075	2022	11	16	68315	1	2	2	rue de la marne	47.88883	7.22734	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202200007091	2022	11	16	68042	1	2	6	Rue du 19 Novembre	47.6079	7.50368	0	1	0	1	0	0	blessé léger	voiture
+202200007887	2022	9	06	68376	2	2	1	SAINT CLOUD (RUE DU)	47.81127	7.337	1	0	0	2	0	1	blessé hospitalisé	voiture
+202200008260	2022	10	21	68224	5	2	1	STOESSEL (BOULEVARD CHARLES)	47.73725	7.31901	0	0	1	1	1	0	tué	voiture
+202200008378	2022	7	10	68090	1	2	1	8 Place Mazarin	47.49387	7.31383	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200008508	2022	2	18	68063	3	2	9	Rue de Wittelsheim	47.8017	7.19524	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200009332	2022	4	14	68026	1	1	4	intersection D4 et D4.1	48.1346	7.34287	0	1	0	1	0	0	blessé léger	voiture
+202200009424	2022	5	17	68152	1	2	4	Rue de la Barrière	47.67154	7.26673	1	0	0	1	0	0	blessé léger	voiture
+202200010224	2022	6	22	68066	3	2	1	KLEBER (RUE DE)	48.07916	7.3544	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200012951	2022	11	10	68145	1	2	1	15 Grand'Rue	48.08129	7.38952	1	0	0	1	1	0	tué	voiture
+202200013026	2022	3	19	68271	3	2	1	DOLLFUS (AVENUE GUSTAVE)	47.75004	7.36165	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202200013218	2022	3	17	68138	1	2	9	Rue des Mésanges	47.58711	7.25859	1	0	0	2	0	0	blessé léger	voiture
+202200013964	2022	6	08	68224	1	2	1	WICKY (AVENUE AUGUSTE)	47.74375	7.33997	1	1	0	2	0	1	blessé hospitalisé	aucun autre véhicule
+202200015095	2022	3	19	68309	5	2	3	18 Rue Rogg-Haas	47.65311	7.45608	1	0	0	1	0	0	blessé léger	voiture
+202200016457	2022	7	09	68231	1	2	2	3 Rue de l Hôtel de Ville	48.01825	7.53021	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200016753	2022	2	10	68066	1	2	3	CASTELNAU (RUE DE)	48.06971	7.35075	0	0	1	1	0	0	blessé léger	voiture
+202200016890	2022	5	10	68106	1	2	1	19 rue principale	47.87384	7.1053	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202200019450	2022	3	10	68269	1	2	1	12 Rue de l Industrie	48.19003	7.33848	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202200019924	2022	4	19	68292	1	2	4	27 Fistelhaeuser	47.88035	7.03754	0	1	0	1	0	0	blessé léger	poids lourd
+202200020704	2022	7	13	68291	1	2	2	D468	47.85248	7.51757	0	1	0	1	0	0	blessé léger	voiture
+202200020988	2022	12	07	68036	2	2	2	12 Grand'Rue	48.04047	7.54513	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200021552	2022	6	16	68152	1	2	9	route de mulhouse	47.67665	7.26775	1	0	0	1	0	0	blessé léger	voiture
+202200021668	2022	4	15	68305	1	2	1	10 rue du gma	47.5376	7.1765	0	0	1	1	0	0	blessé léger	voiture
+202200021699	2022	6	14	68149	1	2	1	MICHELFELDEN ( RUE DE )	47.59285	7.57717	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202200022120	2022	11	08	68066	1	2	1	ALSACE (RUE D')	48.08099	7.3641	0	1	0	1	0	0	blessé léger	voiture
+202200022891	2022	12	16	68066	2	2	3	BALE ( ROUTE DE)	48.06776	7.36054	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200023014	2022	7	16	68374	1	2	9	12 Rue Herzog	48.08605	7.31564	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200023345	2022	8	21	68066	5	2	9	FLORIMONT (RUE DU)	48.07705	7.34868	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200023653	2022	6	14	68066	1	2	9	LECLERC (BOULEVARD DU GENERAL)	48.07304	7.35442	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202200024766	2022	5	18	68066	1	2	1	SCHWEITZER (RUE DU DR ALBERT)	48.07917	7.33704	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200024985	2022	3	14	68162	1	2	1	4 Allée Stoecklin	48.13691	7.26394	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202200024988	2022	3	15	68253	1	2	3	Rue du Général-de-Gaulle	47.78651	7.5065	0	1	0	2	0	2	blessé hospitalisé	voiture
+202200025068	2022	2	16	68066	1	2	1	RIQUEWIHR (RUE DE)	48.09162	7.33359	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200025715	2022	1	17	68066	1	2	3	31 Rue Robert Schuman	48.08212	7.32761	0	1	1	2	0	0	blessé léger	aucun autre véhicule
+202200027291	2022	9	16	68154	1	2	1	12 Place de la République	47.78134	7.34754	1	0	0	1	0	0	blessé léger	voiture
+202200029055	2022	8	17	68009	1	1	6	D468	48.1161	7.53566	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200029076	2022	8	15	68375	1	2	3	53 Rue de Mulhouse	47.80338	7.24094	0	0	1	1	0	0	blessé léger	voiture
+202200029111	2022	8	19	68166	1	2	3	ROSE (RUE DE LA )	47.79717	7.3218	1	0	0	1	0	0	blessé léger	utilitaire
+202200029369	2022	4	12	68249	1	1	1	305 Le Lac Noir	48.11218	7.10018	1	0	0	1	0	0	blessé léger	voiture
+202200029732	2022	1	13	68066	1	2	3	INGERSHEIM (ROUTE D')	48.08341	7.35061	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200030020	2022	10	13	68224	1	2	2	SCHWILGUE (RUE)	47.75009	7.32749	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200031937	2022	5	20	68043	1	2	1	17 Rue de Soultz	47.86229	7.25732	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200032625	2022	2	13	68297	1	2	1	MULHOUSE ( RUE)CITE BOURGLIBRE JUSQUE RU	47.60449	7.54486	1	0	0	1	0	0	blessé léger	voiture
+202200032764	2022	3	08	68309	1	2	6	RUE POINCARE	47.66114	7.4483	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200033160	2022	4	14	68063	1	2	1	55 Rue Raymond Poincare	47.80369	7.17628	0	1	0	1	0	0	blessé léger	voiture
+202200034663	2022	1	06	68215	2	2	2	1 Rue d Alsace	47.61985	7.02272	0	0	1	1	0	0	blessé léger	voiture
+202200036062	2022	9	14	68119	1	2	1	11 Rue de Cernay	47.65127	7.15805	0	1	0	1	0	0	blessé léger	utilitaire
+202200036609	2022	1	11	68376	1	2	1	SOULTZ(ROUTE DE)	47.80461	7.31169	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200036834	2022	5	15	68005	1	2	1	Rue d Ammerschwihr	48.11267	7.28743	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202200038049	2022	12	13	68066	1	2	1	LADHOF (RUE DU)	48.10623	7.379	0	1	0	1	0	0	blessé léger	voiture
+202200038304	2022	1	13	68258	1	2	1	10 Rue du Lieutenant Emile Guene	47.83751	7.30282	1	0	0	1	1	0	tué	poids lourd
+202200038763	2022	6	11	68112	1	2	4	7 Chemin du Kitterlé	47.90821	7.21759	0	1	0	1	0	0	blessé léger	voiture
+202200038820	2022	6	07	68304	1	2	1	22 Grand Rue	47.75602	7.0517	1	0	0	1	0	0	blessé léger	voiture
+202200039315	2022	10	15	68156	1	2	1	9 Rue de Cernay	47.90172	7.25564	1	0	0	1	0	0	blessé léger	voiture
+202200039459	2022	4	07	68166	2	2	2	MULHOUSE (FAUBOURG DE)	47.79384	7.33569	0	1	0	1	0	0	blessé léger	voiture
+202200039576	2022	5	18	68315	1	2	3	Route de Wuenheim	47.8776	7.22013	0	1	0	1	0	0	blessé léger	voiture
+202200040384	2022	11	17	68334	3	2	1	42 Rue de la 1ere Armee	47.81109	7.1021	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200041510	2022	5	07	68365	1	1	1	Laenderweg (Chemin)	48.05167	7.33877	0	1	0	1	0	0	blessé léger	voiture
+202200042149	2022	9	10	68296	1	1	1	D1B1 PK 1+500	48.22599	7.38679	0	1	0	1	0	0	blessé léger	voiture
+202200043483	2022	4	16	68224	1	1	1	MARTIN (RUE JEAN)	47.75437	7.3082	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200043512	2022	5	15	68224	1	2	2	BLUM (RUE LEON)	47.75623	7.35478	0	0	1	3	0	3	blessé hospitalisé	voiture
+202200043837	2022	9	15	68224	1	2	4	KINGERSHEIM (RUE DE)	47.77295	7.32727	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200045595	2022	1	21	68242	5	2	3	121 Rue Principale	47.97262	7.39478	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200045915	2022	12	17	68300	5	2	6	54 Rue de Mulhouse	47.78007	7.36508	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200046211	2022	2	15	68162	1	2	3	rue de bennwihr	48.1354	7.30562	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202200046237	2022	8	10	68089	1	1	1	D13 bis 1	47.91944	6.94457	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202200047519	2022	1	17	68300	3	1	4	D55	47.795	7.38117	0	1	0	1	0	0	blessé léger	voiture
+202200048256	2022	2	17	68249	1	2	1	8 rue charles de gaulle	48.12811	7.16688	1	0	0	1	0	0	blessé léger	voiture
+202200048820	2022	3	12	68068	1	2	1	42 Rue de Belfort	47.63156	7.1105	1	0	0	1	0	0	blessé léger	voiture
+202200049755	2022	8	09	68066	1	2	3	REUBELL (RUE)	48.0721	7.35857	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+202200050071	2022	9	12	68172	1	2	1	Rue du Giessen	48.07828	7.54191	0	0	1	1	0	0	blessé léger	aucun autre véhicule
+202200050498	2022	10	12	68155	1	2	1	46 Rue de la République	48.09681	7.30297	1	0	0	1	0	0	blessé léger	autre
+202200050783	2022	7	09	68253	1	2	6	Rue du Général de Gaulle	47.78308	7.5025	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200051173	2022	3	04	68260	3	1	1	D430	47.8785	7.27493	0	1	0	1	1	0	tué	autre
+202200051371	2022	5	14	68179	1	2	6	Rue Principale	47.75693	7.01833	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200051914	2022	6	16	68068	1	2	1	18 Rue de Bâle	47.63036	7.12151	1	0	0	1	0	0	blessé léger	voiture
+202200052190	2022	11	07	68256	2	2	1	REPUBLIQUE (RUE DE LA)	47.76746	7.30994	1	0	0	1	0	0	blessé léger	voiture
+202200052684	2022	11	18	68375	4	2	3	216 Rue de Reiningue	47.78038	7.22441	1	0	0	2	0	1	blessé hospitalisé	voiture
+202200053804	2022	7	12	68040	1	2	1	30 Rue du Rhin	47.82609	7.08124	1	0	0	1	0	0	blessé léger	voiture
+202200054078	2022	11	16	68224	1	2	1	BOUCHERS (RUE DES)	47.74725	7.33723	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202200054337	2022	6	18	68374	1	2	3	Rue de l Orge	48.0811	7.32221	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200054374	2022	3	16	68318	1	1	1	CD40	47.96929	7.22298	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202300000844	2023	11	16	68004	1	2	9	18 Rue de l?Ill	47.62673	7.23594	1	0	0	1	1	0	tué	voiture
+202300000926	2023	3	07	68284	1	2	5	Rue de Waldighoffen	47.53887	7.32886	0	1	0	1	0	0	blessé léger	voiture
+202300002563	2023	11	17	68126	5	2	9	85 Rue de Hésingue	47.56939	7.52446	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300003651	2023	10	19	68112	5	2	3	3 Route d'Issenheim	47.90287	7.2268	0	1	0	1	0	0	blessé léger	voiture
+202300003901	2023	5	12	68112	1	2	3	18 rue de la commanderie	47.90968	7.20715	0	1	0	1	0	0	blessé léger	voiture
+202300004443	2023	11	07	68315	2	2	1	Route de Bollwiller	47.88114	7.23602	1	0	0	1	0	0	blessé léger	voiture
+202300004793	2023	11	13	68201	1	1	1	Rue de la Clairière	47.75238	7.00713	1	0	0	1	0	0	blessé léger	voiture
+202300006077	2023	2	17	68315	2	2	1	Route de Wuenheim	47.87888	7.2219	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300007185	2023	6	10	68300	1	2	1	7 Rue de Mulhouse	47.78428	7.36746	0	0	1	1	0	0	blessé léger	voiture
+202300007246	2023	8	07	68026	1	1	2	Croisement entre 2 chemins de vigne	48.14121	7.33944	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300007420	2023	9	09	68138	1	2	1	16 Rue de Bettendorf	47.58559	7.25911	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300007563	2023	10	13	68126	1	2	1	45 Rue de Hésingue	47.56543	7.52702	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202300008499	2023	3	07	68224	2	2	1	Rue Léon Jouhaux	47.74808	7.30393	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300008583	2023	6	14	68155	1	2	1	50 Rue de la Promenade	48.09188	7.29685	0	1	0	1	1	0	tué	aucun autre véhicule
+202300009074	2023	3	17	68126	1	1	1	Rue de Bale	47.56164	7.54577	0	1	0	1	0	0	blessé léger	voiture
+202300009104	2023	3	11	68321	1	2	1	26 rue de la république	47.82738	7.25068	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300010420	2023	12	17	68066	5	2	6	Rue d'Altkirch	48.07033	7.34101	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300010995	2023	11	07	68253	3	1	1	Route de Service EDf	47.77437	7.52114	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300011699	2023	2	18	68166	5	2	1	Rue d'Illzach	47.79055	7.34325	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202300012044	2023	8	06	68352	1	2	1	Voie Romaine	48.0144	7.53799	0	1	0	1	0	0	blessé léger	voiture
+202300012309	2023	7	15	68296	1	1	2	Rue de la Gare	48.22746	7.38067	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300013171	2023	9	11	68376	1	2	1	SAINT CLOUD (RUE DU)	47.81126	7.3372	1	1	0	1	0	0	blessé léger	aucun autre véhicule
+202300013443	2023	2	22	68147	3	1	1	D1b	48.17542	7.32316	0	1	0	1	1	0	tué	voiture
+202300013599	2023	10	14	68224	1	2	3	BRUNSTATT (RUE DE)	47.73781	7.31784	0	1	0	1	0	0	blessé léger	voiture
+202300014439	2023	3	10	68143	1	2	1	27 Rue du Général De Gaulle	48.1105	7.42318	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300014857	2023	6	16	68224	1	2	6	GAY-LUSSAC (RUE)	47.74227	7.3313	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300015186	2023	9	14	68040	1	2	1	rue du rhin	47.82372	7.08172	1	0	0	2	0	0	blessé léger	voiture
+202300015448	2023	10	07	68298	2	2	2	Rue Kroeber Imlin	48.24476	7.17989	1	0	0	1	0	0	blessé léger	utilitaire
+202300015449	2023	10	15	68189	1	2	1	9 Rue d'Appenwihr	48.02338	7.41147	1	0	0	1	0	0	blessé léger	voiture
+202300015513	2023	10	08	68376	1	2	1	SAULE (RUE DU)	47.82313	7.34021	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300015937	2023	7	06	68238	2	1	1	D52	47.70867	7.51205	0	1	0	1	0	0	blessé léger	voiture
+202300016354	2023	6	19	68224	1	2	1	BOURTZWILLER (PONT DE)	47.76342	7.32503	0	0	1	1	1	0	tué	aucun autre véhicule
+202300016357	2023	6	20	68066	1	2	9	INGERSHEIM (ROUTE D')	48.08716	7.3265	1	0	0	1	0	0	blessé léger	voiture
+202300016822	2023	3	12	68179	1	2	6	D466	47.75694	7.01831	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300017059	2023	9	08	68192	1	1	1	Rue de Montreux-vieux	47.62311	7.04552	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300017192	2023	1	11	68112	1	2	1	11 Route de Soultz	47.9037	7.2174	1	1	0	1	0	0	blessé léger	aucun autre véhicule
+202300017194	2023	1	15	68300	1	2	1	Route Départementale 201	47.77925	7.38886	1	0	0	1	0	0	blessé léger	utilitaire
+202300017518	2023	10	18	68138	1	2	1	Rue de Bettendorf	47.58631	7.257	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300019087	2023	1	17	68066	5	2	9	Rue du Florimont	48.07885	7.34881	0	1	0	1	0	0	blessé léger	voiture
+202300019680	2023	6	18	68069	1	2	4	Rue de Balgau	47.97436	7.48977	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300019913	2023	7	18	68145	1	2	1	102 Grand Rue	48.08024	7.4013	0	1	0	1	0	0	blessé léger	utilitaire
+202300022632	2023	3	05	68278	3	1	1	A 35 PK 104.100	47.74557	7.42086	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300023353	2023	10	16	68278	1	2	1	Rue du Luxembourg	47.74628	7.41646	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300023570	2023	4	16	68036	1	1	6	D52	48.03305	7.56089	0	1	0	1	0	0	blessé léger	voiture
+202300023902	2023	8	21	68175	5	2	1	9 Rue du Docteur Macker	48.15301	7.17178	0	0	1	1	0	0	blessé léger	utilitaire
+202300024275	2023	11	18	68145	5	2	1	38 Grand'Rue	48.08138	7.39232	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300025777	2023	8	18	68329	1	2	1	11 Route de la Schlucht	48.04899	7.1153	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300026420	2023	5	16	68224	1	2	1	PRINTEMPS (RUE DU)	47.74874	7.3496	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300026764	2023	9	07	68348	1	2	1	31 Route d'Aspach	47.80197	7.11629	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300027005	2023	6	15	68269	1	2	1	18 Grand'Rue	48.19374	7.32276	1	0	0	1	0	0	blessé léger	voiture
+202300027156	2023	6	16	68063	1	2	3	Rue de Schweighouse	47.79971	7.17938	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300027249	2023	10	17	68111	1	2	1	Rue des Forgerons	48.0043	7.27845	0	1	0	1	0	0	blessé léger	voiture
+202300027327	2023	10	22	68066	5	2	2	ALSACE (RUE D')	48.07667	7.36601	0	1	0	1	1	0	tué	voiture
+202300028892	2023	6	13	68224	1	2	1	KOECHLIN (RUE)	47.75528	7.33616	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300029021	2023	6	04	68377	3	1	1	Rue de Walheim	47.62455	7.27272	1	0	0	1	0	0	blessé léger	autre
+202300029268	2023	10	05	68253	3	1	1	D52	47.78769	7.51731	1	0	0	1	1	0	tué	poids lourd
+202300029423	2023	1	07	68156	2	2	3	Rue de l'Industrie	47.89729	7.23059	0	1	0	1	0	0	blessé léger	voiture
+202300030220	2023	11	12	68224	1	2	1	ALGER (QUAI D')	47.74498	7.34661	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300030272	2023	3	03	68290	4	2	6	2 Rue de Hirtzfelden	47.9411	7.4637	1	0	0	1	1	0	tué	voiture
+202300031371	2023	1	07	68066	5	2	1	Avenue de Lorraine	48.09316	7.35526	0	1	0	1	0	0	blessé léger	voiture
+202300031891	2023	11	11	68351	1	1	1	RD 415 PK46+200	48.01952	7.57651	0	1	0	2	0	1	blessé hospitalisé	aucun autre véhicule
+202300032080	2023	5	19	68297	1	2	1	DE GAULLE ( AVE DU GLE )A PARTIR DES NR	47.58173	7.55486	0	0	1	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300032915	2023	12	17	68166	5	2	1	MULHOUSE (FAUBOURG DE)	47.7903	7.33437	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300033029	2023	10	17	68149	1	2	1	ABBATUCCI ( RUE ET PLACE )	47.59308	7.58332	1	0	0	1	0	0	blessé léger	voiture
+202300033366	2023	6	19	68066	1	2	6	PARIS (AVENUE DE)	48.07493	7.32973	0	0	1	1	0	0	blessé léger	voiture
+202300033651	2023	11	21	68375	3	2	3	Rue de Reiningue	47.78752	7.22535	0	0	1	1	0	1	blessé hospitalisé	voiture
+202300033673	2023	11	17	68063	4	2	2	35 Faubourg des Vosges	47.81042	7.16857	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300033762	2023	4	17	68321	1	2	3	Rue de la République	47.82842	7.25099	0	1	0	1	0	0	blessé léger	voiture
+202300033776	2023	4	18	68278	1	2	1	16 Ruelle de la Gare	47.74947	7.40503	0	0	1	1	0	1	blessé hospitalisé	voiture
+202300033956	2023	3	07	68375	1	2	1	59 Rue de Reiningue	47.80056	7.23415	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300034298	2023	5	09	68224	1	2	1	HOFER (RUE JOSUE)	47.75633	7.31407	1	0	0	1	1	0	tué	voiture
+202300034863	2023	10	18	68218	1	2	6	71 Rue de Mulhouse	47.73688	7.28791	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300035667	2023	5	13	68295	1	2	1	90a Route de Bâle	48.0014	7.38148	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300036662	2023	12	07	68278	2	2	2	Avenue du Général de Gaulle	47.74795	7.40365	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300039350	2023	6	07	68297	1	2	6	MULHOUSE ( RUE)CITE BOURGLIBRE JUSQUE RU	47.59123	7.55759	1	0	0	1	0	0	blessé léger	utilitaire
+202300039779	2023	5	09	68334	1	2	3	Avenue Pasteur	47.79828	7.10931	0	1	0	1	0	0	blessé léger	voiture
+202300039986	2023	2	15	68056	1	2	1	AV D'ALTKIRCH	47.72623	7.32086	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300040426	2023	12	12	68201	1	2	9	8 Rue du Général de Gaulle	47.77339	7.00058	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300040429	2023	12	18	68060	5	2	6	Pont d'Aspach	47.74054	7.14379	0	1	0	1	0	0	blessé léger	voiture
+202300040728	2023	9	17	68066	1	2	1	NORD (RUE DU)	48.08061	7.35998	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300041430	2023	6	08	68058	1	2	6	D430	47.92348	7.19739	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300042575	2023	10	08	68270	1	2	1	39 Rue Principale	47.77888	7.28471	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300042830	2023	7	19	68376	1	2	1	SAINT CLOUD (RUE DU)	47.81516	7.33854	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300044056	2023	9	14	68334	1	2	1	Bd Auguste Scheurer Kestner	47.81026	7.10074	1	0	0	1	0	0	blessé léger	voiture
+202300046441	2023	1	14	68112	1	2	2	2a Route d'Issenheim	47.90248	7.22917	1	0	0	1	0	0	blessé léger	voiture
+202300046471	2023	1	18	68201	5	2	1	16 Route Joffre	47.77627	7.00015	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300046563	2023	1	12	68066	1	2	3	Avenue Raymond Poincaré	48.07192	7.34807	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300046794	2023	1	00	68066	5	2	1	Avenue de l'Europe	48.07917	7.33008	1	0	0	1	0	0	blessé léger	voiture
+202300046993	2023	6	15	68329	1	2	1	61 Route de la Schlucht	48.05059	7.11024	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300047037	2023	6	21	68154	1	2	1	Rue des Dahlias	47.76384	7.36574	1	0	0	1	0	0	blessé léger	voiture
+202300047123	2023	6	11	68028	1	2	1	route des vins	48.20494	7.35383	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300047279	2023	5	08	68298	1	2	4	Place Keuffer	48.24663	7.18545	1	0	0	1	0	0	blessé léger	voiture
+202300047368	2023	3	13	68045	1	2	1	32 Rue Principale	47.77468	7.05887	1	0	0	1	0	0	blessé léger	voiture
+202300048047	2023	2	16	68205	1	1	1	D 201	47.91797	7.35741	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300048439	2023	6	08	68066	1	2	2	Rue du Ladhof	48.10729	7.38482	0	1	0	1	0	0	blessé léger	autre
+202300049031	2023	6	10	68318	1	2	3	39bis Rue de la Vallée	47.96057	7.23975	1	0	0	1	0	0	blessé léger	utilitaire
+202300049104	2023	10	18	68066	5	2	2	CLEMENCEAU (AVENUE GEORGES)	48.06954	7.36044	1	0	0	1	0	0	blessé léger	voiture
+202300049171	2023	10	17	68375	5	2	1	8 Rue de Mulhouse	47.80891	7.23992	1	0	0	1	0	0	blessé léger	voiture
+202300049849	2023	11	07	68384	2	2	3	Faubourg de Mulhouse	47.69848	7.30576	1	0	0	2	0	0	blessé léger	voiture
+202300050219	2023	7	12	68044	1	2	1	20 Rue du 3e Spahis Algeriens	48.16996	7.12612	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202300050525	2023	6	11	68366	1	1	6	D4	48.10989	7.43853	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300051230	2023	5	04	68377	3	2	1	D419	47.62204	7.27283	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300051352	2023	7	08	68155	1	2	6	Route de Colmar	48.09444	7.30571	0	1	0	1	0	0	blessé léger	voiture
+202300051364	2023	5	16	68317	1	2	3	17 Route de la Schlucht	48.0628	7.10332	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300051643	2023	9	17	68375	1	2	5	Rue du Château d'Eau	47.79628	7.23456	0	0	1	1	0	0	blessé léger	voiture
+202300051783	2023	6	14	68374	1	1	2	D83	48.08788	7.31471	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202300052851	2023	1	18	68109	3	2	1	Rue du Muhlele	48.04251	7.17472	1	0	0	1	0	0	blessé léger	voiture
+202300053449	2023	8	14	68278	1	2	1	134 Rue de l'Île Napoléon	47.76497	7.39458	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300053975	2023	6	19	68149	1	2	3	ST-LOUIS ( RUE DE )	47.59036	7.57297	0	0	1	1	0	1	blessé hospitalisé	voiture
+202300054438	2023	6	18	68227	1	2	1	18 Rue Principale	48.10189	7.47186	0	0	1	1	0	0	blessé léger	voiture
+202400001027	2024	2	14	68154	1	2	6	Rue des Vosges	47.77922	7.34747	0	1	0	1	0	0	blessé léger	voiture
+202400001393	2024	6	10	68063	1	2	1	Rue Gustave Eiffel	47.8058	7.18231	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400001576	2024	7	17	68338	1	1	2	Route de Colmar	48.08431	7.28882	0	1	0	1	0	0	blessé léger	voiture
+202400002171	2024	11	00	68224	3	1	1	VOIE RAPIDE NORD SUD	47.76544	7.34615	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400003676	2024	3	17	68066	1	2	3	BLEICH (RUE DE LA)	48.07871	7.37084	0	0	1	1	0	0	blessé léger	voiture
+202400005227	2024	6	20	68267	1	1	1	D19	47.76515	7.23291	0	0	1	1	0	1	blessé hospitalisé	aucun autre véhicule
+202400005699	2024	3	17	68018	1	1	3	D103	47.65925	7.1581	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400005835	2024	7	06	68297	1	2	6	DE GAULLE ( AVE DU GLE )A PARTIR DES NR	47.6	7.55	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400007946	2024	9	11	68295	1	1	3	D45	48.02741	7.40205	0	1	0	1	1	0	tué	voiture
+202400008192	2024	11	09	68112	1	2	2	Rue Jean-baptiste Weckerlin	47.91293	7.20479	1	0	0	2	0	0	blessé léger	voiture
+202400008629	2024	1	11	68315	1	2	1	Place de l'Eglise	47.88688	7.23016	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400008878	2024	12	19	68166	5	2	5	INDUSTRIE (RUE DE L')	47.78858	7.31005	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400008907	2024	11	16	68149	1	1	6	ALSACE ( AVENUE )	47.60046	7.58401	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400009330	2024	2	07	68271	2	2	3	Rue de la Paix	47.74684	7.36785	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400010587	2024	2	08	68082	1	2	6	D20	47.86097	7.34574	0	1	0	1	0	0	blessé léger	voiture
+202400010691	2024	12	09	68376	1	2	1	SOULTZ(ROUTE DE)	47.79629	7.31439	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400012347	2024	12	12	68162	1	2	1	Sentier des Capucines	48.13658	7.26611	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400012529	2024	8	15	68112	1	2	2	Rue de l'Ancien Hôpital	47.90888	7.21109	1	0	0	1	0	0	blessé léger	utilitaire
+202400013145	2024	3	10	68066	1	2	1	Avenue d'Alsace	48.06946	7.3651	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400014552	2024	12	14	68154	1	2	6	Rue de Sausheim	47.77432	7.36161	1	0	0	1	0	0	blessé léger	voiture
+202400014620	2024	8	09	68166	1	2	1	Rue d'Illzach	47.79056	7.34323	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400014983	2024	10	08	68185	1	2	3	45 Grand'Rue	48.27126	7.28563	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400015383	2024	3	15	68166	1	2	1	NOYER (RUE DU)	47.79144	7.33229	1	0	0	1	0	0	blessé léger	utilitaire
+202400015506	2024	11	18	68224	5	2	1	STALINGRAD (RUE DE)	47.74874	7.34687	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400016212	2024	1	08	68297	1	2	1	BALE ( AVE DE)WIRU JUSQUE RUE MULHOUSENR	47.58426	7.56541	1	0	0	1	0	0	blessé léger	voiture
+202400016819	2024	10	05	68242	3	1	1	A35	47.97585	7.37325	1	0	0	1	1	0	tué	poids lourd
+202400017097	2024	7	07	68023	1	2	1	43 Rue de Hoen	48.16012	7.33092	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202400017186	2024	3	16	68224	1	2	1	Rue Marc Seguin	47.7457	7.2983	0	1	0	1	0	0	blessé léger	utilitaire
+202400018967	2024	6	11	68370	1	2	1	Rue Principale	47.97479	6.9608	0	1	0	1	0	0	blessé léger	voiture
+202400019117	2024	2	12	68224	1	2	3	Avenue de Colmar	47.76457	7.324	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400019505	2024	11	17	68201	2	2	1	4 Rue du Général de Gaulle	47.7727	7.0016	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400019915	2024	12	06	68257	3	1	1	route départementale 411	47.49802	7.16944	1	0	0	1	0	0	blessé léger	voiture
+202400021267	2024	6	11	68123	1	2	3	Rue du Maréchal Leclerc	48.01066	7.29996	0	1	0	1	0	0	blessé léger	voiture
+202400021470	2024	12	15	68066	1	2	1	CHAMP DE MARS (BLD DU)	48.0761	7.35488	1	0	0	1	0	0	blessé léger	utilitaire
+202400021838	2024	9	17	68338	1	1	2	Route des Trois Epis	48.08381	7.25836	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400022729	2024	10	11	68063	1	2	1	2 Rue Maurice Koechlin	47.80248	7.18185	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202400023695	2024	9	13	68375	1	2	3	6 Rue de Reiningue	47.80684	7.239	0	0	1	1	0	0	blessé léger	voiture
+202400023930	2024	1	10	68166	1	2	1	Rue des Chalets	47.79112	7.32706	0	1	0	1	0	0	blessé léger	voiture
+202400023935	2024	1	12	68166	1	2	6	Rue Claude Debussy	47.79434	7.32407	0	1	0	1	0	0	blessé léger	voiture
+202400024123	2024	9	14	68162	1	1	1	D415	48.14372	7.2556	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400024212	2024	7	18	68376	1	2	1	MINES (RUE DES)	47.79915	7.31602	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400024235	2024	5	13	68082	1	2	1	D2	47.86487	7.34513	1	0	0	1	0	0	blessé léger	voiture
+202400024643	2024	9	18	68309	1	2	1	Rue du Maréchal Foch	47.65582	7.45619	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400025482	2024	12	07	68375	4	2	1	18 Rue de Mulhouse	47.80803	7.2395	1	0	0	1	0	0	blessé léger	voiture
+202400025717	2024	4	17	68009	1	2	1	Rue de Baltzenheim	48.11353	7.54157	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400025858	2024	4	16	68296	1	2	3	31 Route du Vin	48.23178	7.37069	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400026339	2024	5	17	68332	1	2	2	D432	47.65429	7.26562	0	1	0	1	0	0	blessé léger	voiture
+202400026340	2024	5	10	68004	1	2	1	2 Avenue Poincaré	47.62159	7.23646	1	0	0	1	0	0	blessé léger	voiture
+202400026473	2024	7	09	68066	1	2	2	SANDHERR (RUE CHARLES)	48.06648	7.34517	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400026706	2024	6	21	68066	1	2	1	LOGELBACH ( RUE DU)	48.08324	7.33893	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400027343	2024	3	16	68066	1	2	1	TURCKHEIM (RUE DE)	48.0789	7.34073	1	0	0	1	0	0	blessé léger	voiture
+202400028244	2024	5	16	68162	1	2	1	Rue du Riesling	48.13898	7.2774	0	1	0	1	1	0	tué	aucun autre véhicule
+202400029531	2024	1	16	68154	1	2	1	14 Rue de Berne	47.77317	7.38955	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202400029645	2024	5	11	68066	1	2	1	STRASBOURG (ROUTE DE)	48.10875	7.36359	1	0	0	1	0	0	blessé léger	voiture
+202400030642	2024	11	17	68118	3	2	2	Rue de la Rampe	47.73246	7.42333	0	1	0	1	0	0	blessé léger	utilitaire
+202400032210	2024	7	11	68300	1	1	1	D55	47.7866	7.42681	0	1	0	1	0	0	blessé léger	poids lourd
+202400032496	2024	6	04	68186	4	2	1	parking rue des tuileries	47.47185	7.30325	1	0	0	1	0	0	blessé léger	voiture
+202400032908	2024	12	11	68066	1	2	2	Avenue d'Alsace	48.06981	7.3654	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400033775	2024	1	21	68224	5	2	8	STOESSEL (BOULEVARD CHARLES)	47.74348	7.31344	1	0	0	1	0	1	blessé hospitalisé	tramway ou train
+202400034652	2024	6	07	68249	1	2	1	Les Allagouttes	48.14	7.18347	0	1	0	1	0	0	blessé léger	voiture
+202400035997	2024	8	17	68315	1	2	4	47 Route de Guebwiller	47.89281	7.22589	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400036250	2024	10	06	68088	3	1	1	Cité Alex	47.85113	7.27475	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400036500	2024	6	16	68022	1	2	1	75 Rue Principale	47.8216	7.3822	0	1	0	1	0	0	blessé léger	voiture
+202400036579	2024	6	17	68309	1	1	2	Forêt domaniale de la Hardt-Nord	47.65288	7.49447	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202400036947	2024	12	17	68224	5	2	2	Boulevard du Président Roosevelt	47.75248	7.32878	0	1	0	1	0	0	blessé léger	utilitaire
+202400037353	2024	5	02	68021	3	1	1	A35	47.64097	7.4976	1	0	0	1	1	0	tué	poids lourd
+202400037836	2024	8	17	68023	1	1	1	Rue du Petit Château	48.15647	7.33704	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400038696	2024	12	17	68063	5	2	1	3 Rue Gustave Eiffel	47.80348	7.17162	0	0	1	1	0	0	blessé léger	voiture
+202400039999	2024	8	07	68270	1	2	1	34 Rue Principale	47.77809	7.28678	0	1	0	1	0	0	blessé léger	bus ou car
+202400040002	2024	8	18	68129	2	1	1	Rue de Belfort	47.73268	7.24018	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400040576	2024	9	11	68066	1	2	1	Grand'Rue	48.07526	7.35781	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400040975	2024	1	12	68226	1	2	1	29 Rue du Gal de Lattre de Tassigny	48.03987	7.14668	1	0	0	1	0	0	blessé léger	poids lourd
+202400041243	2024	2	11	68155	1	2	1	1 Route de Colmar	48.0948	7.30578	0	1	0	1	1	0	tué	aucun autre véhicule
+202400041444	2024	7	21	68380	1	1	1	Rue de Kiffis	47.44964	7.38611	0	1	0	1	0	0	blessé léger	voiture
+202400041717	2024	2	07	68315	1	2	9	Route d'Issenheim	47.89433	7.22777	0	0	1	1	0	0	blessé léger	voiture
+202400041765	2024	8	17	68097	1	1	4	D11iii	48.16066	7.20071	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202400041766	2024	7	19	68066	1	2	1	Rue Edmond Marin la Meslée	48.10291	7.36049	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400042296	2024	6	19	68012	1	2	1	23 Route de Thann	47.77899	7.13247	0	1	0	1	0	0	blessé léger	voiture
+202400042299	2024	6	17	68334	1	2	1	Place de la Halle des Sports	47.80409	7.10681	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400042531	2024	9	09	68224	1	2	2	Rue du Fil	47.74736	7.3202	1	0	0	1	1	0	tué	utilitaire
+202400044900	2024	5	08	68063	1	2	2	Rue Raymond Poincaré	47.80669	7.17552	1	0	0	1	0	0	blessé léger	voiture
+202400045102	2024	4	17	68305	1	2	1	Rue d'Altkirch	47.54059	7.17684	0	1	0	1	0	0	blessé léger	voiture
+202400045292	2024	8	21	68021	5	2	1	74 Rue de la Gare	47.63489	7.48932	1	0	0	3	0	2	blessé hospitalisé	voiture
+202400045299	2024	4	10	68267	1	2	3	Rue de Heimsbrunn	47.74684	7.23226	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400046062	2024	8	16	68269	1	2	6	Route de Guémar	48.19233	7.32589	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400046128	2024	10	17	68224	5	2	3	PREVOYANCE (RUE DE LA)	47.75411	7.35967	1	0	0	1	0	0	blessé léger	voiture
+202400046515	2024	9	07	68199	2	1	6	D1066	47.86652	7.03883	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400047347	2024	5	20	68149	1	2	1	MARQUIS DE PUISIEUX ( RUE DU )	47.58668	7.58077	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400048486	2024	10	22	68224	5	2	3	Boulevard des Nations	47.73826	7.30148	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400048688	2024	5	18	68315	1	2	1	Rue de la Marne	47.88918	7.22969	1	0	0	3	0	0	blessé léger	voiture
+202400048696	2024	5	17	68338	1	2	1	Chemin du Boland	48.09097	7.28617	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202400049208	2024	1	15	68256	1	2	1	Rue de Richwiller	47.77448	7.2946	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400049496	2024	12	20	68278	5	2	3	88 Rue de Mulhouse	47.7553	7.38853	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400049560	2024	6	10	68068	1	2	1	11 Rue de Delle	47.62895	7.11766	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400049797	2024	3	18	68224	1	2	2	THIERSTEIN (RUE)	47.76043	7.32622	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400050350	2024	7	11	68066	1	2	1	Rue d'Amsterdam	48.07833	7.32721	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400050356	2024	8	11	68307	1	1	1	D466	47.81462	6.86142	0	1	0	1	0	0	blessé léger	voiture
+202400050671	2024	2	23	68066	5	2	1	BONNES GENS (RUE DES)	48.08239	7.36983	1	0	0	1	1	0	tué	voiture
+202400050700	2024	8	12	68174	1	2	1	22 Rue du Rhin	47.6821	7.39481	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400051997	2024	2	17	68166	2	2	7	Rue du Dahlia	47.79374	7.3231	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400054038	2024	5	09	68365	1	1	5	D83	48.05447	7.31059	0	1	0	1	0	1	blessé hospitalisé	voiture

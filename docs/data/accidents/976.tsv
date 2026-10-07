@@ -1,0 +1,340 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900001797	2019	10	18	97611	4	2	1	kaweni-Kaweni nord ( Z I )	-12.76136	45.22638	1	0	0	1	0	0	blessé léger	voiture
+201900002554	2019	2	17	97603	1	1	1	rue de la coopérative, village M TSAMOUDOU	-12.91761	45.18506	1	0	0	2	0	0	blessé léger	utilitaire
+201900002595	2019	2	07	97611	1	2	1	passamanty-Vahibé ( route )	-12.80105	45.20913	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900002596	2019	2	07	97611	2	2	1	mgombani-Baobab ( Bd )	-12.78419	45.22953	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900003876	2019	12	23	97611	3	2	1	passamanty-Sada ( rue de )	-12.79848	45.21568	1	0	0	1	0	0	blessé léger	autre
+201900003877	2019	12	19	97611	5	2	1	cavani-Cavani Massimoni rue de	-12.7918	45.2192	1	0	0	1	0	0	blessé léger	utilitaire
+201900004465	2019	4	10	97611	1	2	1	m'tsapere-Mosquée Maevantana (ruelle )	-12.78808	45.22004	0	1	0	1	0	0	blessé léger	voiture
+201900004469	2019	4	19	97611	4	2	1	cavani-Rond point du Stade	-12.78414	45.22304	0	1	0	2	0	0	blessé léger	aucun autre véhicule
+201900004787	2019	10	17	97611	1	2	1	passamanty-Tanamalaza (rue )	-12.80053	45.20903	0	1	0	1	0	0	blessé léger	voiture
+201900005200	2019	8	18	97611	3	2	1	kaweni-Poste ( rue de la )	-12.77077	45.21571	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900005275	2019	8	14	97610	1	2	9	Route Nationale 1 - Majicavo-Koropa	-12.74508	45.22078	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900005383	2019	11	06	97611	1	1	1	kaweni-Pendu (Place)	-12.75936	45.22917	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900005848	2019	7	04	97611	2	2	7	mamoudzou centre-Marché ( place du )	-12.77875	45.23063	1	0	0	1	0	0	blessé léger	autre
+201900007082	2019	8	16	97611	1	2	1	cavani-Selemani ( rue )	-12.78707	45.21789	1	0	0	1	0	0	blessé léger	voiture
+201900007083	2019	8	11	97611	1	2	1	m'tsapere-Mosquée Maevantana (ruelle )	-12.78912	45.2188	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900007281	2019	11	19	97611	1	2	1	m'tsapere-Pont (ruelle du )	-12.78989	45.22049	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900007282	2019	11	19	97611	5	2	1	doujani-Mosquée doujani ( rue )	-12.79416	45.21493	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900008324	2019	10	14	97611	1	2	1	kaweni-Grande Traverse (rue de la)	-12.77482	45.22475	1	0	0	1	0	0	blessé léger	voiture
+201900011869	2019	2	17	97611	1	2	1	kaweni-Mahabourini ( rue )	-12.7726	45.22128	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900012068	2019	10	14	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.80599	45.20881	1	0	0	1	0	0	blessé léger	voiture
+201900014508	2019	7	14	97611	1	2	1	m'tsapere-Maeventana (rue)	-12.78885	45.22073	1	0	0	1	0	0	blessé léger	voiture
+201900016193	2019	7	13	97610	1	2	1	Hauts Vallons - Majicavo ( rue des)	-12.75528	45.2329	1	0	0	1	0	0	blessé léger	voiture
+201900016394	2019	5	19	97611	5	2	1	kaweni-SPPM ( rue de la )	-12.77094	45.22266	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+201900016399	2019	4	15	97611	1	2	1	mamoudzou centre-RP Passot quai colas (R	-12.7764	45.231	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900017909	2019	7	20	97610	5	2	1	Mosquée de vendredi	-12.74137	45.18274	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+201900019047	2019	8	05	97617	2	2	1	CCD1 Combani	-12.79206	45.133	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900020592	2019	2	07	97606	1	1	9	village de MIRERENI	-12.9028	45.14986	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900021065	2019	9	13	97602	1	2	1	Rue Maternelle Dzoumogne, RETENUE COLLINAIRE DZOUMONYE	-12.71564	45.11701	1	0	0	1	0	0	blessé léger	voiture
+201900021220	2019	4	12	97611	1	2	1	passamanty-Vahibé ( route )	-12.80094	45.2062	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900021976	2019	3	17	97611	1	2	1	passamanty-Cavani-Be (rue)	-12.80011	45.21059	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+201900022874	2019	8	05	97611	3	2	1	kaweni-Kaweni nord ( Z I )	-12.79393	45.2188	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900023409	2019	7	12	97611	1	2	1	kaweni-Ecole primaire ( rue de l' )	-12.77527	45.22175	1	0	0	1	0	0	blessé léger	voiture
+201900023672	2019	3	17	97608	1	2	1	boulevard des amoureux	-12.78511	45.27943	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+201900026201	2019	1	10	97611	1	2	1	kaweni-Poste ( rue de la )	-12.77305	45.22304	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900026727	2019	4	19	97606	5	2	1	Route départementale 5 MRAMADOUDOU	-12.93051	45.15281	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900027037	2019	3	15	97611	1	2	1	mamoudzou centre-RP Passot quai colas (R	-12.77721	45.23185	0	1	0	1	0	0	blessé léger	voiture
+201900027846	2019	10	09	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.79286	45.21757	1	0	0	1	0	0	blessé léger	voiture
+201900028231	2019	9	12	97602	1	2	1	quartier de la mosquée du carefour dzoumogné	-12.71763	45.11292	1	0	0	1	1	0	tué	voiture
+201900029242	2019	11	19	97611	5	2	1	doujani-Mosquée de doujani ( rue de la )	-12.79517	45.21348	1	0	0	1	0	0	blessé léger	voiture
+201900031185	2019	11	04	97605	5	2	1	Chemin Doua	-12.83061	45.11356	1	0	0	1	1	0	tué	voiture
+201900031621	2019	1	15	97611	1	2	1	tsoundzou-SIM ( rue de la )	-12.81716	45.19816	1	0	0	1	0	0	blessé léger	voiture
+201900033560	2019	1	22	97611	4	2	1	mamoudzou centre-Mariazé (rue du )	-12.77751	45.2315	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900033561	2019	1	15	97611	1	2	1	tsoundzou-Kadjifouni ( rue )	-12.80712	45.20471	1	0	0	1	0	0	blessé léger	voiture
+201900033562	2019	1	08	97611	1	2	1	kaweni-Kaweni nord ( Z I )	-12.77023	45.22383	1	0	0	1	0	0	blessé léger	voiture
+201900034141	2019	4	07	97611	1	2	1	kaweni-Europe (avenue)	-12.77587	45.22627	1	0	0	1	0	0	blessé léger	voiture
+201900034142	2019	4	20	97611	5	2	1	mamoudzou centre-Marché ( place du )	-12.77883	45.23113	1	0	0	1	0	0	blessé léger	voiture
+201900035250	2019	10	13	97611	1	2	1	kaweni-Nossi bé (impasse )	-12.771	45.22357	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900035342	2019	1	12	97611	1	2	1	convalescence/vetivers-Vetiver ( rue )	-12.77976	45.2231	1	0	0	1	0	0	blessé léger	voiture
+201900037875	2019	7	19	97611	2	1	1	kaweni-Pendu (Place)	-12.7596	45.22776	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+201900039696	2019	7	11	97611	1	2	1	m'tsapere-Macoco Mandzarsoa ( rue )	-12.78708	45.22462	0	1	0	1	0	0	blessé léger	voiture
+201900041769	2019	11	18	97611	3	1	9	m'tsapere-Nationale 2 (route)	-12.80479	45.21063	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+201900042172	2019	6	10	97611	1	2	3	kaweni-Kaweni sud  (Z I)	-12.7731	45.22299	1	0	0	1	0	0	blessé léger	voiture
+201900042174	2019	6	17	97611	1	2	1	tsoundzou-Cadjifouteni ( rue )	-12.80658	45.20532	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900042176	2019	6	20	97611	5	2	1	mamoudzou centre-Rassi Boina Kaïm (rue)	-12.78447	45.22924	1	0	0	2	0	2	blessé hospitalisé	autre
+201900042178	2019	6	06	97611	1	2	9	passamanty-Cavani-Be (rue)	-12.80015	45.21567	1	0	0	1	0	0	blessé léger	voiture
+201900044309	2019	11	18	97611	3	2	1	kaweni-Pendu (Place)	-12.76159	45.228	1	0	0	1	0	0	blessé léger	poids lourd
+201900044525	2019	1	16	97611	1	2	1	cavani-Rond point du Stade	-12.78443	45.2239	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900044527	2019	1	20	97611	4	2	1	mgombani-M'Gombani ( rue de )	-12.78288	45.23245	1	0	0	1	0	0	blessé léger	voiture
+201900045449	2019	12	12	97611	1	2	1	doujani-Mosquée de doujani ( rue de la )	-12.77981	45.22969	1	0	0	1	0	0	blessé léger	voiture
+201900046103	2019	11	22	97606	3	2	9	Village de Mramadoudou - CCD5	-12.91664	45.15925	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900046741	2019	8	12	97611	1	2	1	kaweni-Lazerevouni ( rue )	-12.77378	45.22121	1	0	0	1	0	1	blessé hospitalisé	autre
+201900051764	2019	1	10	97611	1	2	1	kaweni-Centrale EDM (rue de la )	-12.76137	45.22629	1	0	0	1	0	0	blessé léger	voiture
+201900052253	2019	7	16	97611	1	2	1	mamoudzou centre-Commandant Passot (Plac	-12.77813	45.2314	1	0	0	1	0	0	blessé léger	voiture
+201900053306	2019	1	18	97611	3	2	1	cavani-Mosquée (rue de la)	-12.78074	45.22106	1	0	0	1	0	0	blessé léger	voiture
+201900053463	2019	9	16	97610	1	2	1	Chemin de Dubai	-12.74618	45.18784	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900054893	2019	2	06	97611	1	2	1	cavani-Belle vue (rue)	-12.78636	45.22007	1	0	0	1	0	0	blessé léger	voiture
+201900055762	2019	7	08	97613	1	2	1	Rue du Collège	-12.75902	45.0796	1	0	0	1	0	0	blessé léger	voiture
+201900056167	2019	8	22	97606	5	2	1	Quartier Lotissement	-12.91974	45.15667	1	0	0	1	1	0	tué	voiture
+201900056734	2019	12	13	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.78048	45.23018	1	0	0	1	0	0	blessé léger	voiture
+201900056736	2019	12	09	97611	1	2	1	passamanty-MRony Manga ( rue )	-12.7994	45.20257	1	0	0	1	0	0	blessé léger	voiture
+201900056995	2019	7	20	97611	5	2	1	m'tsapere-Nationale 2 (route)	-12.79385	45.2189	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900057297	2019	7	10	97603	1	1	1	Dapani CCD4 FACE AU TERRAIN D'AVIATION	-12.97067	45.16257	1	0	0	1	1	0	tué	voiture
+202000000827	2020	7	16	97611	1	1	1	m'tsapere-Nationale 2 (route)	-12.79072	45.21964	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000000870	2020	8	13	97611	1	2	1	vahibe-Vietnam (rue)	-12.72991	45.17743	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000000871	2020	6	17	97611	2	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.78095	45.232	1	0	0	1	0	0	blessé léger	voiture
+202000000880	2020	7	14	97611	1	2	1	kaweni-Poste ( rue de la )	-12.77225	45.22249	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002605	2020	9	12	97611	1	2	1	kaweni-Grande Traverse (rue de la)	-12.76519	45.22521	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002606	2020	12	08	97611	1	2	1	passamanty-Vahibé ( route )	-12.801	45.20713	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002607	2020	12	07	97611	1	2	1	cavani-Baobab (ront point )	-12.78537	45.22622	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002608	2020	12	17	97611	1	1	1	vahibe-Departementale 3 ( route )	-12.78603	45.1741	1	0	0	1	0	0	blessé léger	voiture
+202000002613	2020	12	19	97611	5	1	1	kaweni-Centrale EDM (rue de la )	-12.77418	45.22336	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002617	2020	8	12	97611	1	1	1	tsoundzou-Mangadzia  Tsoundzou 2 (rue )	-12.8196	45.1962	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002632	2020	8	15	97611	1	2	1	doujani-Mouhindi Hassani (rue )	-12.79325	45.21621	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002633	2020	6	11	97611	1	2	1	tsoundzou-Maternelle ( rue de la )	-12.80621	45.20751	1	0	0	1	0	0	blessé léger	voiture
+202000002634	2020	5	11	97611	1	2	1	passamanty-Manguiers (quartier les)	-12.79978	45.20333	1	0	0	1	0	0	blessé léger	voiture
+202000002635	2020	12	16	97611	1	2	1	doujani-Mosquée doujani ( rue )	-12.79311	45.20946	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000002668	2020	4	09	97611	1	2	1	kaweni-Kaweni sud  (Z I)	-12.77257	45.22316	1	0	0	1	0	0	blessé léger	bus ou car
+202000002670	2020	7	15	97611	1	2	9	cavani-Belle vue (rue)	-12.78652	45.21953	1	0	0	1	0	0	blessé léger	voiture
+202000002671	2020	7	16	97611	1	2	1	kaweni-Caserne ( rue de la )	-12.7757	45.22455	1	0	0	1	0	0	blessé léger	utilitaire
+202000003173	2020	3	11	97616	1	2	1	Rue du commerce	-12.85293	45.10769	1	0	0	1	1	0	tué	poids lourd
+202000004444	2020	3	14	97611	1	2	9	mamoudzou centre-Jardin du collège(rue d	-12.78009	45.22381	1	0	0	1	0	0	blessé léger	voiture
+202000004522	2020	8	18	97611	3	2	1	doujani-Carrière ( rue de la )	-12.79318	45.20818	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202000004523	2020	7	18	97611	3	2	1	mgombani-Baobab ( Bd )	-12.78252	45.23369	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000004561	2020	6	08	97611	1	2	1	kaweni-Caserne ( rue de la )	-12.77567	45.22415	1	0	0	1	0	0	blessé léger	voiture
+202000005567	2020	6	18	97603	3	1	1	musical plage CCD4	-12.91799	45.18411	1	0	0	1	1	0	tué	voiture
+202000005971	2020	10	07	97611	1	2	1	tsoundzou-Maternelle ( rue de la )	-12.81598	45.19925	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000006383	2020	3	18	97611	3	2	1	tsoundzou-Maternelle ( rue de la )	-12.80663	45.20805	1	0	0	1	0	0	blessé léger	voiture
+202000006386	2020	7	12	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.77981	45.22798	1	0	0	1	0	0	blessé léger	voiture
+202000006390	2020	9	15	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.7886	45.22483	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000006391	2020	4	06	97611	1	1	1	vahibe-Departementale 3 ( route )	-12.79513	45.19615	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000006402	2020	5	17	97611	1	2	1	kaweni-Grande Traverse (rue de la)	-12.77126	45.22359	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202000006404	2020	7	17	97611	1	2	1	vahibe-Departementale 3 ( route )	-12.78733	45.17563	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000006426	2020	6	07	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.79073	45.19964	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000006444	2020	9	06	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.80348	45.21259	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000006458	2020	12	12	97611	1	2	1	mamoudzou centre-Jardin du collège(rue d	-12.77939	45.22749	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000006459	2020	2	19	97611	5	2	1	vahibe-Vietnam (rue)	-12.78922	45.17545	1	0	0	1	0	0	blessé léger	voiture
+202000006460	2020	3	06	97611	2	2	1	m'tsapere-Nationale 2 (route)	-12.79307	45.21735	1	0	0	1	0	0	blessé léger	voiture
+202000008287	2020	8	06	97611	1	2	1	passamanty-Vahibé ( route )	-12.79871	45.202	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000012339	2020	10	10	97611	1	2	1	convalescence/vetivers-Seize Villas ( ru	-12.77967	45.22786	1	0	0	1	0	0	blessé léger	voiture
+202000013022	2020	1	08	97607	1	2	1	Rue Boboka	-12.83633	45.17245	1	0	0	1	1	0	tué	voiture
+202000013072	2020	1	13	97611	1	2	1	vahibe-Vietnam (rue)	-12.78766	45.17444	0	1	0	1	0	0	blessé léger	voiture
+202000014545	2020	5	11	97614	1	2	1	D16 route de kahani	-12.82394	45.12958	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000016123	2020	12	10	97611	1	2	1	kaweni-Kaweni nord ( Z I )	-12.77411	45.2248	1	0	0	1	0	0	blessé léger	voiture
+202000016124	2020	12	08	97611	1	2	1	doujani-Mosquée de doujani ( rue de la )	-12.77967	45.22786	1	0	0	1	0	0	blessé léger	voiture
+202000018009	2020	11	09	97611	1	2	1	kaweni-Rivière (ruelle de la )	-12.7691	45.22411	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000018184	2020	11	13	97608	1	2	1	Boulevard des Amoureux	-12.78583	45.27927	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000018279	2020	9	19	97611	5	2	1	vahibe-Departementale 3 ( route )	-12.78458	45.17616	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000020309	2020	4	22	97611	5	2	9	tsoundzou-Kadjifouni ( rue )	-12.8069	45.20785	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000022930	2020	5	17	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.78886	45.22459	1	0	0	1	0	0	blessé léger	voiture
+202000025570	2020	6	16	97606	1	2	1	CC5 Village de MrAMADOUDOU	-12.92751	45.15359	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000026858	2020	9	06	97610	1	1	1	RN1 - carrière de KOUNGOU	-12.73917	45.1946	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202000029542	2020	6	12	97607	1	2	1	Rue du Chateau d'Eau	-12.84611	45.18322	1	0	0	4	0	1	blessé hospitalisé	utilitaire
+202000030381	2020	7	18	97610	5	1	1	longoni	-12.73917	45.1946	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000032550	2020	1	17	97611	1	2	1	passamanty-M'hogoni (rue)	-12.7986	45.21567	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000035893	2020	5	11	97603	1	1	1	N3	-12.88745	45.21201	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000037316	2020	7	16	97608	1	2	1	Boulevard des Amoureux	-12.78911	45.27985	0	1	0	2	0	0	blessé léger	voiture
+202000040740	2020	9	17	97611	1	2	1	mamoudzou centre-Papaye (square)	-12.78442	45.22681	1	0	0	1	0	0	blessé léger	voiture
+202000042067	2020	8	12	97602	1	1	1	N1	-12.73099	45.1307	0	1	0	2	0	1	blessé hospitalisé	poids lourd
+202000043336	2020	5	17	97608	2	2	1	Route de Moya	-12.7836	45.2803	1	0	0	1	0	0	blessé léger	voiture
+202000043562	2020	10	17	97603	2	2	1	N3	-12.89385	45.20108	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000046826	2020	5	19	97610	5	2	1	Rue Mtsanga Ylang Ylang	-12.73566	45.20537	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202000047423	2020	12	13	97601	1	2	1	CCD1, Mtsangadoua	-12.7121	45.05259	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202000047648	2020	7	15	97614	1	2	1	Kahani	-12.82456	45.13154	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100000724	2021	12	18	97611	5	2	3	convalescence/vetivers-Vetiver ( rue )	-12.78109	45.22576	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100000818	2021	12	09	97611	1	2	1	m'tsapere-Mosquée Maevantana (ruelle )	-12.78761	45.21874	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100000965	2021	12	20	97611	5	2	1	mamoudzou centre-Commandant Passot (Plac	-12.78061	45.23342	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100001327	2021	12	12	97614	1	1	1	RD 1 KAHANI - DIRECTION COMBANI	-12.82054	45.12964	1	0	0	1	0	0	blessé léger	voiture
+202100001831	2021	12	20	97611	5	2	1	cavani-Briquetterie ( rue de la )	-12.7822	45.22291	1	0	0	2	0	0	blessé léger	autre
+202100003951	2021	12	18	97611	5	2	1	cavani-Belle vue (rue)	-12.78481	45.2227	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100004177	2021	12	18	97615	1	2	1	Boulevard François Mitterrand	-12.79237	45.27867	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100005170	2021	12	18	97615	5	2	1	Rue Abasse Ali	-12.7905	45.28226	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100006345	2021	11	14	97607	1	2	1	Rue de la Plage - Iloni	-12.84476	45.19033	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100006555	2021	11	11	97611	1	2	1	tsoundzou-Maternelle ( rue de la )	-12.80717	45.20471	1	0	0	1	0	0	blessé léger	voiture
+202100006899	2021	11	14	97611	1	2	1	m'tsapere-Ambassadeur (rue)	-12.78775	45.22192	1	0	0	1	0	0	blessé léger	voiture
+202100006901	2021	11	10	97611	1	2	1	m'tsapere-Pont (ruelle du )	-12.78969	45.22059	1	0	0	1	0	0	blessé léger	poids lourd
+202100007746	2021	11	10	97611	1	2	1	cavani-Cavani Massimoni rue de	-12.78219	45.22054	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100008551	2021	11	13	97608	1	2	1	50 Route de Moya	-12.7854	45.2773	1	0	0	1	1	0	tué	voiture
+202100008803	2021	11	11	97608	1	2	1	rue du commerce	-12.78892	45.27233	1	0	0	1	0	0	blessé léger	voiture
+202100010467	2021	10	18	97611	5	2	9	m'tsapere-Maeventana (rue)	-12.78782	45.21858	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100011338	2021	10	12	97611	1	2	1	cavani-Cavani (route de)	-12.78255	45.22354	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100012967	2021	10	10	97617	1	2	1	Quartier lotissement, miréréni	-12.78574	45.14235	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100016520	2021	9	06	97611	1	2	1	passamanty-Mnadzi moja (rue )	-12.80099	45.20831	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100019132	2021	9	07	97611	1	2	2	passamanty-Vahibé ( route )	-12.80094	45.20553	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100020210	2021	9	06	97611	1	2	1	m'tsapere-Maeventana (rue)	-12.78828	45.22046	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100021212	2021	8	18	97611	3	2	1	kaweni-Archipel (avenue de l')	-12.76444	45.22551	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100021908	2021	8	14	97611	1	2	1	passamanty-Vahibé ( route )	-12.801	45.20891	1	0	0	0	0	0	indemne	voiture
+202100022049	2021	8	05	97611	2	2	3	mgombani-M'Gombani ( rue de )	-12.7867	45.22552	1	0	0	1	0	0	blessé léger	voiture
+202100022370	2021	8	17	97607	1	1	1	RN3- TSARARANO	-12.8684	45.20222	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100022686	2021	8	20	97611	5	2	3	tsoundzou-Cadjifouteni ( rue )	-12.80644	45.20837	0	0	1	1	0	0	blessé léger	deux-roues motorisé
+202100024704	2021	8	20	97611	5	2	1	m'tsapere-Belle vue ( rue )	-12.7839	45.22037	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100024813	2021	8	17	97608	1	2	1	Boulevard des Crabes	-12.78748	45.26385	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+202100025407	2021	8	16	97611	1	2	1	kaweni-Poste ( rue de la )	-12.77259	45.22317	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100026413	2021	7	15	97611	1	2	1	m'tsapere-Belle vue ( rue )	-12.78673	45.21866	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100026569	2021	7	18	97617	3	1	1	D1	-12.79185	45.12475	1	0	0	1	1	0	tué	autre
+202100026571	2021	3	19	97608	3	2	1	Route des Badamiers	-12.78142	45.27799	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100028090	2021	7	07	97611	1	2	1	mamoudzou centre-RP Passot quai colas (R	-12.77677	45.23192	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202100028403	2021	7	11	97615	1	2	1	RN 4 - STATION TOTAL	-12.79242	45.27044	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100028927	2021	7	11	97617	1	2	1	Combani	-12.79009	45.13379	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100029258	2021	7	07	97611	1	2	1	passamanty-Vahibé ( route )	-12.80102	45.20862	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100029262	2021	7	12	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.78103	45.23057	1	0	0	1	0	0	blessé léger	voiture
+202100029937	2021	6	16	97611	2	2	1	m'tsapere-Mosquée Maevantana (ruelle )	-12.788	45.22115	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100030689	2021	7	15	97611	1	2	1	tsoundzou-Kwalé ( route de )	-12.8085	45.20389	1	0	0	1	0	0	blessé léger	voiture
+202100031817	2021	6	16	97611	1	2	1	doujani-Mouhindi Hassani (rue )	-12.79269	45.21758	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202100032201	2021	6	17	97608	1	1	1	Route des Badamiers	-12.77635	45.28203	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100032630	2021	6	07	97611	1	2	9	cavani-Rond point du Baobab	-12.78443	45.22386	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100033167	2021	6	17	97611	1	2	1	passamanty-Vahibé ( route )	-12.80216	45.21262	1	0	0	1	0	0	blessé léger	voiture
+202100033692	2021	6	15	97610	1	2	6	Rond point du collège de Majicavo Lamir	-12.75161	45.23042	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202100033767	2021	6	15	97611	1	2	1	m'tsapere-Said Café (rue)	-12.79009	45.21661	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100033991	2021	6	17	97611	1	2	1	kaweni-Pendu (Place)	-12.75803	45.23225	1	0	0	1	0	0	blessé léger	voiture
+202100036570	2021	6	15	97611	1	2	1	mamoudzou centre-Rassi Boina Kaïm (rue)	-12.78413	45.22964	1	0	0	1	0	0	blessé léger	voiture
+202100036944	2021	5	07	97611	1	1	1	kaweni-Kaweni nord ( Z I )	-12.77279	45.22267	1	0	0	1	0	0	blessé léger	voiture
+202100039247	2021	5	13	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.78169	45.2315	1	0	0	1	0	0	blessé léger	voiture
+202100039550	2021	5	10	97611	1	2	1	vahibe-Departementale 3 ( route )	-12.78658	45.17495	1	0	0	1	0	0	blessé léger	voiture
+202100040023	2021	5	08	97611	1	1	1	vahibe-Departementale 3 ( route )	-12.79077	45.18016	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100041240	2021	5	14	97611	1	2	1	tsoundzou-Mariage (place -tsoundzou 2)	-12.81654	45.19884	1	0	0	1	0	0	blessé léger	voiture
+202100041243	2021	5	17	97611	1	2	1	cavani-Belle vue (rue)	-12.78656	45.21939	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100041483	2021	5	08	97611	1	2	1	kaweni-Centrale EDM (rue de la )	-12.76206	45.22616	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100041646	2021	4	21	97611	5	2	1	kaweni-Archipel (avenue de l')	-12.77032	45.22362	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100041757	2021	4	14	97611	1	2	1	m'tsapere-Said Café (rue)	-12.7935	45.21698	1	0	0	1	0	0	blessé léger	voiture
+202100041770	2021	4	12	97611	1	2	1	tsoundzou-SIM ( rue de la )	-12.81469	45.20072	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100042402	2021	3	10	97617	1	2	1	Route départementale 1A	-12.7893	45.10921	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100043104	2021	4	10	97608	1	2	1	Boulevard des Amoureux	-12.78465	45.27943	1	0	0	1	0	0	blessé léger	voiture
+202100043406	2021	3	11	97611	1	2	1	tsoundzou-Mangadzia  Tsoundzou 2 (rue )	-12.81665	45.19866	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100044235	2021	2	12	97611	1	2	1	kaweni-Poste ( rue de la )	-12.77226	45.2222	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100044236	2021	2	18	97611	2	2	1	m'tsapere-Pont (ruelle du )	-12.78935	45.22061	1	0	0	1	0	0	blessé léger	voiture
+202100045189	2021	4	08	97615	1	2	1	route nationale 4	-12.79971	45.27763	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100045892	2021	3	12	97611	1	2	9	m'tsapere-Said Café (rue)	-12.79947	45.20904	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100045893	2021	2	07	97611	1	2	1	mgombani-Mahabou angle rue du commerce (	-12.78384	45.23043	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100046058	2021	1	05	97611	2	2	1	m'tsapere-Nationale 2 (route)	-12.78698	45.22551	1	0	0	1	0	0	blessé léger	utilitaire
+202100047894	2021	1	06	97611	1	2	9	passamanty-Vahibé ( route )	-12.80237	45.21352	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100047895	2021	1	11	97611	1	2	1	m'tsapere-Boubouni (rue)	-12.79047	45.2203	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100055599	2021	1	16	97617	1	2	1	rue de la mosquée	-12.79076	45.12074	1	0	0	2	0	1	blessé hospitalisé	voiture
+202100055990	2021	1	14	97606	1	2	1	Mirereni Be	-12.90627	45.15546	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200002343	2022	10	05	97611	1	2	1	mamoudzou centre-Rassi Boina Kaïm (rue)	-12.78487	45.2282	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200002357	2022	7	13	97611	1	1	1	kaweni-Kaweni nord ( Z I )	-12.7697	45.22162	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200002950	2022	8	17	97611	1	2	1	kaweni-Caserne ( rue de la )	-12.77423	45.22271	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202200003416	2022	3	15	97611	1	2	1	vahibe-Departementale 3 ( route )	-12.8017	45.21171	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202200005217	2022	11	18	97611	5	2	1	tsoundzou-Stara (rue)	-12.81618	45.19908	1	0	0	1	0	0	blessé léger	voiture
+202200009129	2022	3	07	97611	1	2	3	tsoundzou-Kadjifouni ( rue )	-12.80704	45.2073	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200009879	2022	9	03	97611	5	2	1	mamoudzou centre-Rassi Boina Kaïm (rue)	-12.78456	45.22909	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200010155	2022	2	14	97610	1	2	1	Trois Vallées - Majicavo (rue des )	-12.75535	45.23297	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200010616	2022	8	08	97611	1	2	1	cavani-Cavani (route de)	-12.78219	45.2219	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202200010794	2022	11	07	97611	1	2	1	mamoudzou centre-Pasky ( rue )	-12.78063	45.22936	1	0	0	1	0	0	blessé léger	voiture
+202200013180	2022	3	20	97610	5	2	1	Rue Badjimoi	-12.73412	45.16315	1	0	0	1	0	0	blessé léger	voiture
+202200016029	2022	4	15	97607	1	2	1	Rue de l'est HAJANGUA	-12.86601	45.19847	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200017559	2022	9	06	97611	1	2	1	kaweni-SPPM ( rue de la )	-12.7707	45.22213	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200018153	2022	10	09	97611	1	2	1	cavani-Cavani Massimoni rue de	-12.78386	45.21884	1	0	0	2	0	0	blessé léger	voiture
+202200019430	2022	9	11	97608	1	1	1	Route Nationale 4	-12.79305	45.2714	1	0	0	1	1	0	tué	voiture
+202200019724	2022	4	11	97611	1	2	3	cavani-Kavani sud ( rue )	-12.78656	45.21934	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200021336	2022	9	15	97611	1	2	1	m'tsapere-Ambassadeur (rue)	-12.78817	45.2202	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200022700	2022	4	16	97611	1	2	1	doujani-Carrière ( rue de la )	-12.79368	45.20962	1	0	0	1	1	0	tué	voiture
+202200023613	2022	6	09	97611	1	2	1	passamanty-M'hogoni (rue)	-12.78527	45.22058	1	0	0	1	0	0	blessé léger	utilitaire
+202200025038	2022	3	11	97611	1	2	1	kaweni-Madrasse (rue)	-12.77407	45.22173	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200025386	2022	6	07	97607	1	2	1	Route nationale 3	-12.84388	45.18664	1	0	0	1	0	0	blessé léger	voiture
+202200027592	2022	4	06	97602	1	2	1	Bouyouni	-12.73843	45.14096	1	0	0	1	0	0	blessé léger	voiture
+202200032964	2022	8	08	97611	1	2	1	m'tsapere-M'tsapéré- M'tsangani ( rue )	-12.78999	45.22244	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200033572	2022	4	17	97611	1	2	1	tsoundzou-Mariage (place -tsoundzou 2)	-12.80623	45.20604	1	0	0	1	0	0	blessé léger	voiture
+202200033711	2022	11	06	97611	1	2	9	doujani-Mosquée doujani ( rue )	-12.79551	45.2155	1	0	0	1	0	0	blessé léger	voiture
+202200034275	2022	7	07	97611	1	2	1	passamanty-Vahibé ( route )	-12.80238	45.21328	1	0	0	1	0	0	blessé léger	voiture
+202200035277	2022	4	16	97611	1	2	1	kaweni-Kaweni nord ( Z I )	-12.7675	45.2246	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200035579	2022	11	16	97611	1	2	3	mgombani-Mahabou (rond point)	-12.78257	45.2333	1	0	0	1	0	0	blessé léger	voiture
+202200037769	2022	4	07	97611	1	2	6	mamoudzou centre-Adrian SOULI (avenue)	-12.78521	45.22806	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200038992	2022	6	11	97611	1	2	1	passamanty-Vahibé ( route )	-12.80145	45.21151	1	0	0	1	0	0	blessé léger	bus ou car
+202200039943	2022	1	19	97611	5	2	1	tsoundzou-Maternelle (rue de la)	-12.80759	45.20487	1	0	0	1	0	0	blessé léger	voiture
+202200039944	2022	1	13	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.78041	45.22958	1	0	0	1	0	0	blessé léger	utilitaire
+202200040378	2022	12	17	97608	1	2	1	Boulevard des Amoureux	-12.78711	45.27902	1	0	0	1	1	0	tué	voiture
+202200040686	2022	7	07	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.78725	45.22255	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200040804	2022	6	17	97603	1	2	1	Rue Paweni	-12.90778	45.19336	1	0	0	1	1	0	tué	utilitaire
+202200041169	2022	11	15	97608	1	2	1	Rue du Commerce	-12.78892	45.27266	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200042540	2022	8	15	97611	1	2	1	kaweni-Kaweni nord ( Z I )	-12.76254	45.22598	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200042922	2022	2	07	97608	1	1	1	47 c Route des Badamiers	-12.7789	45.28105	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200043267	2022	10	11	97602	1	1	1	D2	-12.73542	45.11892	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200044011	2022	9	07	97611	1	2	1	mamoudzou centre-Rassi Boina Kaïm (rue)	-12.78454	45.22918	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200045240	2022	3	07	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.81992	45.19585	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200045436	2022	5	07	97611	1	2	1	tsoundzou-Cadjifouteni ( rue )	-12.80591	45.21019	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200045903	2022	7	09	97611	1	2	1	tsoundzou-Mangadzia  Tsoundzou 2 (rue )	-12.81698	45.1984	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200045905	2022	7	12	97611	1	1	1	tsoundzou-Mangadzia  Tsoundzou 2 (rue )	-12.81146	45.203	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200045910	2022	6	07	97611	1	2	1	m'tsapere-M'tsapéré- M'tsangani ( rue )	-12.78776	45.22462	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200046013	2022	12	16	97607	1	2	1	Rue Mosquee-HAJANGUA	-12.8679	45.19568	1	0	0	1	0	0	blessé léger	voiture
+202200046887	2022	6	06	97617	1	2	1	29 rue de la mairie	-12.79232	45.12347	1	0	0	1	1	0	tué	voiture
+202200049843	2022	6	08	97611	1	2	1	cavani-Baobab (ront point )	-12.7851	45.22506	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200050003	2022	2	06	97611	1	2	1	kaweni-SPPM ( rue de la )	-12.77021	45.2202	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+202200052188	2022	9	11	97606	1	2	1	avenue said vitta	-12.93543	45.14905	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200052191	2022	5	13	97617	1	2	1	Combani	-12.78977	45.13388	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202200052373	2022	2	15	97611	1	2	1	kaweni-Kaweni nord ( Z I )	-12.7682	45.22437	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202200052673	2022	5	11	97611	1	2	9	kaweni-Mangrove (route de la)	-12.7758	45.22719	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202200053056	2022	8	11	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.79001	45.22046	1	0	0	1	0	0	blessé léger	voiture
+202200054001	2022	2	20	97611	5	2	1	kaweni-Kakal (rue)	-12.77518	45.2196	1	0	0	1	0	0	blessé léger	autre
+202300001161	2023	8	19	97611	3	2	1	les hauts vallons-Filaos ( av des  )	-12.7588	45.22937	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300001165	2023	6	06	97611	2	2	9	kaweni-Kaweni sud  (Z I)	-12.77073	45.22687	1	0	0	1	0	0	blessé léger	autre
+202300001169	2023	5	18	97611	5	2	1	Boulevard Mawana Madi	-12.7815	45.23476	1	0	0	1	0	0	blessé léger	voiture
+202300004514	2023	3	18	97611	3	2	1	cavani-Belle vue (rue)	-12.78632	45.22035	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300004516	2023	3	15	97611	1	2	1	mamoudzou centre-Cinema Alpajoe (rue du)	-12.78002	45.2288	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300004537	2023	11	11	97608	1	2	1	Boulevard des Crabes	-12.78743	45.26385	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300004646	2023	8	07	97611	1	2	1	cavani-Belle vue (rue)	-12.78635	45.22011	1	0	0	1	0	0	blessé léger	voiture
+202300004726	2023	7	07	97611	1	2	1	kaweni-Kaweni nord ( Z I )	-12.76231	45.22605	1	0	0	1	0	0	blessé léger	voiture
+202300004914	2023	3	13	97605	1	2	1	avenue du collège	-12.83263	45.11898	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300005272	2023	8	17	97611	3	2	1	tsoundzou-Kwalé ( route de )	-12.81063	45.20273	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202300006639	2023	3	12	97611	1	2	1	doujani-Mouhindi Hassani (rue )	-12.79529	45.21617	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300006982	2023	9	13	97611	1	2	1	m'tsapere-Maeventana (rue)	-12.78901	45.21927	1	0	0	1	0	0	blessé léger	voiture
+202300010945	2023	12	07	97611	1	2	1	tsoundzou-Maternelle ( rue de la )	-12.80746	45.2052	1	0	0	1	0	0	blessé léger	voiture
+202300011683	2023	2	13	97611	1	2	9	convalescence/vetivers-Seize Villas ( ru	-12.77814	45.21931	1	0	0	1	0	0	blessé léger	voiture
+202300012156	2023	8	07	97611	1	2	1	mamoudzou centre-Commandant Passot (Plac	-12.78226	45.23379	1	0	0	1	0	0	blessé léger	voiture
+202300012490	2023	12	12	97611	1	2	1	kaweni-Centrale EDM (rue de la )	-12.76161	45.22624	1	0	0	1	0	0	blessé léger	poids lourd
+202300017549	2023	4	07	97611	1	2	1	kaweni-SPPM ( rue de la )	-12.7705	45.22112	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300017666	2023	4	14	97611	1	2	9	m'tsapere-Nationale 2 (route)	-12.80266	45.21383	1	0	0	1	0	0	blessé léger	utilitaire
+202300017865	2023	7	13	97604	1	2	1	Rue Bacar Sidi moinatrindri	-12.89993	45.09808	1	0	0	1	1	0	tué	voiture
+202300019028	2023	1	18	97611	1	1	9	kaweni-Europe (avenue)	-12.77099	45.22539	1	0	0	1	0	0	blessé léger	voiture
+202300019432	2023	10	09	97611	1	2	1	vahibe-Vietnam (rue)	-12.79044	45.17674	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300019575	2023	4	15	97611	1	2	1	cavani-Rond point du Stade	-12.78367	45.22255	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300019576	2023	4	14	97611	1	2	1	vahibe-Departementale 3 ( route )	-12.80182	45.21189	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300020951	2023	9	12	97611	1	2	1	kaweni-SPPM ( rue de la )	-12.77081	45.22396	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300023390	2023	6	17	97611	1	2	1	cavani-Kavani sud ( rue )	-12.78417	45.2202	1	0	0	1	0	0	blessé léger	autre
+202300023443	2023	10	08	97611	1	2	1	passamanty-Vahibé ( route )	-12.8	45.20392	1	0	0	1	0	0	blessé léger	voiture
+202300025147	2023	6	12	97611	1	2	1	passamanty-Vahibé ( route )	-12.80239	45.20974	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300028453	2023	3	14	97607	1	2	3	Rue Charles de Gaulle - Tsarar	-12.83602	45.17124	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300029991	2023	11	16	97611	1	2	1	Rue de la plage hamaha	-12.75942	45.22871	1	0	0	1	0	0	blessé léger	voiture
+202300030713	2023	9	17	97614	1	2	1	Avenue Mkarafouni	-12.82401	45.13267	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300032323	2023	3	09	97611	1	2	1	kaweni-Kakal (rue)	-12.77252	45.21788	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300033582	2023	11	15	97610	1	2	1	Route Nationale 1 - Koungou	-12.73596	45.20517	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300033892	2023	11	17	97610	2	2	1	Rue du Commerce - Majicavo	-12.74664	45.22001	1	0	0	1	1	0	tué	poids lourd
+202300034747	2023	12	12	97611	1	2	1	cavani-Rond point du Stade	-12.78431	45.223	1	0	0	1	0	0	blessé léger	voiture
+202300035276	2023	6	07	97611	1	2	1	Avenue Martin Luther King	-12.771	45.22527	0	1	0	1	0	0	blessé léger	voiture
+202300035717	2023	2	07	97611	1	2	1	kaweni-Geole ( rue de la )	-12.76732	45.22458	1	0	0	1	0	0	blessé léger	voiture
+202300037936	2023	5	13	97611	1	2	1	kaweni-GEOLE (la)	-12.76716	45.22466	1	0	0	0	0	0	indemne	deux-roues motorisé
+202300038624	2023	9	16	97611	1	2	1	vahibe-Departementale 3 ( route )	-12.78612	45.17435	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300039115	2023	7	08	97611	1	2	1	kaweni-Mahabourini ( rue )	-12.7732	45.21976	1	0	0	1	0	0	blessé léger	voiture
+202300042380	2023	8	07	97611	1	2	1	cavani-Belle vue (rue)	-12.78476	45.22272	1	0	0	2	0	0	blessé léger	voiture
+202300043337	2023	11	07	97611	1	2	1	kaweni-SPPM ( rue de la )	-12.77031	45.22384	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300043567	2023	5	05	97617	2	2	3	D3 Pont Miréréni Combani	-12.78895	45.13879	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202300044626	2023	9	11	97611	1	2	1	m'tsapere-Belle vue ( rue )	-12.78642	45.2221	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300044945	2023	7	10	97611	1	2	1	tsoundzou-Bamcolo (rue)	-12.81141	45.20284	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300045714	2023	8	17	97615	1	2	2	Rue du Stade	-12.79632	45.28118	0	1	0	1	0	0	blessé léger	voiture
+202300049201	2023	5	20	97601	3	1	1	Route Ahamada M'colo Mari	-12.7252	45.06068	1	0	0	1	1	0	tué	voiture
+202300051978	2023	12	18	97611	5	2	1	kaweni-Centrale (rue)	-12.77557	45.22373	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202300054674	2023	7	09	97611	1	2	9	m'tsapere-Nationale 2 (route)	-12.78965	45.22052	1	0	0	1	0	0	blessé léger	voiture
+202400001647	2024	3	10	97603	1	2	1	Hamouro	-12.8805	45.21411	1	0	0	1	0	0	blessé léger	poids lourd
+202400001733	2024	7	06	97611	1	2	1	mamoudzou centre-Rassi Boina Kaïm (rue)	-12.784	45.229	1	0	0	2	0	0	blessé léger	voiture
+202400002712	2024	8	18	97616	5	2	1	Avenue charif tadjidine	-12.85107	45.10441	1	0	0	1	1	0	tué	voiture
+202400002948	2024	2	16	97613	1	2	1	Rue de College - Chembenyoumba	-12.75764	45.07997	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400004480	2024	8	16	97611	1	2	7	m'tsapere-Nationale 2 (route)	-12.79448	45.21684	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400007515	2024	7	10	97617	1	2	1	D1	-12.78964	45.13089	1	0	0	1	1	0	tué	utilitaire
+202400010163	2024	4	18	97611	5	2	1	cavani-Cavani Massimoni rue de	-12.78399	45.21897	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400011689	2024	11	07	97615	1	2	1	Rue Vitta Lemengo	-12.79428	45.28127	1	0	0	1	0	0	blessé léger	voiture
+202400012768	2024	5	12	97611	1	2	1	tsoundzou-Maternelle	-12.8144	45.20091	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400013452	2024	6	17	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.77956	45.22752	1	0	0	1	0	0	blessé léger	voiture
+202400014520	2024	12	21	97613	5	2	1	Rue Fangalatorou	-12.75639	45.08248	1	0	0	1	1	0	tué	utilitaire
+202400015267	2024	3	08	97615	1	2	1	10-12 rue des jardins	-12.79614	45.27504	1	0	0	1	0	0	blessé léger	poids lourd
+202400018091	2024	12	14	97611	1	2	1	kaweni-Kaweni sud  (Z I)	-12.77076	45.22549	1	0	0	1	0	0	blessé léger	autre
+202400018639	2024	7	15	97611	1	2	1	mgombani-Mahabou (rue de )	45.23233	-12.78381	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400019806	2024	4	12	97611	1	2	1	m'tsapere-Nationale 2 (route)	-12.78785	45.22451	1	0	0	1	0	0	blessé léger	voiture
+202400022693	2024	10	15	97610	1	2	1	Majikavo Koropa	-12.74706	45.22745	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202400023826	2024	1	07	97611	1	2	1	passamanty-Vahibé ( route )	-12.79	45.22346	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400026221	2024	9	05	97603	2	1	1	route nationale 3	-12.88605	45.21548	1	0	0	3	2	1	tué	voiture
+202400028188	2024	7	15	97606	1	2	1	rue mamou chaka	-12.93448	45.15099	1	0	0	2	0	0	blessé léger	utilitaire
+202400031708	2024	5	12	97611	1	2	1	kaweni-SPPM ( rue de la )	-12.771	45.222	1	0	0	1	0	0	blessé léger	voiture
+202400033196	2024	1	07	97611	1	2	1	mgombani-Mahabou (rue de )	-12.78353	45.23326	1	0	0	1	0	0	blessé léger	utilitaire
+202400036376	2024	10	15	97611	1	2	1	kaweni-GEOLE (la)	-12.767	45.225	1	0	0	1	0	0	blessé léger	voiture
+202400037079	2024	1	12	97611	1	2	1	kaweni-Mangrove (route de la)	-12.46332	45.22346	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202400037497	2024	5	06	97611	1	2	1	mamoudzou centre-Haladi Selemani ( rue )	-12.779	45.23	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+202400040083	2024	6	12	97617	1	1	1	route de soulou	-12.78366	45.10748	0	1	0	2	0	2	blessé hospitalisé	autre
+202400041362	2024	4	14	97607	1	1	1	route nationale 3	-12.87121	45.20765	1	0	0	1	1	0	tué	voiture
+202400044107	2024	6	08	97610	1	2	1	rn1 boulemande	-12.74697	45.22732	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400047095	2024	6	15	97611	1	2	1	tsoundzou-Mariage (place -tsoundzou 2)	-12.8159	45.1977	1	0	0	1	0	0	blessé léger	voiture
+202400047346	2024	7	16	97611	1	2	1	cavani-Briquetterie ( rue de la )	-12.782	45.223	1	0	0	1	0	0	blessé léger	voiture
+202400048116	2024	7	09	97616	1	1	1	Tahiti plage	-12.86719	45.1145	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202400048320	2024	7	12	97614	1	1	9	CCD 1 Entre Kahani Et combani	-12.82051	45.12883	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400049246	2024	3	16	97607	1	2	9	Boulevard Mze Mandela - TSARARANO	-12.83796	45.17365	1	0	0	1	0	0	blessé léger	voiture
+202400052998	2024	6	19	97608	5	2	1	Route des Badamiers	-12.77892	45.28131	0	1	0	1	0	1	blessé hospitalisé	voiture

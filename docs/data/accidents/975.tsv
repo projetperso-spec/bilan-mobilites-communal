@@ -1,0 +1,8 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+202100023368	2021	8	15	97501	1	1	1	Miquelon-Langlade - Route de Langlade	46.92178	-56.32639	1	0	0	1	1	0	tué	voiture
+202100026220	2021	7	20	97502	1	2	2	Rue Maître Georges Lefèvre	46.78268	-56.17404	0	0	1	2	0	1	blessé hospitalisé	voiture
+202200026665	2022	12	14	97502	1	2	1	Avenue Général leclerc	46.77968	-56.17215	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300038687	2023	12	10	97502	1	2	2	Rue de Paris	46.78227	-56.17109	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300042611	2023	10	18	97502	1	2	2	Rue de Paris	46.78155	-56.17545	1	0	0	1	0	0	blessé léger	voiture
+202400018163	2024	8	11	97502	1	2	1	boulevard Louis Heron de Villefosse	46.77535	-56.18121	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400054041	2024	2	07	97502	2	2	1	Route de la Pointe Blanche	46.77267	-56.17667	1	0	0	1	0	1	blessé hospitalisé	voiture

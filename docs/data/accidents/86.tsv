@@ -1,0 +1,315 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900000027	2019	11	18	86194	5	2	3	LIBERATION (AVENUE DE LA)	46.57076	0.3248	1	0	0	1	0	0	blessé léger	voiture
+201900003491	2019	2	18	86194	5	2	3	PONTREAU (RUE DU)	46.56889	0.35398	0	1	0	1	0	0	blessé léger	voiture
+201900004266	2019	2	13	86194	1	2	1	PARIS (AVENUE DE)	46.59202	0.33787	0	1	0	1	0	0	blessé léger	voiture
+201900004267	2019	2	09	86194	1	2	3	EUROPE (AVENUE DE L')	46.5908	0.35283	1	0	0	1	0	0	blessé léger	voiture
+201900006606	2019	10	20	86194	5	2	1	11 NOVEMBRE (AVENUE DU)	46.56717	0.36579	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+201900007584	2019	12	16	86194	1	2	3	FAUBOURG PONT NEUF (RUE DU)	46.57739	0.35186	0	1	0	1	0	0	blessé léger	voiture
+201900009114	2019	7	15	86194	1	2	9	8 MAI 1945 (AVENUE DU)	46.55433	0.30914	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900011228	2019	12	18	86066	5	2	1	MOULIN (AVENUE JEAN)	46.79937	0.53694	1	0	0	2	0	2	blessé hospitalisé	voiture
+201900011708	2019	3	16	86041	1	2	1	SAINTE CROIX (RUE)	46.60005	0.35205	0	1	0	1	0	0	blessé léger	voiture
+201900012837	2019	11	13	86194	1	2	1	CONCORDE (BOULEVARD DE LA)	46.56561	0.34833	1	0	0	1	0	0	blessé léger	voiture
+201900014003	2019	4	17	86261	1	1	1	route de Chauvigny	46.56101	0.43761	1	0	0	1	1	0	tué	voiture
+201900014849	2019	12	14	86194	1	2	1	PHILIPPE LE BEL (PLACE)	46.5748	0.3778	1	0	0	1	0	0	blessé léger	utilitaire
+201900015785	2019	3	19	86213	3	1	1	D26	46.42697	0.03904	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900017138	2019	9	15	86187	1	2	9	Rue la Grand-Rue	46.57657	0.77692	0	1	0	1	0	0	blessé léger	voiture
+201900017719	2019	7	09	86066	1	2	1	CHEVALIER DE TERNAY (RUE DU)	46.8269	0.56374	0	1	0	1	0	0	blessé léger	voiture
+201900018633	2019	11	16	86194	1	2	1	RENE CASSIN (BOULEVARD)	46.5759	0.37644	1	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+201900018858	2019	1	23	86128	3	1	1	D757 PK 10 + 700	46.84659	0.32412	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900019045	2019	8	07	86115	1	1	1	Autoroute A10 Marigny Brizay (Marigny-Brizay)	46.7261	0.3915	1	0	0	1	0	0	blessé léger	poids lourd
+201900020709	2019	1	09	86194	1	2	2	JOHN KENNEDY (AVENUE)	46.58939	0.35996	1	0	0	2	0	1	blessé hospitalisé	voiture
+201900020753	2019	1	17	86194	2	2	1	RECTEUR PINEAU (AVENUE DU)	46.71501	0.37244	1	0	0	1	0	0	blessé léger	voiture
+201900021484	2019	6	18	86194	1	2	1	PONT SAINT CYPRIEN (RUE DU)	46.57608	0.34545	1	0	0	1	0	0	blessé léger	voiture
+201900021726	2019	5	17	86194	1	2	1	IASSY (AVENUE DE)	46.57234	0.39304	1	0	0	1	0	0	blessé léger	voiture
+201900021731	2019	5	14	86194	1	2	1	EMILE ROUX (RUE)	46.58988	0.32525	1	0	0	1	0	0	blessé léger	voiture
+201900021732	2019	5	11	86066	1	2	3	VILLENEUVE (RUE CHANOINE DE)	46.81304	0.5442	1	0	0	1	0	0	blessé léger	voiture
+201900021733	2019	5	12	86066	1	2	2	CROIX ROUGE (RUE DE LA)	46.82188	0.54461	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900022196	2019	11	18	86140	5	2	9	32 Avenue du Docteur Dupont	46.4034	0.72	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900023192	2019	6	20	86194	1	2	1	ROCADE EST (RD 162)	46.57264	0.37055	0	1	0	1	0	0	blessé léger	voiture
+201900024588	2019	9	03	86194	5	2	3	COLIGNY (BOULEVARD)	46.57744	0.35181	1	0	0	1	0	0	blessé léger	voiture
+201900024741	2019	4	18	86194	1	2	3	PIERRE LEVEE (RUE DE LA)	46.57556	0.35437	0	1	0	1	0	0	blessé léger	voiture
+201900025628	2019	11	12	86194	2	1	1	RN 147 BUXEROLLES	46.61763	0.36019	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900026246	2019	1	18	86194	5	2	9	11 NOVEMBRE (AVENUE DU)	46.5675	0.36667	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900028464	2019	4	08	86041	1	1	1	CHARLETTERIE (RUE DE LA)	46.3519	0.2212	0	1	0	1	0	0	blessé léger	utilitaire
+201900031628	2019	1	00	86066	5	2	1	VALOIS (RESIDENCE MARGUERITE DE)	46.7983	0.52439	1	0	0	2	0	1	blessé hospitalisé	voiture
+201900034176	2019	4	09	86194	1	2	3	IASSY (AVENUE DE)	46.57369	0.39182	0	1	0	1	0	0	blessé léger	voiture
+201900035738	2019	2	19	86194	2	2	1	RECTEUR PINEAU (AVENUE DU)	46.56793	0.38798	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900036119	2019	3	19	86001	3	1	1	D729 PK22+660	46.23316	0.75718	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+201900037722	2019	3	11	86137	1	2	1	Boulevard Guy Chauvet	47.00866	0.08756	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900037723	2019	4	07	86062	1	1	1	D.910	46.63177	0.35693	1	0	0	1	1	0	tué	voiture
+201900037798	2019	4	04	86214	3	1	1	LIGUGE (ROUTE DE)	46.53862	0.35466	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900038837	2019	9	17	86194	1	2	1	TRAIT TABOULEAU (RUE DU)	46.596	0.3354	0	1	0	1	0	0	blessé léger	utilitaire
+201900039738	2019	7	00	86194	5	2	1	LE PELETIER (AVENUE)	46.58743	0.37279	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+201900040451	2019	10	19	86081	3	2	1	Route des Lavoirs	46.76897	0.41887	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900040681	2019	1	18	86066	5	2	1	BRANLY (RUE)	46.80237	0.54547	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900040890	2019	9	19	86041	1	2	3	FRERES LUMIERE (RUE DES)	46.61067	0.36747	0	1	0	2	0	0	blessé léger	voiture
+201900041788	2019	12	10	86194	1	2	1	JOHN KENNEDY (AVENUE)	46.57721	0.37038	1	0	0	1	0	0	blessé léger	voiture
+201900041789	2019	12	08	86194	1	2	3	PAIX (AVENUE DE LA)	46.58936	0.33411	0	1	0	1	0	0	blessé léger	voiture
+201900042718	2019	1	09	86194	1	2	4	PETIT POLYGONE (RUE DU)	46.57731	0.35881	0	1	0	1	0	0	blessé léger	voiture
+201900044065	2019	6	13	86158	1	2	1	MARCELLIN MAURY (RUE)	46.63016	0.28044	1	0	0	1	0	0	blessé léger	voiture
+201900044261	2019	2	16	86194	1	2	1	NORMANDIE NIEMEN (RUE)	46.56462	0.3389	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900044341	2019	11	19	86194	5	2	1	FAUBOURG SAINT CYPRIEN (RUE DU)	46.56661	0.3443	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900045303	2019	7	14	86207	1	2	3	carrefour de la rue des sarrazins et de l'avenue du Mal De Lattre de Tassigny	46.78872	0.80768	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900045704	2019	6	16	86194	1	2	1	JEAN BRUNET (RUE)	46.1947	0.1947	0	1	0	1	0	0	blessé léger	voiture
+201900045707	2019	6	16	86194	1	2	6	GIBAUDERIE (RUE DE LA)	46.55252	0.3868	0	1	0	1	0	0	blessé léger	voiture
+201900045708	2019	6	08	86194	1	2	1	Route Départementale 910	46.5773	0.315	1	0	0	1	0	0	blessé léger	voiture
+201900047300	2019	5	12	86258	1	2	1	D23 PK 48	46.81238	0.41604	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900049181	2019	12	16	86194	1	2	1	WINSTON CHURCHILL (AVENUE)	46.59128	0.35555	1	0	0	1	0	0	blessé léger	utilitaire
+201900049802	2019	10	15	86224	1	2	1	Rue de Pontoise	46.90071	0.40872	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900050213	2019	9	20	86165	3	1	1	Avenue Fernand Tribot	46.41963	0.87644	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900050618	2019	3	08	86194	1	2	1	IASSY (AVENUE DE)	46.57115	0.39228	1	0	0	1	0	0	blessé léger	voiture
+201900050842	2019	5	09	86178	1	2	1	Allée du Champ de Foire	46.48539	0.4549	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900051330	2019	2	22	86194	5	2	1	BEL AIR (RUE)	46.59375	0.33495	0	1	0	1	0	0	blessé léger	voiture
+201900052181	2019	8	19	86165	1	2	1	32 Rue Charles Dubois	46.42189	0.86624	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900052601	2019	12	15	86160	1	2	1	29 Avenue du General de Gaulle	46.78305	0.1859	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900052706	2019	12	07	86194	1	2	3	PAIX (AVENUE DE LA)	46.58936	0.33411	1	0	0	1	0	0	blessé léger	voiture
+201900054116	2019	8	00	86066	5	2	3	WILSON (AVENUE DU PRESIDENT)	46.81449	0.54365	0	1	1	1	0	0	blessé léger	aucun autre véhicule
+201900055684	2019	7	18	86209	2	1	2	Croisement D95 (pk 29+200) et D95A (PK 0)	46.47077	0.39671	0	1	0	1	0	0	blessé léger	voiture
+201900056302	2019	5	16	86096	1	1	2	ROUTE DÉPARTEMENTALE 41	46.81375	0.31684	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+202000000251	2020	9	17	86032	1	2	1	28 Rue de Saintonge	46.67931	0.56387	1	0	0	1	0	0	blessé léger	voiture
+202000002731	2020	11	10	86145	1	1	1	Route de la Royaute	46.49713	0.25055	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000004545	2020	12	16	86214	1	2	2	Rue de la Chaume	46.55459	0.33364	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000007051	2020	1	19	86194	3	2	1	Avenue Jacques Coeur	46.56851	0.37393	1	0	0	1	0	0	blessé léger	voiture
+202000008602	2020	11	07	86194	1	2	1	Avenue de Northampton	46.57958	0.37919	1	0	0	1	0	0	blessé léger	voiture
+202000009836	2020	10	20	86194	5	2	9	Place de Provence	46.58936	0.35802	1	0	0	1	0	0	blessé léger	utilitaire
+202000010184	2020	8	07	86194	1	2	2	Rue du Pont Saint Cyprien	46.57655	0.34511	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202000010359	2020	12	10	86158	1	2	1	Route de Chardonchamp	46.61801	0.31561	1	0	0	1	1	0	tué	voiture
+202000011221	2020	9	07	86194	2	2	6	Rue de la Jambe à l’Ane	46.57067	0.34982	0	1	0	1	0	0	blessé léger	voiture
+202000012369	2020	11	08	86194	1	2	2	Boulevard Chasseigne	46.59041	0.34359	1	0	0	1	0	0	blessé léger	voiture
+202000013083	2020	1	18	86194	5	2	1	Rue de la Chauvinerie	46.5869	0.32864	1	0	0	1	0	0	blessé léger	voiture
+202000015829	2020	10	01	86194	5	2	1	Rue du Faubourg du Pont Neuf	46.57277	0.36397	0	1	0	1	0	0	blessé léger	voiture
+202000016145	2020	12	10	86194	1	2	1	Rue de Provence	46.58789	0.35851	1	0	0	1	0	0	blessé léger	voiture
+202000016626	2020	1	10	86194	1	2	1	Avenue John Kennedy	46.57382	0.37097	0	1	0	1	0	0	blessé léger	voiture
+202000017643	2020	10	11	86066	1	2	6	RD 161 - ROCADE EST	46.83708	0.54029	0	1	0	1	0	0	blessé léger	utilitaire
+202000019781	2020	10	11	86194	1	2	1	Avenue du Recteur Pineau	46.5681	0.3867	1	0	0	1	0	0	blessé léger	voiture
+202000020110	2020	11	14	86271	1	2	2	5 Rue d'Abain	46.76746	0.24156	0	1	0	1	0	0	blessé léger	utilitaire
+202000020154	2020	11	17	86194	1	2	1	Avenue de Lafayette	46.57598	0.37565	1	0	0	1	0	0	blessé léger	voiture
+202000020960	2020	2	06	86194	3	2	1	Allée Jacques Coeur	46.56708	0.3744	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000022557	2020	7	15	86182	1	1	1	D757	46.8646	0.32147	0	1	0	1	1	0	tué	aucun autre véhicule
+202000022958	2020	9	17	86194	1	2	3	Boulevard René Cassin	46.573	0.381	1	0	0	1	0	0	blessé léger	voiture
+202000023070	2020	9	12	86058	1	2	4	3 Route de Saint Claud	46.65532	0.57283	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000023088	2020	9	16	86293	1	2	1	Avenue Henri Pétonnet	46.42596	0.26348	1	0	0	2	1	0	tué	voiture
+202000024425	2020	1	08	86194	5	2	1	Rue de la Roche	46.5877	0.3304	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202000024826	2020	9	15	86123	1	1	9	Boivre-la-Vallée	46.50986	0.1313	1	0	0	0	0	0	indemne	utilitaire
+202000025863	2020	4	08	86226	1	2	1	Rue de Poitiers	46.55883	0.5077	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202000027046	2020	8	16	86194	1	2	1	Avenue John Kennedy	46.5852	0.36627	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000027048	2020	11	09	86194	1	2	6	Route de Nouaille	46.56376	0.36523	0	1	0	1	0	0	blessé léger	voiture
+202000027224	2020	4	17	86194	1	2	3	Rue Olivier de Serres	46.59626	0.32973	0	0	1	1	0	0	blessé léger	voiture
+202000028868	2020	1	18	86194	5	2	2	Rue de la Devinière	46.56701	0.37633	0	1	0	1	0	0	blessé léger	voiture
+202000029488	2020	9	12	86194	1	2	1	Route de Parthenay	46.60199	0.31512	0	1	0	1	0	0	blessé léger	voiture
+202000032009	2020	1	18	86193	3	1	1	D16	46.75582	0.76621	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000033459	2020	7	19	86194	2	2	1	Rue du Faubourg du Pont Neuf	46.57278	0.35861	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000033665	2020	9	10	86066	1	2	1	Rue d’Antran	46.81704	0.53653	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000033838	2020	12	07	86194	5	2	1	Avenue du Recteur Pineau	46.57056	0.37638	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000036856	2020	1	08	86194	1	2	1	Avenue Mozart	46.56177	0.37274	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000038164	2020	3	16	86194	1	2	1	Avenue Winston Churchill	46.59151	0.35556	1	0	0	1	0	0	blessé léger	voiture
+202000038692	2020	1	17	86062	2	2	1	Allée du Haut Poitou	46.65012	0.36354	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000039317	2020	7	11	86222	1	1	3	D20	46.68103	0.38854	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000040491	2020	2	08	86194	1	2	1	Rue de l’Intendant le Nain	46.59211	0.34034	1	0	0	1	0	0	blessé léger	voiture
+202000040765	2020	9	07	86066	2	1	6	Le Pautron	46.78589	0.54686	0	1	0	1	0	0	blessé léger	voiture
+202000041292	2020	7	22	86194	5	2	2	D162	46.58556	0.36622	0	0	1	1	0	0	blessé léger	voiture
+202000043370	2020	5	15	86158	1	2	1	Route de Poitiers	46.62591	0.30696	0	1	0	1	0	0	blessé léger	voiture
+202000044214	2020	6	07	86066	1	2	6	Place de la Croix Rouge	46.82106	0.54759	0	1	0	1	0	0	blessé léger	utilitaire
+202000044978	2020	1	07	86082	2	2	6	Allée du Haut Poitou	46.36167	0.19974	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+202000045668	2020	6	09	86066	1	2	9	Av du Mal de Lattre de Tassigny	46.81869	0.52568	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000046859	2020	10	12	86194	1	2	2	Route de Gencay	46.56754	0.35752	1	0	0	1	0	0	blessé léger	utilitaire
+202100000411	2021	7	17	86213	1	2	8	Rue de la Liberation	46.41869	0.04101	1	0	0	1	1	0	tué	tramway ou train
+202100000535	2021	9	17	86066	1	2	1	FAURE (BOULEVARD FELIX)	46.82102	0.54625	1	0	0	1	0	0	blessé léger	voiture
+202100000976	2021	11	12	86194	1	2	1	Rue du Pont Saint Cyprien	46.57609	0.34542	1	0	0	1	0	0	blessé léger	voiture
+202100001165	2021	12	07	86157	5	1	6	N147	46.55312	0.4	0	1	0	1	0	0	blessé léger	voiture
+202100001700	2021	12	17	86194	5	2	1	Rue du Pontreau	46.56806	0.35576	1	0	0	2	0	2	blessé hospitalisé	utilitaire
+202100002894	2021	12	07	86158	2	2	1	Avenue de Chatellerault	46.62706	0.35502	0	1	0	1	0	0	blessé léger	utilitaire
+202100003582	2021	12	07	86194	4	2	1	Rue Albin Haller	46.6109	0.33936	1	0	0	1	0	0	blessé léger	voiture
+202100004225	2021	12	08	86066	1	2	1	Av du Mal de Lattre de Tassigny	46.81907	0.5223	1	0	0	1	0	0	blessé léger	voiture
+202100005242	2021	11	17	86194	4	2	1	Voie André Malraux	46.5781	0.36963	1	0	0	1	0	0	blessé léger	voiture
+202100005243	2021	11	23	86194	5	2	1	Rue de la Levée	46.58525	0.33096	1	0	0	1	0	0	blessé léger	autre
+202100005244	2021	11	17	86194	2	2	1	Avenue de Lafayette	46.57613	0.37243	1	0	0	1	0	0	blessé léger	voiture
+202100005246	2021	12	07	86066	3	2	1	Rue Alfred de Vigny	46.80585	0.54143	1	0	0	1	0	0	blessé léger	voiture
+202100005891	2021	11	12	86214	1	2	9	Route de Nouaille	46.5604	0.36804	1	0	0	1	0	0	blessé léger	voiture
+202100010485	2021	10	12	86194	1	2	2	Grand Rue	46.58264	0.34568	0	0	1	1	0	0	blessé léger	voiture
+202100010761	2021	10	16	86183	1	1	1	D58	46.95198	0.64664	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100011753	2021	10	16	86194	1	2	1	Rue du Commerce	46.56618	0.35039	1	0	0	1	0	0	blessé léger	voiture
+202100013037	2021	10	14	86194	1	2	6	Route de Nouaille	46.56381	0.36528	0	0	1	1	0	0	blessé léger	utilitaire
+202100016452	2021	9	08	86194	1	2	1	Avenue d'Iassy	46.57379	0.39161	1	0	0	1	0	0	blessé léger	voiture
+202100018459	2021	9	01	86277	3	1	3	D347	46.77308	0.1908	0	1	0	1	1	0	tué	voiture
+202100021346	2021	8	17	86177	1	1	3	lieu dit virolet	46.70384	0.26361	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100022936	2021	8	14	86276	1	1	1	D741 PK40.500	46.2539	0.52353	0	1	0	1	1	0	tué	utilitaire
+202100023475	2021	8	11	86174	1	2	2	Rue Ambroise Croizat	46.77329	0.48261	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202100024495	2021	8	15	86194	1	2	3	Avenue John Kennedy	46.58699	0.36498	0	1	0	1	0	0	blessé léger	voiture
+202100025256	2021	8	07	86194	1	2	1	Rue du Carreau	46.60783	0.34203	0	1	0	1	0	0	blessé léger	voiture
+202100026372	2021	7	15	86207	1	2	1	Cours Pasteur	46.78626	0.81279	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100027508	2021	7	10	86194	1	2	3	Boulevard Savari	46.5768	0.37832	0	0	1	1	0	1	blessé hospitalisé	voiture
+202100029750	2021	6	16	86194	1	2	1	Rue de Montbernage	46.58284	0.35927	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100030518	2021	6	15	86066	1	2	1	Boulevard de Blossac	46.81627	0.54494	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100030809	2021	7	22	86194	5	2	1	Place Coimbra	46.58912	0.36052	1	0	0	2	0	0	blessé léger	deux-roues motorisé
+202100030943	2021	7	16	86062	1	1	1	Allée du Haut Poitou	46.64698	0.36105	1	0	0	2	0	1	blessé hospitalisé	voiture
+202100037882	2021	5	19	86070	1	1	1	Pouzioux	46.51308	0.68946	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100038073	2021	5	16	86132	1	1	1	D675	46.51634	1.02223	0	1	0	1	1	0	tué	utilitaire
+202100038856	2021	5	09	86095	1	2	3	D15	46.70287	0.43541	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100040882	2021	5	12	86066	1	2	1	Boulevard d’Estrées	46.80585	0.52927	1	0	0	1	0	0	blessé léger	voiture
+202100041880	2021	4	12	86194	1	2	3	Rue Gaston Hulin	46.58262	0.34055	0	1	0	1	0	0	blessé léger	voiture
+202100042006	2021	4	12	86194	1	2	2	Rue Paul Verlaine	46.5671	0.3599	0	0	1	1	0	0	blessé léger	voiture
+202100043004	2021	4	09	86194	1	2	1	Avenue John Kennedy	46.58896	0.36133	1	0	0	1	0	0	blessé léger	voiture
+202100045735	2021	3	17	86041	1	2	6	Rue du Sentier	46.60303	0.37689	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100045919	2021	3	21	86194	5	2	1	Rue de l’Intendant le Nain	46.59104	0.34031	1	0	0	1	0	0	blessé léger	voiture
+202100048654	2021	3	18	86194	1	2	1	Avenue de Nantes	46.58375	0.33022	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202100049475	2021	3	12	86194	1	2	1	Avenue John Kennedy	46.58327	0.36714	1	0	0	2	0	0	blessé léger	voiture
+202100049866	2021	2	17	86194	1	2	1	Route de Bonneuil Matours	46.58855	0.37002	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100049998	2021	2	15	86194	1	2	1	Avenue John Kennedy	46.58694	0.36504	1	0	0	1	0	0	blessé léger	voiture
+202100050442	2021	2	11	86194	1	2	1	Boulevard Tison	46.57535	0.3384	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100051885	2021	2	17	86194	2	2	1	Rue de Nimegue	46.58983	0.36023	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100052296	2021	2	15	86194	1	2	1	Rue Normandie Niemen	46.56465	0.33878	1	0	0	1	0	0	blessé léger	voiture
+202100052393	2021	2	07	86041	5	2	1	Avenue de l’Entraide	46.59638	0.35307	0	1	0	1	0	0	blessé léger	voiture
+202100052394	2021	2	07	86194	2	2	3	Avenue du Plateau des Glières	46.60527	0.3219	0	1	0	1	0	0	blessé léger	voiture
+202100052653	2021	2	17	86194	1	2	6	Rue Maxime Dumoulin	46.57079	0.34975	0	1	0	1	0	0	blessé léger	voiture
+202100052939	2021	2	04	86293	3	1	1	N10	46.45485	0.26649	1	0	0	1	1	0	tué	poids lourd
+202100053436	2021	1	12	86194	1	2	1	Avenue John Kennedy	46.58694	0.36502	1	0	0	1	0	0	blessé léger	voiture
+202100054035	2021	1	13	86066	1	2	1	Avenue Camille Pagé	46.80274	0.52858	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100055020	2021	1	21	86194	5	2	1	Rue du Faubourg du Pont Neuf	46.57796	0.35109	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202100055760	2021	1	18	86214	5	2	1	Chemin du Petit Rocfer	46.56404	0.35251	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100056240	2021	1	18	86194	5	2	1	Rue de la Milètrie	46.56322	0.38159	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200001609	2022	3	08	86225	1	2	9	1 Rue de la Pree	46.84056	0.09232	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200001631	2022	5	11	86159	1	1	1	D11	46.21868	0.69695	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200003288	2022	6	19	86194	1	1	3	Rue de Bignoux	46.5847	0.37478	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200004953	2022	2	07	86213	2	2	1	13 Rue Melusine	46.42085	0.04487	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200006285	2022	9	17	86297	1	2	1	Rue du Lavoir	46.57714	0.27358	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200006778	2022	11	11	86194	1	2	1	Boulevard Coligny	46.57739	0.35438	1	0	0	1	0	0	blessé léger	voiture
+202200008210	2022	7	18	86194	1	2	1	Boulevard Pont Achard	46.57765	0.33119	1	0	0	1	0	0	blessé léger	voiture
+202200008653	2022	6	15	86272	1	1	9	D725	46.81609	0.45753	0	1	0	1	0	0	blessé léger	voiture
+202200008725	2022	8	12	86194	1	2	2	Rue de la Roche	46.58861	0.33007	0	0	1	1	0	0	blessé léger	voiture
+202200009117	2022	3	19	86194	5	2	1	Rue de Chaumont	46.55657	0.30448	1	0	0	2	0	1	blessé hospitalisé	voiture
+202200013990	2022	4	00	86189	2	1	1	D28	46.21948	0.47986	0	1	0	1	1	0	tué	aucun autre véhicule
+202200014026	2022	6	07	86194	2	2	9	Boulevard Anatole France	46.57722	0.3479	0	1	0	1	0	0	blessé léger	voiture
+202200014908	2022	4	09	86115	1	2	6	Route départementale 910	46.67227	0.37539	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200015042	2022	4	10	86165	1	2	9	Avenue Victor Hugo	46.4298	0.87866	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200015137	2022	2	07	86194	5	2	1	Boulevard Savari	46.57582	0.38171	0	1	0	1	0	0	blessé léger	voiture
+202200016205	2022	10	14	86123	1	1	1	D6	46.56979	0.0207	0	1	0	1	1	0	tué	aucun autre véhicule
+202200016300	2022	10	17	86222	1	2	1	Rue du 19 Mars 1962	46.6754	0.40155	0	0	1	1	0	1	blessé hospitalisé	voiture
+202200017219	2022	2	11	86194	1	2	1	Avenue de Nantes	46.58558	0.33311	0	1	0	1	0	0	blessé léger	voiture
+202200017581	2022	9	13	86066	1	2	1	Rue Aimé Rasseteau	46.81186	0.54275	0	0	1	1	0	0	blessé léger	voiture
+202200018284	2022	11	14	86194	1	2	1	Rue de la Milètrie	46.56151	0.37897	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200019721	2022	6	10	86194	1	2	1	Avenue de lafayette	46.57596	0.37602	1	0	0	1	1	0	tué	voiture
+202200020077	2022	10	10	86066	1	2	6	Boulevard Sadi Carnot	46.82104	0.5475	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200023578	2022	6	12	86121	1	2	2	Rue du Château d Eau	46.62776	0.07585	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202200024299	2022	1	18	86194	4	2	1	Rue de Chaumont	46.55476	0.30189	1	0	0	1	0	0	blessé léger	voiture
+202200025491	2022	9	14	86194	1	2	1	Rue Raoul Follereau	46.56672	0.38737	0	1	0	1	0	0	blessé léger	voiture
+202200025962	2022	10	15	86177	1	2	1	41 Allée Jean Monnet	46.67775	0.26645	1	0	0	1	1	0	tué	voiture
+202200026753	2022	12	18	86066	5	2	1	Av du Mal de Lattre de Tassigny	46.81912	0.52203	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200027327	2022	4	10	86194	1	2	1	Rue Jean Jaures	46.58109	0.34481	1	0	0	1	0	0	blessé léger	voiture
+202200030209	2022	5	21	86194	1	2	1	Avenue de la Fayette	46.5762	0.37358	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200032211	2022	12	06	86050	3	2	1	Route de Poitiers	46.66146	-0.004	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200032609	2022	2	17	86066	1	2	6	Rue Edouard Branly	46.80217	0.54559	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200032890	2022	1	14	86214	1	2	1	Rue d’Artimon	46.56281	0.35935	1	0	0	1	0	0	blessé léger	voiture
+202200032934	2022	1	11	86194	1	2	1	Rue du Bas des Sables	46.5709	0.33113	0	1	0	1	0	0	blessé léger	voiture
+202200036253	2022	1	17	86194	5	2	1	Rue du Traité de Rome	46.55278	0.30203	1	0	0	2	0	0	blessé léger	voiture
+202200037294	2022	4	10	86194	1	2	9	Boulevard Chasseigne	46.5881	0.3483	1	0	0	1	0	0	blessé léger	voiture
+202200043305	2022	4	14	86298	1	1	1	11 Route des Chataigniers	46.74079	0.52357	0	1	0	1	1	0	tué	aucun autre véhicule
+202200043380	2022	4	12	86194	1	2	1	Avenue de Lafayette	46.57628	0.37298	1	0	0	1	0	0	blessé léger	voiture
+202200046367	2022	12	18	86226	3	1	1	RD 951	46.55884	0.48675	0	1	0	1	0	1	blessé hospitalisé	bus ou car
+202200047175	2022	3	22	86194	5	2	9	Rocade Ouest	46.60542	0.33582	1	0	0	2	0	0	blessé léger	voiture
+202200047949	2022	6	12	86194	1	2	1	Boulevard Chasseigne	46.59006	0.34548	1	0	0	1	0	0	blessé léger	voiture
+202200049537	2022	1	10	86194	1	2	1	Rue Raoul Follereau	46.56623	0.38692	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200050327	2022	9	09	86121	1	2	1	Rue de la Verminette	46.61885	0.08021	1	0	0	1	1	0	tué	voiture
+202200051902	2022	7	09	86053	1	2	2	Rue de la Paix	46.7164	0.15542	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200054476	2022	10	10	86214	1	2	1	Rue d'Artimon	46.5628	0.36044	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300000464	2023	6	08	86194	1	2	2	Avenue de Nantes	46.58562	0.33317	0	1	0	1	0	0	blessé léger	voiture
+202300000465	2023	6	10	86214	1	2	6	Route de Nouaille	46.56042	0.36822	0	1	0	1	0	0	blessé léger	utilitaire
+202300000921	2023	3	08	86129	1	1	1	D80	46.84283	0.75209	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202300004121	2023	11	19	86017	3	1	1	D42	46.66522	0.08117	1	0	0	1	1	0	tué	voiture
+202300005315	2023	8	15	86194	1	2	1	Rue de l'Aérodrome	46.58824	0.3142	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202300006140	2023	11	17	86041	1	2	3	Rue Maurice Ravel	46.59781	0.35319	1	0	0	1	1	0	tué	bus ou car
+202300007256	2023	8	14	86191	1	1	2	D54	46.48689	0.78723	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300008493	2023	11	19	86074	3	1	1	RN149	46.65432	0.11396	1	0	0	1	1	0	tué	voiture
+202300009067	2023	3	10	86023	1	1	1	D14	46.89977	0.25744	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300009069	2023	3	13	86160	1	2	1	1 Rue Gambetta	46.7847	0.18241	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202300009915	2023	4	11	86290	1	2	3	Route de Gizay	46.45666	0.37476	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300011160	2023	8	20	86272	1	1	1	Route de Rettel	46.82735	0.47149	0	1	0	1	0	0	blessé léger	voiture
+202300013758	2023	4	18	86092	1	2	1	les varennes du moulin à vent	46.92468	0.60074	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300014430	2023	3	11	86153	1	2	1	Route de Bouresse	46.40483	0.69578	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202300016745	2023	9	17	86194	1	2	1	Promenade des Cours	46.57256	0.33845	0	1	0	1	0	0	blessé léger	voiture
+202300018260	2023	8	09	86194	1	2	2	Avenue de Nantes	46.58561	0.3332	0	0	1	1	0	0	blessé léger	voiture
+202300019311	2023	10	14	86194	1	2	9	Avenue de Nantes	46.58559	0.3332	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300019758	2023	7	16	86194	1	2	2	D162	46.58989	0.35549	1	0	0	2	0	2	blessé hospitalisé	voiture
+202300021080	2023	9	08	86194	1	2	3	Bd du Marechal de Lattre de Tassigny	46.58349	0.35212	0	0	1	1	0	0	blessé léger	voiture
+202300021515	2023	4	11	86194	1	2	1	Rue des Carmelites	46.58585	0.33978	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300022460	2023	1	12	86066	1	2	2	Avenue de Richelieu	46.82281	0.53307	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300023409	2023	6	07	86066	1	1	6	D161	46.78614	0.5465	0	1	0	1	0	0	blessé léger	voiture
+202300024416	2023	3	10	86194	1	2	7	Rue de la Vallée Monnaie	46.56528	0.34332	1	0	0	1	0	0	blessé léger	utilitaire
+202300024588	2023	5	15	86194	1	2	1	Avenue de l'Europe	46.59215	0.34801	0	1	0	1	0	0	blessé léger	bus ou car
+202300024671	2023	11	17	86194	2	2	1	Avenue du Plateau des Glières	46.60838	0.31991	1	0	0	1	0	0	blessé léger	voiture
+202300024820	2023	9	16	86294	1	2	2	Place Francois Albert	46.63896	0.16551	0	1	0	1	0	0	blessé léger	voiture
+202300026169	2023	11	11	86007	1	1	2	Route de Bel Air	46.85369	0.53598	0	1	0	1	1	0	tué	voiture
+202300027215	2023	10	15	86165	1	1	6	3 Route de Bourg-archambault	46.41062	0.89584	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300027942	2023	1	10	86221	1	1	3	Route des Templiers	46.80645	0.34417	0	1	0	1	0	0	blessé léger	voiture
+202300028881	2023	12	17	86194	2	2	2	Viaduc Léon Blum	46.58559	0.33323	0	1	1	1	0	0	blessé léger	aucun autre véhicule
+202300029426	2023	7	11	86066	1	2	6	Avenue Robert Schuman	46.81138	0.54382	0	1	0	1	0	0	blessé léger	voiture
+202300029792	2023	3	05	86194	5	2	2	Avenue du 11 Novembre	46.56625	0.3634	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202300030152	2023	11	09	86194	1	2	1	Route de Bonnes	46.58429	0.39378	0	1	0	1	0	0	blessé léger	voiture
+202300030440	2023	5	16	86096	1	1	1	D20	46.82178	0.31881	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300031068	2023	10	13	86158	1	1	1	Rue de Salvert	46.62311	0.31948	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300032071	2023	11	12	86194	1	2	2	Avenue Jacques Coeur	46.56355	0.38199	1	0	0	1	0	0	blessé léger	voiture
+202300033163	2023	10	18	86046	2	2	6	Place Michel Gaudineau	46.77409	0.53678	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300033993	2023	4	15	86194	1	2	6	Rue du Faubourg Saint Cyprien	46.56706	0.34436	1	0	0	1	0	0	blessé léger	utilitaire
+202300034232	2023	5	11	86066	1	2	3	Square Gambetta	46.81472	0.54508	0	0	1	1	0	0	blessé léger	voiture
+202300035990	2023	6	09	86177	1	2	1	41 Allée Jean Monnet	46.6784	0.26633	1	0	0	1	0	0	blessé léger	voiture
+202300036723	2023	12	00	86194	5	2	1	Bd du Marechal de Lattre de Tassigny	46.58579	0.35066	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300037254	2023	7	02	86194	4	2	5	Boulevard Anatole France	46.57818	0.35079	0	0	1	2	0	0	blessé léger	voiture
+202300037921	2023	2	14	86165	1	2	6	Avenue de l'Europe	46.42687	0.85929	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300038619	2023	12	18	86070	5	2	1	Avenue Aristide Briand	46.56925	0.63961	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300039741	2023	11	20	86066	5	2	2	Rue du Nouveau Brünswick	46.81564	0.53565	0	1	0	1	0	0	blessé léger	voiture
+202300040579	2023	12	14	86194	1	2	1	Avenue John Kennedy	46.58701	0.36521	1	0	0	1	0	0	blessé léger	voiture
+202300040581	2023	12	18	86194	3	2	4	Avenue de la Libération	46.56401	0.31748	1	0	0	1	0	0	blessé léger	voiture
+202300041519	2023	11	16	86194	1	2	1	Avenue Robert Schuman	46.58952	0.35826	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300047921	2023	12	12	86194	1	2	1	Avenue du Recteur Pineau	46.56811	0.38684	1	0	0	1	0	0	blessé léger	voiture
+202300050035	2023	12	19	86062	3	2	9	Allée du Haut Poitou	46.65085	0.36385	1	0	0	2	0	0	blessé léger	voiture
+202300051215	2023	5	22	86014	3	1	1	D749	46.74257	0.55408	0	1	0	1	0	0	blessé léger	voiture
+202300051981	2023	9	08	86214	1	2	1	Route de Ligugé	46.55111	0.32081	1	0	0	1	0	0	blessé léger	voiture
+202300052530	2023	1	17	86066	2	2	1	Boulevard de Blossac	46.81742	0.54504	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300053220	2023	8	10	86174	1	1	6	D161	46.78115	0.53019	0	1	0	1	0	0	blessé léger	voiture
+202300053255	2023	8	11	86070	1	2	3	Rue de Poitiers	46.56832	0.63152	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300053933	2023	8	03	86158	3	2	1	D910	46.62971	0.35599	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300054273	2023	7	11	86068	1	2	1	D35	46.20814	0.16347	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400000579	2024	8	11	86194	1	2	2	Avenue Rhin et Danube	46.56827	0.34377	0	1	0	1	1	0	tué	voiture
+202400001709	2024	3	18	86194	2	2	1	Rue du Faubourg du Pont Neuf	46.57273	0.36239	0	0	1	1	0	0	blessé léger	voiture
+202400004021	2024	9	18	86158	1	2	1	Rue de Nanteuil	46.63412	0.33068	1	0	0	1	0	0	blessé léger	voiture
+202400005373	2024	10	18	86194	1	2	3	Avenue du 11 Novembre	46.56913	0.36949	1	0	0	1	0	0	blessé léger	voiture
+202400005574	2024	7	18	86066	1	2	2	Avenue des Stades	46.81126	0.52739	0	1	0	0	0	0	indemne	deux-roues motorisé
+202400008287	2024	9	13	86194	1	2	6	Rue de la Gibauderie	46.55974	0.37641	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400009076	2024	10	20	86194	5	2	2	Boulevard Bajon	46.58108	0.35284	0	1	0	1	0	0	blessé léger	voiture
+202400015629	2024	4	20	86165	1	2	6	Route de Lussac	46.41987	0.85956	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400018229	2024	1	09	86194	1	2	1	Avenue John Kennedy	46.58884	0.36126	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400018592	2024	5	08	86092	1	2	6	Route de Descartes	46.9281	0.60354	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400018940	2024	10	14	86194	1	2	1	Bd du Marechal de Lattre de Tassigny	46.5839	0.35186	0	0	1	1	0	0	blessé léger	utilitaire
+202400021376	2024	6	07	86194	1	1	1	Avenue John Kennedy	46.58255	0.36748	0	1	0	1	0	0	blessé léger	voiture
+202400022062	2024	1	08	86157	2	2	6	N147	46.55344	0.39924	0	1	0	1	0	0	blessé léger	voiture
+202400022069	2024	1	10	86066	1	2	6	Boulevard de Blossac	46.81533	0.54486	0	0	1	1	0	0	blessé léger	voiture
+202400023011	2024	11	15	86194	1	2	1	Avenue de lafayette	46.57609	0.37568	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202400023013	2024	11	12	86194	1	2	1	Rue de la Roche	46.58592	0.3335	0	1	0	1	0	0	blessé léger	utilitaire
+202400023782	2024	1	10	86024	1	2	1	Rue de la Croix	46.56773	0.20837	0	1	0	1	1	0	tué	aucun autre véhicule
+202400025948	2024	7	17	86194	1	2	9	Promenade des Cours	46.57301	0.3402	0	1	0	1	0	0	blessé léger	voiture
+202400027295	2024	3	17	86194	1	2	1	Avenue John Kennedy	46.58736	0.36461	1	0	0	1	0	1	blessé hospitalisé	autre
+202400027297	2024	3	08	86194	1	2	2	Rue de la Pierre Levée	46.57436	0.36174	0	1	0	1	0	0	blessé léger	voiture
+202400027299	2024	3	17	86194	1	2	3	Avenue John Kennedy	46.587	0.36499	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400027606	2024	1	11	86028	1	1	1	D139	46.59655	0.4814	0	1	0	1	1	0	tué	aucun autre véhicule
+202400028626	2024	6	00	86066	5	2	1	Pont Henri IV	46.81639	0.53954	0	1	0	1	1	0	tué	aucun autre véhicule
+202400032588	2024	11	18	86092	4	2	1	Place de la Promenade	46.93687	0.60596	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400033506	2024	1	08	86177	1	2	1	Rue de Cissé	46.67267	0.24562	1	0	0	1	0	0	blessé léger	bus ou car
+202400034179	2024	8	19	86293	1	1	1	D742	46.41957	0.24507	0	1	0	1	0	0	blessé léger	voiture
+202400035725	2024	4	11	86160	1	2	1	Boulevard Foulques Nerra	46.78815	0.18504	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400040900	2024	1	18	86174	5	1	6	D161	46.78102	0.53039	0	1	0	1	0	0	blessé léger	voiture
+202400043246	2024	4	09	86194	1	2	1	Avenue Jacques Coeur	46.56698	0.37639	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400043801	2024	8	10	86194	1	1	1	Rue du Faubourg Saint Cyprien	46.56864	0.34359	1	0	0	1	1	0	tué	voiture
+202400044293	2024	6	05	86036	2	1	1	D39	47.08484	0.06197	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400045097	2024	4	10	86177	1	2	1	Rue de la Jeunesse	46.68135	0.23768	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400045161	2024	7	20	86123	1	2	4	PLACE DE L EGLISE	46.55839	0.07295	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202400045333	2024	2	10	86103	1	2	1	Rue Emilien Fillon	46.37367	0.40739	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400045343	2024	6	08	86157	1	2	1	Chemin du Briandon	46.55965	0.4004	1	0	0	1	0	0	blessé léger	voiture
+202400045352	2024	6	07	86194	2	2	1	Avenue Jacques Coeur	46.57067	0.37048	0	0	1	1	0	0	blessé léger	voiture
+202400046131	2024	9	13	86194	1	2	2	CHASSEIGNE (BOULEVARD)	46.59044	0.34366	0	1	0	1	0	0	blessé léger	voiture
+202400046891	2024	3	19	86066	1	2	1	RD161	46.83813	0.54805	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400047180	2024	6	16	86194	1	2	6	Route de Parthenay	46.59884	0.32316	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400047548	2024	2	09	86214	1	2	3	D88	46.54714	0.34268	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400050441	2024	12	21	86082	3	1	1	D27	46.28074	0.25485	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400052102	2024	7	08	86194	1	2	1	Rue Jean Jaures	46.58046	0.34624	1	0	0	1	0	0	blessé léger	voiture
+202400052908	2024	2	16	86066	1	2	3	Quai du Château	46.82034	0.54212	1	0	0	1	0	0	blessé léger	voiture
+202400054131	2024	3	04	86194	3	2	1	Rue Jean Richard Bloch	46.56917	0.34572	0	0	1	1	0	1	blessé hospitalisé	voiture

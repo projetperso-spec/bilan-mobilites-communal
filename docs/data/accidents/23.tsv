@@ -1,0 +1,56 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900000541	2019	10	07	23093	2	1	1	D997	46.2124	2.23866	1	0	0	1	1	0	tué	voiture
+201900013606	2019	2	16	23096	1	2	2	CHARLES DE GAULLE (AVENUE)	46.16979	1.8744	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900036303	2019	12	17	23176	5	2	1	Avenue Jean Jaurès	46.23633	1.48023	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900042490	2019	2	09	23228	1	1	3	Intersection RD 941/D80a2 lieu dit la croix de la vedrenne	45.94643	2.24088	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900045289	2019	7	18	23245	1	1	6	RD47	46.2004	1.82762	0	1	0	1	0	0	blessé léger	voiture
+202000000689	2020	8	17	23096	1	2	1	CHARLES DE GAULLE (AVENUE)	46.1721	1.8738	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000018256	2020	11	16	23002	1	1	1	D11	46.21399	2.02439	1	0	0	1	0	0	blessé léger	voiture
+202000032853	2020	9	18	23176	2	2	9	Rue René Bruat	46.2395	1.49394	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202000033232	2020	9	18	23096	1	2	1	STALINGRAD (RUE DE)	46.17485	1.8736	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000038799	2020	1	11	23096	1	2	1	MANOUVRIER (AVENUE)	46.16909	1.87554	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100003135	2021	12	15	23096	1	2	1	MANOUVRIER (AVENUE)	46.16942	1.87568	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100003136	2021	12	17	23096	5	2	1	CHARLES DE GAULLE (AVENUE)	46.17703	1.87182	1	0	0	1	0	0	blessé léger	voiture
+202100020033	2021	5	15	23096	1	2	1	LAROCHE (AVENUE LOUIS)	46.1783	1.8703	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100023647	2021	8	17	23076	1	2	1	Avenue de la République	46.17126	2.484	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100024341	2021	8	15	23245	1	1	1	D914	46.17145	1.80989	1	0	0	2	0	2	blessé hospitalisé	deux-roues motorisé
+202100038274	2021	5	09	23024	1	1	1	D17 - Route d'Aubusson	45.95568	2.139	1	0	0	1	0	0	blessé léger	voiture
+202100043176	2021	4	16	23096	1	2	3	SENATORERIE (IMPASSE DE LA)	46.1675	1.8701	0	0	1	1	0	0	blessé léger	voiture
+202100045603	2021	3	11	23096	1	2	9	AUVERGNE (AVENUE)	46.1659	1.888	1	0	0	1	0	0	blessé léger	voiture
+202100046975	2021	3	10	23176	1	2	1	Avenue Jean Jaurès	46.23997	1.47904	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100054723	2021	1	09	23032	1	2	4	D917	46.35121	2.21342	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202200002298	2022	11	18	23096	5	2	1	MONTPLAISIR (RUE)	46.16491	1.87201	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200007229	2022	12	17	23079	5	2	1	Grande Rue	45.88306	2.17403	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200010057	2022	10	20	23001	3	1	1	RD 942 PK 18+600	46.08817	2.02334	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200014777	2022	7	18	23263	1	1	1	N/A	46.32841	1.71893	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200018563	2022	5	10	23096	1	2	1	BONNYAUD (PLACE)	46.16848	1.87008	1	0	0	1	0	0	blessé léger	voiture
+202200019762	2022	4	14	23096	1	2	1	STALINGRAD (RUE DE)	46.17486	1.87358	1	0	0	1	0	0	blessé léger	voiture
+202200039605	2022	5	11	23102	1	1	1	Le Queroir	46.26185	2.03118	0	1	0	1	1	0	tué	aucun autre véhicule
+202200043031	2022	4	08	23092	1	1	1	9 Le Pont	46.23025	1.91606	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202200045194	2022	6	17	23063	1	1	1	Départementale 982	45.78292	2.15512	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200052804	2022	3	21	23069	3	1	1	départementale 996	45.86031	2.3688	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300002418	2023	11	14	23096	1	2	3	MURIERS (RUE DES)	46.1683	1.8748	0	0	1	1	0	0	blessé léger	voiture
+202300016592	2023	3	19	23013	3	1	1	pont de courleix	46.0301	2.51731	0	0	1	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300020415	2023	5	15	23193	1	1	1	La Planche	46.13953	1.90694	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202300027163	2023	10	14	23096	1	2	2	GUILLAUMIN (BOULEVARD)	46.1712	1.8666	0	0	1	1	0	0	blessé léger	voiture
+202300035046	2023	10	17	23096	1	2	3	BERRY (AVENUE DU)	46.1803	1.884	0	1	0	1	1	0	tué	voiture
+202300043500	2023	10	18	23079	5	2	1	Rue Soeur Alphonse	45.88005	2.17145	0	1	0	1	0	1	blessé hospitalisé	autre
+202300051855	2023	5	15	23154	1	1	1	Petite Baleyte	46.13062	2.02374	0	1	0	1	0	0	blessé léger	aucun autre véhicule
+202300054604	2023	8	18	23096	1	2	1	STALINGRAD (RUE DE)	46.1747	1.87308	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400003223	2024	6	12	23096	1	2	3	PASTEUR (AVENUE)	46.17096	1.87783	1	0	0	2	0	0	blessé léger	utilitaire
+202400006117	2024	9	09	23031	1	2	1	D997	46.34871	2.21456	1	0	0	1	1	0	tué	poids lourd
+202400006630	2024	11	18	23096	5	2	1	CASSIN (AVENUE RENE)	46.18025	1.87405	1	0	0	1	0	0	blessé léger	voiture
+202400008525	2024	2	14	23096	1	2	1	BERRY (AVENUE DU)	46.17688	1.87566	1	0	0	1	0	0	blessé léger	voiture
+202400010583	2024	12	15	23090	1	1	1	Route de Pigerolles	45.78405	1.997	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202400011228	2024	3	08	23008	1	2	1	Avenue de la République	45.95461	2.1669	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400017919	2024	9	17	23096	1	2	6	GANE (ROND POINT DE LA)	46.17456	1.87199	0	0	1	1	0	0	blessé léger	autre
+202400018557	2024	8	09	23100	1	2	1	D990	46.17536	2.08837	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400022096	2024	4	21	23015	3	1	1	Les Genets	46.36075	1.49105	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400024734	2024	10	07	23096	1	2	3	BORDIER (AVENUE)	46.16712	1.87015	1	0	0	1	0	0	blessé léger	voiture
+202400026659	2024	10	20	23096	3	2	1	POITOU (AVENUE DU)	46.17469	1.86463	1	0	0	1	0	0	blessé léger	voiture
+202400035577	2024	2	15	23008	1	2	1	1 Rue des Déportés	45.95557	2.16735	1	0	0	1	0	0	blessé léger	voiture
+202400040862	2024	1	01	23096	4	2	1	LEROUX (AVENUE PIERRE)	46.17282	1.88126	1	0	0	1	0	0	blessé léger	voiture
+202400041370	2024	7	08	23235	1	1	1	Souvelinges	46.17762	1.56741	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400044132	2024	8	14	23008	1	2	1	35 Rue Jean Jaurés	45.95559	2.17029	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400047448	2024	6	08	23096	1	2	1	GAMBETTA (AVENUE)	46.17255	1.87721	1	0	0	1	0	0	blessé léger	voiture
+202400051800	2024	5	16	23096	1	2	3	65 BERRY (AVENUE DU)	46.1803	1.8839	0	0	1	1	0	0	blessé léger	voiture

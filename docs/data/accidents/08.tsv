@@ -1,0 +1,142 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900004856	2019	10	16	08105	1	2	3	BETHUNE (BOULEVARD DE)	49.75496	4.71989	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900005731	2019	7	08	08105	1	2	1	ARCHES (AVENUE)	49.76417	4.7194	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900006116	2019	1	16	08105	1	2	1	MONTHERME	49.79102	4.71445	1	0	0	1	0	0	blessé léger	voiture
+201900008584	2019	6	14	08122	1	1	2	RD8051	50.12212	4.79294	0	1	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+201900019340	2019	4	14	08328	1	2	1	64 Rue Chanzy	49.81755	4.74376	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900023602	2019	3	08	08105	1	2	3	CASTRICE (RUE DE)	49.77602	4.73506	1	0	0	1	0	0	blessé léger	voiture
+201900026353	2019	9	11	08105	1	2	1	THEATRE RUE	49.77315	4.71883	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900026482	2019	6	07	08362	1	2	1	Rue Pierre Curie	49.50979	4.36475	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900028945	2019	3	17	08105	1	2	1	BRIAND A. COURS	49.76886	4.71925	1	0	0	1	0	0	blessé léger	voiture
+201900034337	2019	7	22	08090	5	2	3	Rue des jardins	49.63945	5.17614	1	0	0	1	0	0	blessé léger	voiture
+201900036333	2019	12	18	08190	5	2	2	10 Place de la République	50.13472	4.82912	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900036393	2019	5	16	08105	1	2	1	ROUSSEAU J.J.	49.77539	4.71222	1	0	0	1	0	0	blessé léger	voiture
+201900038110	2019	12	07	08105	5	2	3	PINSONS	49.74449	4.7154	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900038680	2019	10	18	08105	5	2	1	ARCHES (AVENUE)	49.7612	4.71905	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900039321	2019	2	11	08105	1	2	3	MONGE	49.76063	4.71844	0	1	0	1	0	1	blessé hospitalisé	voiture
+201900039322	2019	2	14	08105	1	2	1	RONDE COUTURE	49.74726	4.7191	1	0	0	1	0	0	blessé léger	voiture
+201900040303	2019	6	13	08363	1	2	1	rue Waldeck Rousseau	49.94046	4.63385	1	0	0	1	0	0	blessé léger	voiture
+201900041264	2019	8	08	08362	1	2	9	Rue Louis Jouvet	49.50826	4.37622	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+201900041536	2019	7	08	08105	1	2	1	DE GAULLE AVENUE	49.7672	4.71786	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900048527	2019	8	11	08105	1	2	1	CHARCOT J. QUAI	49.77544	4.72462	1	0	0	1	0	1	blessé hospitalisé	voiture
+201900048528	2019	8	14	08105	1	2	1	MONGE	49.76064	4.7179	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000001102	2020	3	13	08105	1	2	9	Rue André Joseph	49.7379	4.7096	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000003091	2020	5	13	08053	1	2	1	77 Rue Flamanville	49.67949	4.97695	1	0	0	1	1	0	tué	voiture
+202000004477	2020	12	17	08105	5	2	7	DUCALE PLACE	49.77356	4.72069	1	0	0	1	0	0	blessé léger	voiture
+202000004584	2020	12	09	08105	1	2	3	BRONNERT BOULEVARD	49.76402	4.69388	1	0	0	1	1	0	tué	voiture
+202000004719	2020	11	16	08328	1	2	1	2 Rue Jean Jaurès	49.81323	4.74394	1	0	0	1	0	0	blessé léger	voiture
+202000005055	2020	3	06	08067	5	2	1	74 Route Nationale	49.62565	5.17835	0	1	0	1	0	1	blessé hospitalisé	poids lourd
+202000007451	2020	1	13	08190	1	2	1	Place Méhul	50.13797	4.82153	1	0	0	1	0	0	blessé léger	voiture
+202000009421	2020	1	10	08409	1	2	1	147EME ET 347EME R.I.(BOULEVARD DU)	49.7091	4.93942	1	0	0	4	0	1	blessé hospitalisé	voiture
+202000011143	2020	1	08	08409	1	2	1	FAUSSES BRAIES (RUE DES)	49.69802	4.94998	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000011833	2020	9	01	08105	3	1	1	RN 43	49.75	4.70318	1	0	0	1	1	0	tué	voiture
+202000012718	2020	5	03	08251	3	1	1	Route Departementale 985	49.75458	4.45631	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000018069	2020	12	14	08480	1	2	1	JAURES J. AVENUE	49.7427	4.73896	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000020367	2020	4	15	08502	1	2	1	Rue de la Rocaille	49.56575	5.0136	1	0	0	1	1	0	tué	voiture
+202000021220	2020	6	18	08222	1	2	2	129 Rue Saint-louis	50.00014	4.69822	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+202000024823	2020	9	15	08486	1	2	1	74 Rue Carnot	50.08772	4.71658	0	1	0	1	1	0	tué	aucun autre véhicule
+202000027155	2020	11	09	08105	1	2	1	THEATRE RUE	49.77371	4.71879	1	0	0	1	0	0	blessé léger	voiture
+202000028803	2020	9	10	08142	1	2	9	1 Rue du Général de Gaulle	49.69474	4.87467	1	0	0	1	0	0	blessé léger	voiture
+202000031263	2020	8	16	08200	1	2	1	Rue Corneille	49.41659	4.629	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000032388	2020	3	17	08381	1	2	1	5 Rue de Banogne	49.51181	4.13019	1	0	0	1	1	0	tué	deux-roues motorisé
+202000035302	2020	6	14	08328	1	1	1	voie verte	49.79786	4.75938	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202000036928	2020	1	21	08409	5	2	1	TRENTE FLOREAL (BOULEVARD DU)	49.70474	4.9514	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000037162	2020	7	20	08105	5	2	3	WARCQ	49.76	4.7	0	1	0	1	0	0	blessé léger	voiture
+202000038509	2020	2	10	08105	1	2	1	CARNOT AVENUE	49.7419	4.7263	1	0	0	1	0	0	blessé léger	voiture
+202000043264	2020	6	09	08107	1	2	1	54 Rue de la Sommevue	49.52996	4.24894	1	0	0	1	0	0	blessé léger	voiture
+202000043414	2020	5	18	08409	1	2	1	MARNE (AVENUE DE LA)	49.69663	4.91654	0	1	0	1	0	0	blessé léger	voiture
+202000044488	2020	8	18	08363	1	2	1	28 Rue Pasteur	49.94004	4.63679	0	1	0	1	0	0	blessé léger	utilitaire
+202000044538	2020	8	15	08081	1	2	1	Rue du Vieux Moulin	49.8612	4.76116	0	1	0	1	0	1	blessé hospitalisé	voiture
+202000045073	2020	10	07	08457	2	1	1	N43	49.79417	4.6328	0	1	0	1	0	0	blessé léger	voiture
+202000045706	2020	12	17	08362	2	2	1	19 Avenue Charles de Gaulle	49.51592	4.3643	1	0	0	1	1	0	tué	voiture
+202100000727	2021	12	18	08105	3	2	1	RIMBAUD A. QUAI	49.77564	4.72163	1	0	0	2	1	1	tué	voiture
+202100005203	2021	12	18	08480	5	2	1	MICHEL L.	49.7388	4.74721	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100005362	2021	11	08	08105	1	2	1	ARCHES (AVENUE)	49.76244	4.71924	0	1	1	1	0	1	blessé hospitalisé	aucun autre véhicule
+202100005600	2021	11	18	08363	5	2	1	Avenue Danton	49.93866	4.64104	1	0	0	1	0	0	blessé léger	voiture
+202100019575	2021	9	15	08190	1	2	6	Route de Beauraing	50.13358	4.85191	0	1	0	1	0	0	blessé léger	voiture
+202100020314	2021	9	10	08409	1	2	9	ALLENDE (RUE DU PT SALVADOR)	49.69595	4.94214	1	0	0	1	1	0	tué	utilitaire
+202100024423	2021	8	15	08291	1	1	1	RD981	49.68223	5.28606	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100025675	2021	8	17	08490	1	2	9	6 Rue Avetant	49.39679	4.70236	1	0	0	1	0	0	blessé léger	voiture
+202100032300	2021	6	21	08409	1	2	9	ALSACE-LORRAINE (PLACE)	49.70218	4.94456	0	1	0	1	0	0	blessé léger	voiture
+202100032588	2021	6	09	08067	1	2	9	43 Route Nationale	49.6223	5.1852	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100034304	2021	6	12	08105	1	2	1	RN 43	49.73716	4.71589	1	0	0	1	0	0	blessé léger	voiture
+202100037274	2021	5	12	08105	1	2	3	AURIOL PRESIDENT (AVENUE)	49.75453	4.72238	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100039736	2021	5	15	08403	1	2	1	33 Avenue de Bourgoin	49.49927	4.36325	1	0	0	1	1	0	tué	voiture
+202100042898	2021	4	18	08480	1	1	1	A34	49.73696	4.75034	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100043342	2021	4	16	08105	1	2	3	ARAGON LOUIS.(BOULEVARD)	49.7402	4.72341	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100045102	2021	3	20	08105	2	2	1	BOUTET C. AVENUE	49.77569	4.71124	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202100045862	2021	3	17	08039	1	2	1	Rue d'Ecry	49.45882	4.09024	0	1	0	1	0	0	blessé léger	voiture
+202100046693	2021	3	13	08491	1	2	1	1 Avenue Jean Jaurès	49.73727	4.85506	1	0	0	1	0	0	blessé léger	voiture
+202100049761	2021	2	17	08409	1	2	1	THIERS (RUE)	49.70158	4.93756	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100053388	2021	1	11	08302	1	2	1	rue de prüm	49.88411	4.75298	1	0	0	1	0	0	blessé léger	voiture
+202200000515	2022	12	15	08362	1	2	1	1 Rue Henri Jadart	49.51041	4.36729	1	0	0	1	0	0	blessé léger	voiture
+202200001460	2022	7	14	08017	1	1	1	RD 242	49.26964	4.9923	0	1	0	1	1	0	tué	aucun autre véhicule
+202200002737	2022	7	07	08090	1	2	1	N/A	49.63165	5.16804	1	0	0	1	0	0	blessé léger	voiture
+202200002994	2022	8	10	08105	1	2	9	Rue de Vaudidon	49.77355	4.71785	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200005927	2022	12	17	08302	5	2	7	Place Emile Zola	49.88809	4.73817	1	0	0	1	0	0	blessé léger	voiture
+202200006993	2022	10	09	08409	1	2	1	13 Rue Gambetta	49.70093	4.94581	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200006994	2022	8	17	08409	1	2	9	MIRBRITZ (RUE DE)	49.7	4.94	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200007272	2022	12	17	08090	5	2	1	Rue Maria Visseaux	49.63148	5.16628	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200009809	2022	9	09	08362	1	2	6	Rue Thiers	49.50837	4.3663	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200010993	2022	12	17	08363	3	2	1	Rue Jean Moulin	49.93167	4.64099	1	0	0	1	0	0	blessé léger	voiture
+202200013182	2022	3	15	08403	1	2	6	Rue de la Sucrerie	49.50275	4.36018	0	1	0	1	0	0	blessé léger	voiture
+202200014624	2022	11	21	08419	3	1	1	RD 985	49.70397	4.41757	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200018521	2022	2	09	08194	1	2	1	29 rue de bellevue	49.7086	4.91078	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202200019055	2022	3	09	08480	1	2	9	RD 764 BIS	49.73129	4.75221	1	0	0	2	0	1	blessé hospitalisé	voiture
+202200021834	2022	6	17	08105	1	2	1	26 Rue de Lapparent	49.77841	4.70752	1	0	0	1	1	0	tué	autre
+202200028035	2022	9	16	08105	1	2	9	Avenue de Saint-Julien	49.76125	4.71349	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202200029011	2022	8	16	08105	1	2	9	Route de Prix	49.75541	4.70854	0	1	0	1	0	1	blessé hospitalisé	voiture
+202200038132	2022	12	17	08497	5	2	1	35 Boulevard Lucien Pierquin	49.77907	4.69384	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200039708	2022	5	12	08480	1	2	1	GAMBETTA RUE	49.74008	4.75307	0	1	0	1	0	0	blessé léger	voiture
+202200042801	2022	6	01	08409	5	2	6	GOULDEN (PLACE)	49.70189	4.94423	1	0	0	1	0	0	blessé léger	voiture
+202200048803	2022	8	16	08448	1	2	3	Rue de la Butterie	49.88466	4.82131	0	1	0	1	0	1	blessé hospitalisé	aucun autre véhicule
+202200049235	2022	3	02	08331	4	2	1	15Rue de la Gare	49.67041	4.95307	1	0	0	1	1	0	tué	voiture
+202300000182	2023	3	15	08409	1	2	3	42 Avenue de la Marne	49.69791	4.92148	0	0	1	1	0	1	blessé hospitalisé	voiture
+202300000893	2023	3	04	08163	3	1	1	A 34	49.60782	4.53008	1	0	0	1	0	1	blessé hospitalisé	poids lourd
+202300001598	2023	12	18	08409	5	2	1	CHANZY (BOULEVARD)	49.7035	4.93156	0	0	1	1	0	0	blessé léger	voiture
+202300004199	2023	2	08	08409	1	2	1	MARNE (AVENUE DE LA)	49.69588	4.91436	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300009691	2023	2	09	08105	1	2	7	MOHON PLACE	49.75245	4.73153	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300009826	2023	2	11	08362	1	2	1	28 Rue Pierre Curie	49.50973	4.36485	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202300010243	2023	11	07	08302	5	2	2	3 Rue Jean Mermoz	49.8854	4.74049	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300012833	2023	12	16	08457	1	2	1	Rue de la Suine	49.79519	4.63818	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300013346	2023	2	15	08490	1	2	1	13 Rue Chanzy	49.39751	4.70179	1	0	0	1	0	1	blessé hospitalisé	utilitaire
+202300013979	2023	8	18	08487	1	1	1	voie verte	50.04428	4.72601	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300014983	2023	9	16	08105	1	2	1	32 Av des Martyrs de la Resistance	49.75855	4.72562	1	0	0	1	0	0	blessé léger	autre
+202300015166	2023	9	15	08071	1	1	1	N/A	49.81169	4.46076	0	1	0	2	0	1	blessé hospitalisé	voiture
+202300016086	2023	7	00	08349	3	2	1	Route de Messempré	49.67347	5.16659	0	0	1	1	0	1	blessé hospitalisé	voiture
+202300024036	2023	5	03	08105	5	2	1		49.77743	4.72289	1	0	0	1	0	0	blessé léger	voiture
+202300027078	2023	6	00	08409	4	2	1	THIERS (RUE)	49.70213	4.94126	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300027991	2023	4	19	08105	1	2	1	18 Quai Jean Charcot	49.7754	4.72501	1	0	0	1	0	0	blessé léger	utilitaire
+202300033758	2023	4	11	08449	1	1	4	D16/ D20	49.71379	4.50874	0	1	0	1	0	1	blessé hospitalisé	voiture
+202300036366	2023	2	10	08022	1	2	2	1 Route de Tournes	49.82343	4.65188	1	0	0	1	0	0	blessé léger	voiture
+202300036659	2023	12	16	08365	5	2	1	1 RUE PASTEUR	49.84166	4.53879	1	0	0	2	2	0	tué	voiture
+202300041076	2023	1	07	08105	2	2	1	42 Boulevard Gambetta	49.77191	4.71334	1	0	0	1	0	0	blessé léger	bus ou car
+202300043559	2023	2	13	08222	1	1	1	D8051	50.00615	4.69241	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300047266	2023	5	10	08367	1	2	1	46 Hameau de Saint Nicolas	49.92936	4.62336	1	0	0	1	0	1	blessé hospitalisé	voiture
+202300049227	2023	5	13	08081	1	2	1	N/A	49.84813	4.76943	1	0	0	1	0	0	blessé léger	voiture
+202300051464	2023	10	19	08105	5	2	9	N/A	49.74916	4.71773	0	1	0	1	0	0	blessé léger	autre
+202300052796	2023	9	08	08491	2	2	9	Rue de l?Industrie	49.72746	4.84037	1	0	0	1	0	0	blessé léger	voiture
+202300054679	2023	5	18	08298	1	2	1	4 Rue Pasteur	49.77432	4.74129	0	0	1	1	1	0	tué	aucun autre véhicule
+202400002321	2024	11	04	08480	5	2	9	N/A	49.7427	4.73939	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400002943	2024	2	19	08282	5	2	1	N/A	49.86637	4.4328	1	0	0	1	0	0	blessé léger	voiture
+202400004970	2024	2	18	08409	5	2	7	MARNE (AVENUE DE LA)	49.69881	4.92548	1	0	0	2	0	0	blessé léger	voiture
+202400006546	2024	8	11	08105	1	2	1	36 Rue de Warcq	49.76361	4.69961	1	0	0	1	0	0	blessé léger	autre
+202400007135	2024	6	19	08089	1	2	1	N/A	49.42662	4.95479	0	1	0	1	0	0	blessé léger	voiture
+202400017058	2024	3	10	08239	1	2	1	10 Avenue de Quimper	49.39481	4.38277	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400017943	2024	9	17	08105	1	2	1	N/A	49.75625	4.71974	0	0	1	1	0	1	blessé hospitalisé	voiture
+202400018244	2024	12	09	08480	1	2	1	BUISSON F.	49.74235	4.74665	1	0	0	1	0	0	blessé léger	voiture
+202400018458	2024	7	22	08409	5	2	1	GOULDEN (PLACE)	49.70196	4.94418	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400019161	2024	6	12	08105	1	2	1	39 Rue Jean-jacques Rousseau	49.77397	4.71147	0	1	0	1	0	0	blessé léger	voiture
+202400020571	2024	7	10	08409	1	2	1	MARNE (AVENUE DE LA)	49.69799	4.9217	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400021928	2024	8	08	08090	1	2	1	72 Avenue de Blagny	49.62726	5.17488	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400025294	2024	3	11	08188	1	2	3	Croisement entre la D979 et la D22	49.81707	4.82796	0	1	0	1	0	0	blessé léger	voiture
+202400025504	2024	12	09	08190	1	2	1	10 D949	50.13421	4.84745	1	0	0	1	0	0	blessé léger	voiture
+202400030325	2024	8	15	08357	1	1	1	chateau du liry - route départementale 6	49.66554	4.96818	0	1	0	1	0	1	blessé hospitalisé	voiture
+202400040391	2024	6	01	08067	5	2	1	N/A	49.62031	5.18956	1	0	0	1	1	0	tué	voiture
+202400043788	2024	7	17	08105	1	2	1	N/A	49.75604	4.71825	1	0	0	1	0	1	blessé hospitalisé	bus ou car
+202400046772	2024	5	10	08105	1	2	1	77 Rue Ferroul	49.74401	4.72219	1	0	0	1	0	0	blessé léger	voiture
+202400047216	2024	1	07	08105	2	2	9	30 Rue de Flandre	49.77446	4.71717	1	0	0	1	0	0	blessé léger	voiture
+202400048824	2024	2	06	08400	3	1	1	N/A	49.64979	4.7802	1	0	0	1	1	0	tué	utilitaire
+202400049005	2024	3	16	08105	1	2	1	CARNOT AVENUE	49.74651	4.72545	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400049626	2024	6	11	08491	1	2	1	N/A	49.73673	4.85676	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202400052947	2024	8	16	08185	1	2	1	N/A	49.9856	4.69165	1	0	0	1	0	0	blessé léger	voiture

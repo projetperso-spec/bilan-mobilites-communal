@@ -1,0 +1,29 @@
+id	annee	mois	heure	commune	lum	agg	int	adresse	lat	lon	pieton	velo	edp	victimes	tues	hospit	gravite	adverse
+201900007249	2019	11	19	97801	3	2	1	Rue Lady Fish - Sandy Ground	18.06211	-63.0937	1	0	0	1	0	0	blessé léger	autre
+201900020242	2019	3	18	97801	3	2	1	rue ground dove	17.85329	-63.3252	0	1	0	1	0	1	blessé hospitalisé	utilitaire
+201900044467	2019	1	13	97801	1	2	1	boulevard de France et rue Félix Eboué	18.06655	-63.08707	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000005345	2020	9	09	97801	1	2	1	rue de Hollande - Marigot	18.07212	-63.08111	1	0	0	1	0	1	blessé hospitalisé	autre
+202000021657	2020	10	19	97801	5	2	1	6 Rue d'Orléans	18.06931	-63.0353	1	0	0	2	0	2	blessé hospitalisé	voiture
+202000025553	2020	6	07	97801	2	1	1	mont vernon RN7	18.07796	-63.02905	1	0	0	1	0	1	blessé hospitalisé	voiture
+202000025562	2020	11	17	97801	3	2	1	95 rue Lady Fish	18.05946	-63.10059	0	1	0	1	0	1	blessé hospitalisé	autre
+202000027169	2020	4	13	97801	1	2	1	RN7	18.06929	-63.03532	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202000027675	2020	11	17	97801	1	2	1	route de sandy ground	18.06199	-63.09388	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202100014068	2021	10	21	97801	5	2	1	rue de hollande	18.06883	-63.08327	1	0	0	1	0	0	blessé léger	deux-roues motorisé
+202100022865	2021	8	01	97801	5	2	1	R DE SANDY GROUND	18.05778	-63.09864	1	0	0	1	0	1	blessé hospitalisé	autre
+202100040832	2021	5	14	97801	1	2	9	montée de morne vallois, rn7	18.07005	-63.07529	1	0	0	1	0	0	blessé léger	voiture
+202100044896	2021	4	09	97801	1	2	1	R JEAN-LUC HAMLET	18.06606	-63.07395	0	1	0	1	0	0	blessé léger	deux-roues motorisé
+202100045184	2021	4	08	97801	1	2	1	RN7, Cripple Gate	18.08028	-63.07066	0	1	0	1	0	1	blessé hospitalisé	voiture
+202100055248	2021	1	04	97801	5	2	1	rn7 - quartier d'orléans	18.06886	-63.03572	1	0	0	1	0	1	blessé hospitalisé	voiture
+202100055405	2021	1	23	97801	5	2	1	RN7	18.06891	-63.0357	1	0	0	1	0	1	blessé hospitalisé	voiture
+202200025009	2022	3	04	97801	5	2	1	RN7 - Grand Case	18.09972	-63.0559	0	1	0	1	0	0	blessé léger	voiture
+202200034317	2022	12	21	97801	5	2	1	face 238 boulevard de grand case - RN7	18.09942	-63.06103	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202200045393	2022	5	13	97801	1	2	4	R DES ECOLES	18.09958	-63.05502	1	0	0	1	0	0	blessé léger	voiture
+202300014128	2023	11	16	97801	1	2	1	R CHARLES TONDU	18.06358	-63.09094	1	0	0	1	1	0	tué	deux-roues motorisé
+202300032955	2023	10	17	97801	1	2	1	rue de hollande	18.07449	-63.07953	1	0	0	1	0	0	blessé léger	voiture
+202300034075	2023	11	19	97801	4	2	3	IMP CLAMY CHERRY	18.0674	-63.07764	1	0	0	1	0	1	blessé hospitalisé	autre
+202300054565	2023	2	22	97801	3	2	1	RUE DE HOLLANDE	18.07343	-63.08027	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400014181	2024	2	12	97801	1	2	1	RN7 - grand case	18.09952	-63.06029	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202400016836	2024	10	17	97801	1	2	1	R LADY FISH	18.0599	-63.09878	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202400017614	2024	4	14	97801	1	2	1	R LOW TOWN	18.06034	-63.08655	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
+202400029134	2024	3	10	97801	1	2	1	R DE SANDY GROUND	18.0581	-63.09696	1	0	0	1	0	1	blessé hospitalisé	voiture
+202400048958	2024	1	16	97801	1	2	1	R LADY FISH	18.05975	-63.0993	1	0	0	1	0	1	blessé hospitalisé	deux-roues motorisé
