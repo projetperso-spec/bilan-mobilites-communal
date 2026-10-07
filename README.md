@@ -1,5 +1,7 @@
 # Bilan des mobilités douces communal
 
+**Auteur : Césarion Djonel** (2026). Site en ligne : https://projetperso-spec.github.io/bilan-mobilites-communal/
+
 Un site où l'on tape le nom d'une commune française pour obtenir, en moins d'une minute, une carte, un bilan chiffré et une liste d'actions priorisées sur les mobilités actives : réseau cyclable et ses coupures, rues apaisées, stationnement vélo, accidents de piétons et de cyclistes, abords des écoles et des gares, modes de déplacement vers le travail.
 
 Il a été conçu pour préparer l'évaluation d'un plan communal de mobilités douces (par exemple un plan 2020-2026) : il compare le réseau d'aujourd'hui à celui du 1ᵉʳ janvier 2020.

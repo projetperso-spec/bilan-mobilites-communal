@@ -1,4 +1,5 @@
 /* Bilan des mobilités douces communal.
+   Auteur : Césarion Djonel, 2026.
    Tout se passe dans le navigateur : la page interroge OpenStreetMap (Overpass) et l'API Découpage
    administratif au moment de la demande, et lit les fichiers par département préparés par les scripts R. */
 (function () {
@@ -700,7 +701,7 @@
     const p = d.commune.properties, r = d.reseau, L1 = r.longueurs, a = d.accidents, m = d.modes, pop = d.population, h = [];
     const date = new Date().toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
     h.push(`<h2>${echappe(p.nom)}</h2>
-      <p class="sous-titre">Bilan des mobilités douces · ${fmt(p.population)} habitants · ${fmt(p.surface / 100, 1)} km² · établi le ${date}</p>
+      <p class="sous-titre">Bilan des mobilités douces · ${fmt(p.population)} habitants · ${fmt(p.surface / 100, 1)} km² · établi le ${date} · outil conçu par Césarion Djonel</p>
       <div class="actions"><button id="imprimer">Imprimer ou enregistrer en PDF</button>
       <button id="csv-actions">Actions (CSV pour Excel)</button>${a ? '<button id="csv-accidents">Accidents (CSV)</button>' : ""}${d.ecoles && d.ecoles.length ? '<button id="csv-ecoles">Écoles (CSV)</button>' : ""}</div>`);
 
