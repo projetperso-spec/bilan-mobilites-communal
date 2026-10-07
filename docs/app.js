@@ -46,6 +46,7 @@
   const $ = (s) => document.querySelector(s);
   const fmt = (v, d = 0) => (v == null || !isFinite(v)) ? "n. d." : v.toLocaleString("fr-FR", { minimumFractionDigits: d, maximumFractionDigits: d });
   const signe = (v, d = 1) => (v == null || !isFinite(v)) ? "n. d." : (v > 0 ? "+" : v < 0 ? "−" : "") + fmt(Math.abs(v), d);
+  const dateFr = (iso) => new Date(iso + "T12:00:00").toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
   const km = (m) => fmt(m / 1000, 1) + " km";
   const pct = (a, b, d = 0) => (b > 0 ? fmt(100 * a / b, d) + " %" : "n. d.");
   const pluriel = (n, mot, mots) => fmt(n) + " " + (n > 1 ? (mots || mot + "s") : mot);
@@ -703,7 +704,7 @@
     h.push(`<h2>${echappe(p.nom)}</h2>
       <p class="sous-titre">Bilan des mobilités douces · ${fmt(p.population)} habitants · ${fmt(p.surface / 100, 1)} km² · établi le ${date} · outil conçu par Césarion Djonel</p>
       <div class="actions"><button id="imprimer">Imprimer ou enregistrer en PDF</button>
-      <button id="csv-actions">Actions (CSV pour Excel)</button>${a ? '<button id="csv-accidents">Accidents (CSV)</button>' : ""}${d.ecoles && d.ecoles.length ? '<button id="csv-ecoles">Écoles (CSV)</button>' : ""}</div>`);
+      <button id="csv-actions">Actions (CSV pour Excel)</button>${d.releve ? '<button id="actualiser" title="Interroge OpenStreetMap en direct : dix secondes à quelques minutes">Actualiser le réseau</button>' : ""}${a ? '<button id="csv-accidents">Accidents (CSV)</button>' : ""}${d.ecoles && d.ecoles.length ? '<button id="csv-ecoles">Écoles (CSV)</button>' : ""}</div>`);
 
     // Synthèse
     const s = [];
@@ -791,12 +792,13 @@
     }
 
     h.push(`<h3>Lire ces résultats</h3>
-      <p class="note">Le réseau, le stationnement et les limitations de vitesse viennent d'OpenStreetMap, carte collaborative : ce qui n'y est pas dessiné n'est pas compté, et une rue à 30 km/h non renseignée apparaît comme non apaisée. Chaque constat est à vérifier sur le terrain avant d'engager une dépense.</p>
+      <p class="note">${d.releve ? "Réseau relevé dans OpenStreetMap le " + dateFr(d.releve) + " ; le bouton « Actualiser le réseau » le redemande en direct. " : ""}Le réseau, le stationnement et les limitations de vitesse viennent d'OpenStreetMap, carte collaborative : ce qui n'y est pas dessiné n'est pas compté, et une rue à 30 km/h non renseignée apparaît comme non apaisée. Chaque constat est à vérifier sur le terrain avant d'engager une dépense.</p>
       <p class="note">Deux tronçons cyclables séparés de moins de ${TOLERANCE_CONTINUITE_M} m sont considérés comme continus (traversée d'un carrefour). Une fin d'aménagement n'est comptée comme coupure que si elle débouche sur une voie sans aménagement et non limitée à 30 km/h. Les distances sont à vol d'oiseau. La population proche est estimée depuis le centre des carreaux de 200 m de l'INSEE (2019).</p>
       <p class="note">L'outil ne connaît pas le contenu du plan de mobilités de la commune : il mesure l'état du territoire et son évolution, à rapprocher ensuite des engagements pris.</p>`);
     $("#fiche-contenu").innerHTML = h.join("");
 
     $("#imprimer").onclick = () => window.print();
+    if ($("#actualiser")) $("#actualiser").onclick = () => lancer(d.code, true);
     $("#csv-actions").onclick = () => telecharger(`actions_mobilites_${p.code}.csv`,
       [["priorite", "theme", "lieu", "constat", "proposition", "partenaire", "longitude", "latitude", "cout_estime", "echeance", "pilote"]]
         .concat(actions.map((x) => [x.priorite, x.theme, x.lieu, x.constat, x.proposition, x.partenaire, nombre(x.lon, 5), nombre(x.lat, 5), "", "", ""])));
@@ -810,7 +812,7 @@
 
   // ---------- Enchaînement ----------
   let numero = 0;
-  async function lancer(code) {
+  async function lancer(code, direct) {
     const moi = ++numero;
     const perime = () => moi !== numero;
     etapes.clear();
@@ -842,30 +844,38 @@
       const pEcoles = chargerEcoles(code, dep, R).catch((e) => { console.error(e); return null; });
       const pModes = chargerModes(code, dep).catch((e) => { console.error(e); return null; });
 
+      // Relevé enregistré (R/05_releves.R) s'il existe : affichage immédiat. Sinon, ou sur demande, appel en direct.
+      const releve = direct ? null : await fetch(`data/reseau/${code}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+      if (perime()) return;
+      const cyclablesDe = (elements) => longueursParType(lireVoies(elements, R, commune, (t) => { const type = typeCyclable(t); return type ? { type } : null; }));
       let osm;
-      try { osm = await overpass(requeteActuelle(bb), OVERPASS, 60, 6); }
-      catch (e) {
-        if (perime()) return;
-        etape("osm", "Les serveurs publics d'OpenStreetMap sont saturés (" + e.message + ").", "ko");
-        $("#fiche-contenu").innerHTML = '<p>Le bilan ne peut pas être établi sans le réseau. Les serveurs se libèrent en général en une ou deux minutes.</p><div class="actions"><button id="reessayer">Réessayer</button></div>';
-        $("#reessayer").onclick = () => lancer(code);
-        d.erreurs.osm = e.message; d.termine = true; return;
+      if (releve) { osm = releve.actuel; d.releve = releve.date; }
+      else {
+        try { osm = await overpass(requeteActuelle(bb), OVERPASS, 60, 6); }
+        catch (e) {
+          if (perime()) return;
+          etape("osm", "Les serveurs publics d'OpenStreetMap sont saturés (" + e.message + ").", "ko");
+          $("#fiche-contenu").innerHTML = '<p>Le bilan ne peut pas être établi sans le réseau. Les serveurs se libèrent en général en une ou deux minutes.</p><div class="actions"><button id="reessayer">Réessayer</button></div>';
+          $("#reessayer").onclick = () => lancer(code, direct);
+          d.erreurs.osm = e.message; d.termine = true; return;
+        }
       }
       if (perime()) return;
       d.reseau = analyserReseau(osm, R, commune);
       d.lieux = analyserLieux(osm, R, commune);
-      etape("osm", `Réseau, stationnement et arrêts (${km(d.reseau.longueurs.total)} d'aménagements cyclables)`, "ok");
+      etape("osm", `Réseau, stationnement et arrêts (${km(d.reseau.longueurs.total)} d'aménagements cyclables${releve ? ", relevé du " + dateFr(releve.date) : ""})`, "ok");
 
-      // Réseau de 2020 : long (une à deux minutes), lancé sans bloquer le reste.
-      overpass(requeteHistorique(bb), OVERPASS_HISTOIRE, 180, 20).then((ancien) => {
-        const voies = lireVoies(ancien.elements, R, commune, (t) => { const type = typeCyclable(t); return type ? { type } : null; });
-        d.histoire = longueursParType(voies);
-      }).catch((e) => { console.error(e); d.histoire = null; d.erreurs.histoire = e.message; }).then(() => {
-        if (perime()) return;
-        const el = $("#evolution");
-        if (el) el.outerHTML = texteEvolution(d);
-        d.histoireTerminee = true;
-      });
+      if (releve && releve.histoire) { d.histoire = cyclablesDe(releve.histoire.elements); d.histoireTerminee = true; }
+      else {
+        // Réseau de 2020 : long (une à trois minutes), lancé sans bloquer le reste.
+        overpass(requeteHistorique(bb), OVERPASS_HISTOIRE, 180, 20).then((ancien) => { d.histoire = cyclablesDe(ancien.elements); })
+          .catch((e) => { console.error(e); d.histoire = null; d.erreurs.histoire = e.message; }).then(() => {
+            if (perime()) return;
+            const el = $("#evolution");
+            if (el) el.outerHTML = texteEvolution(d);
+            d.histoireTerminee = true;
+          });
+      }
 
       d.accidents = await pAccidents;
       if (perime()) return;

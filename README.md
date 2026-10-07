@@ -39,6 +39,7 @@ Les fichiers par département de `docs/data/` sont produits par quatre scripts R
 | `R/02_equipements.R` | Base permanente des équipements 2025 (INSEE), format parquet | `data-brut/BPE25.parquet`, ou celui du projet `diagnostic-climat-communal` |
 | `R/03_parts_modales.R` | Base « Caractéristiques de l'emploi en 2022 », communes (INSEE) | `data-brut/base-cc-caract_emp-2022.CSV` |
 | `R/04_population.R` | Carreaux déjà préparés par le projet voisin `diagnostic-climat-communal` | `../diagnostic-climat-communal/docs/data/carreaux/` |
+| `R/05_releves.R` | Aucune : interroge OpenStreetMap | Relevés enregistrés du réseau (aujourd'hui et 2020) pour les communes d'exemple, dans `docs/data/reseau/`. À relancer pour les rafraîchir ou en ajouter : `Rscript R/05_releves.R 92024` |
 
 ## Choix de méthode
 
@@ -58,7 +59,7 @@ Tous ces seuils sont regroupés en tête de `docs/app.js`.
 - En 2016, l'INSEE ne séparait pas le vélo des deux-roues motorisés : l'évolution de la part du vélo seul n'est pas calculable.
 - Les distances sont à vol d'oiseau. La fréquence des lignes de transport n'est pas analysée. Les coûts ne sont pas estimés.
 - L'outil ne connaît pas le contenu du plan de la commune : il mesure l'état du territoire, à rapprocher ensuite des engagements pris.
-- Le réseau est demandé à des serveurs publics d'OpenStreetMap, parfois saturés : le site réessaie seul, puis propose un bouton « Réessayer ». La comparaison avec 2020 prend une à trois minutes et peut échouer.
+- Pour les communes d'exemple, le site affiche aussitôt un relevé enregistré du réseau, daté dans le bilan ; le bouton « Actualiser le réseau » le redemande en direct. Pour les autres communes, le réseau est demandé à des serveurs publics d'OpenStreetMap, parfois saturés : le site réessaie seul, puis propose un bouton « Réessayer ». La comparaison avec 2020 prend alors une à trois minutes et peut échouer.
 - Paris, Lyon et Marseille entières dépassent ce que ces serveurs acceptent en une demande.
 
 ## Vérifications faites
